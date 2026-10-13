@@ -1,0 +1,158 @@
+[Cast]
+Title="Gosma Experimental Vai à Cidade"
+06="Você, um Monstro de Gelatina Criado em Laboratório"
+05="Você, um Cachorro de Gelatina Criado em Laboratório"
+12="Simona, uma Especialista em Genética"
+
+[Chapter1]
+101="Rarrr!"
+101Mug="06r"
+102="..Tem algo aí? Tem algo vivo aí embaixo?"
+102Mug="12r"
+103="Rarrrr!"
+103Mug="06r"
+104="Incrível! Funcionou! Bom — não totalmente. Eu estava tentando sintetizar um filhote de cachorro mas, ainda assim, isso é incrível!"
+104Mug="12r"
+105="Eu tinha certeza que você era material orgânico sem vida que nem as outras tentativas..mas você está vivo!"
+105Mug="12r"
+106="Temos que te tirar daí — esse é o sistema de descarte em que você está. Se mexa, meu Amigo Gelatinoso Frankensteiniano! Se mexa!"
+106Mug="12r"
+107="Rarrr!!"
+107Mug="06r"
+
+[Chapter6]
+101="Ai, meu Deus. Isso é terrível! Os sistemas de descarte têm um bloqueio genético em você."
+101Mug="12r"
+102="Rarrr?"
+102Mug="06r"
+103="Eles são totalmente automatizados e não vão descansar até que cada molécula sua seja vaporizada. Não consigo lembrar por que eu os programei assim."
+103Mug="12r"
+104="Você não pode deixar eles fazerem isso — você é prova viva do meu progresso! Suba até o último andar!"
+104Mug="12r"
+
+[Chapter30]
+101="Não acredito que estou te olhando, Amigo-Gelatina. Bom, não estou realmente te olhando, não pessoalmente, claro."
+101Mug="12r"
+102="Estou te olhando num monitor numa instalação a várias centenas de quilômetros de distância mas, minha nossa, você é um espetáculo!"
+102Mug="12r"
+103="Você é um belo espécime de gelatina, mesmo entre os mais altos padrões gelatinosos!"
+103Mug="12r"
+104=" :-) "
+104Mug="06r"
+
+
+[Chapter40]
+101="Ainda não acredito que você existe. Quer dizer, claro, Gelatina era um subproduto esperado da síntese de filhote...em teoria..."
+101Mug="12r"
+102="E claro, uma tentativa resultou numa mistura de orelhas de filhote e corpo de gelatina...outra teve o distinto odor de vira-lata, mas aquelas eram, infelizmente, só gosma sem vida!"
+102Mug="12r"
+103="Eu nunca teria pensado que conseguiria criar gelatina senciente, porém. Você é praticamente uma nova espécie!"
+103Mug="12r"
+104="Rarr?"
+104Mug="06r"
+
+[Chapter50]
+101="Tome cuidado pra não passar tempo demais exposto ao ar externo, meu Amigo-Gelatina."
+101Mug="12r"
+102="Alturas assim induzem sensações de vertigem em muitas pessoas, sem falar que o ar mais rarefeito pode levar a falta de ar, exaustão e náusea."
+102Mug="12r"
+103="Ah, e o ar seco pode fazer sua carne gelatinosa explodir."
+103Mug="12r"
+104="Então seja rápido, amigo!"
+104Mug="12r"
+
+
+[Chapter60]
+101="Você fez um ótimo trabalho evitando o sistema de descarte...mas ele parece estar ficando cada vez mais agressivo."
+101Mug="12r"
+102="Deve haver um bom motivo pra esse algoritmo de escalonamento. O manual de instruções está em francês, porém. Eu estava passando por uma fase quando o escrevi."
+102Mug="12r"
+103="Aguenta firme, vou ver se consigo desligar remotamente."
+103Mug="12r"
+
+[Chapter65]
+101="Encontrei os fatores de Escalonamento de Dificuldade do Sistema de Descarte. Estão fora do meu controle, porém."
+101Mug="12r"
+102="Porém, SUAS ações importam. Subir a Torre, pegar certos emblemas, e matar hugbots tudo isso aumenta a dificuldade."
+102Mug="12r"
+103="Esse é um algoritmo bem anticientífico. Eu me pergunto por que o escrevi assim."
+103Mug="12r"
+
+[Chapter70]
+101="Uma criação de gelatina adequada realmente devia ter um nome adequado, você não acha?"
+101Mug="12r"
+102="Vamos te chamar de Petri. Petri, Experimento de Gelatina #5671. Ter um nome te faz sentir mais único agora?"
+102Mug="12r"
+103="Rarrrr?"
+103Mug="06r"
+
+
+[Chapter100]
+101="Você está se aproximando do Núcleo do Sistema de Descarte. Continue avançando, meu companheiro gelatinoso!"
+101Mug="12r"
+102="Rarr!"
+102Mug="06r"
+
+
+[Chapter120]
+101="Lá na frente está o Cérebro Central do Sistema de Descarte. Destrua-o e a Torre vai perder o bloqueio genético em você."
+101Mug="12r"
+102="Rarr!"
+102Mug="06r"
+
+[Chapter150]
+101="Fantástico. Agora entre naquele último tubo de saída. É um desatomizador. Posso aprender tanto com sua assinatura de desintegração!"
+101Mug="12r"
+102="É muito mais eficiente que vaporização, fora a dor torturante."
+102Mug="12r"
+103="Rarr?"
+103Mug="06r"
+104="Sem tempo a perder! Vamos nos mexer. Rápido, rápido."
+104Mug="12r"
+
+
+[Chapter200]
+101="Você está tentando escapar? Não podemos permitir isso. Você foi feito pra eu te desmontar pra que eu possa aperfeiçoar o processo até alcançar a 'síntese de filhote'"
+101Mug="12r"
+102="Rarr!"
+102Mug="06r"
+103="Vamos lá, nem sempre é ruim conhecer seu criador. Ou, pelo menos, o robô de dissecação do seu criador."
+103Mug="12r"
+104="Na verdade, só as partes mais importantes vão conhecer o criador. O resto será incinerado. É bem organizado."
+104Mug="12r"
+105="Rarr!!"
+105Mug="06r"
+
+
+[Chapter300]
+101="O que você está fazendo? Você não devia estar naquele tubo aí. Você pode bagunçar bastante coisa aí."
+101Mug="12r"
+102="Rarr!!"
+102Mug="06r"
+
+[Chapter350]
+101="Nãããão! Minha linda Torre! Você a destruiu! Que sorte que estou a várias centenas de quilômetros de distância numa instalação remota."
+101Mug="12r"
+102="Rarrrrr!"
+102Mug="06r"
+103="Ah, você encontrou uma cápsula de escape. Espera....o que está acontecendo com você..?"
+103Mug="12r"
+104="Raaarrrr---Rarrrr-----gloooooop! ....Au!"
+104Mug="06r"
+105="Au! Au!"
+105Mug="05g"
+106="Minha nossa! Seu exterior de gelatina não passava de um casulo! Você só estava gestando na sua verdadeira forma de.... filhote de cachorro!"
+106Mug="12r"
+107="Nós conseguimos! Alcançamos a síntese de filhote! Agora vem pra minha outra instalação pra dissecação pra vermos como fizemos isso."
+107Mug="12r"
+
+
+
+[Chapter900]
+101="Você obedientemente se permite ser desatomizado, permitindo que a cientista Simona eventualmente fabrique o filhote perfeito. Ela leva seu processo ao mercado e se torna repugnantemente rica. Porém, clubes caninos ao redor do mundo logo sentem sua esnobação ameaçada e contratam um assassino profissional. Simona é enterrada no interior de Nova York com sua gata."
+101Mug="06h"
+
+[Chapter950]
+101="Com seu exterior canino recém-descoberto, você decide que a última coisa que quer fazer é voltar pra sua criadora e deixá-la te dissecar. Você entra pra um circo itinerante, se anunciando como 'O Filhote de Seis Bilhões de Dólares'. À noite você combate o crime e faz trabalho voluntário num refeitório social."
+101Mug="06h"
+

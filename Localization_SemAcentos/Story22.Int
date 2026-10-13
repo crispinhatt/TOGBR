@@ -1,0 +1,172 @@
+[Cast]
+Title="Negocio de Palhaco"
+11="Voce, uma equipe de profissionais disfuncionais"
+13="Voce, uma equipe de profissionais disfuncionais"
+14="Voce, uma equipe de profissionais disfuncionais"
+12="Pinky, um Palhaco Instrutor de Integracao de Equipe"
+
+[Chapter1]
+101="Ei, criancas! Bem-vindos ao Circuito Profissional de Obstaculos de Integracao de Equipe do Pinky!"
+101Mug="12g"
+102="Serio? Um palhaco? E eles esperam que a gente leve isso a serio?"
+102Mug="14r"
+103="Qual e, gente, o chefe nao teria mandado a gente pra esse retiro se nao fosse importante."
+103Mug="14g"
+104="Tanto faz. So estou aqui porque prometeram almoco gratis."
+104Mug="13g"
+105="Facam o seu melhor pra trabalhar em equipe e sobreviver ao circuito desafiador e emocionante a frente! Voces conseguem!"
+105Mug="12g"
+
+[Chapter6]
+101="Uau..aquilo pareceu realmente muito perigoso."
+101Mug="14r"
+102="E, pareceu...mas tenho certeza que e so uma ilusao. Provavelmente tem um monte de coisa de seguranca rolando nos bastidores."
+102Mug="14g"
+103="Num lugar barato desses? Hah! Por que voce acha que a gente assinou aqueles termos de isencao? Ei Palhaco! Esse circuito e realmente perigoso?"
+103Mug="13g"
+104="Ei, criancas! Perigo e um otimo incentivo pra ajudar voces a trabalharem juntos! Usem o que aprenderem aqui pra colaborar melhor no escritorio!"
+104Mug="12g"
+105="..."
+105Mug="14g"
+
+[Chapter30]
+101="Eu realmente espero que essa coisa termine ate as duas. Preciso levar meu carro pra vistoria."
+101Mug="14r"
+102="Voce acha que e tarde demais pra desistir?"
+102Mug="14g"
+103="Vamos so acabar logo com isso. Quanto menos eu tiver que falar com voces, nerds, melhor."
+103Mug="13g"
+104="Ei criancas! Lembrem-se, quanto menos voces pensarem como equipe, maior a chance de serem incinerados por uma fornalha de 4000 graus!"
+104Mug="12g"
+
+
+[Chapter40]
+101="Ei, Clark. Esse lugar e uma bagunca. Parece igualzinho a sua mesa."
+101Mug="14g"
+102="Ha. Ha. Devo fazer uma piada sobre como voce tem parafuso a menos pra funcionar direito?"
+102Mug="13g"
+103="Ei, criancas! Lembrem-se, so porque a provocacao brincalhona e retribuida nao significa que e bem-vinda. Sejam respeitosos!"
+103Mug="12g"
+104="So pode ser brincadeira. Agora tambem nos inscrevemos num treinamento de assedio?"
+104Mug="14r"
+
+[Chapter50]
+101="Ei, criancas! Bem-vindos as muralhas. Nao caiam das sacadas! Uma equipe feliz vai levar voces por qualquer desafio!"
+101Mug="12g"
+102="O que uma equipe feliz tem a ver com nao cair de uma sacada?"
+102Mug="14r"
+103="Voce acha que nosso seguro cobre desmembramento por serras roboticas?"
+103Mug="14g"
+104="Nosso seguro nem cobre corte de papel. Eu sei, ja tentei fazer um sinistro."
+104Mug="13g"
+105="Droga."
+105Mug="14g"
+
+
+[Chapter60]
+101="Ei, criancas! Esse andar deve parecer com casa! Tem toneladas de aderecos empresariais! Tipo computadores! E fios! E, uh, paredes!"
+101Mug="12g"
+102="Voce acha que ele sabe que a gente nao e crianca de verdade?"
+102Mug="14r"
+103="Acho que nao importa. Li em algum lugar que palhacos perdem a habilidade de falar com adultos depois de seis meses de palhacagem."
+103Mug="14g"
+104="A proposito, se eu morrer durante esse retiro motivacional, avisa o chefe que eu pedi demissao."
+104Mug="13g"
+
+
+[Chapter65]
+101="Tenho bastante certeza que vamos todos morrer aqui dentro. Esse palhaco e um assassino lunatico."
+101Mug="14r"
+102="Ei, palhaco, alguem ja terminou esse curso de treinamento vivo?"
+102Mug="13g"
+103="Ei, criancas! A resposta pra sua pergunta e: ''uma equipe feliz conhece tanto seus pontos fortes quanto suas alergias alimentares!''"
+103Mug="12g"
+104="Acho que isso e um nao."
+104Mug="14g"
+
+[Chapter70]
+101="Ei, criancas! Facam o possivel pra navegar juntos pelo armazem assssssustador! Nao se percam! Mantenham-se positivos!"
+101Mug="12g"
+102="Estrangular aquele palhaco agora foi adicionado a minha lista de desejos."
+102Mug="13g"
+103="Qual e, Clark. Bem que podia aproveitar o melhor disso."
+103Mug="14g"
+104="Voce tem uma queda por palhacos ou algo assim, Senhorita Animada?"
+104Mug="13g"
+105="Voce pode reportar isso ao RH, Cindy. Nao aceita bobagem desse idiota."
+105Mug="14r"
+
+
+[Chapter100]
+101="Ei, criancas! Voces chegaram ao ultimo andar! Pouquissimas equipes chegam tao longe!"
+101Mug="12g"
+102="Quantos profissionais voce acha que esse esquisito ja matou aqui dentro?"
+102Mug="14r"
+103="Ei, criancas! Vejo que perguntaram sobre minha contagem de mortes. Isso nao e importante. O que e importante e que palhacos odeiam profissionais."
+103Mug="12g"
+104="Acho que nao gosto das nossas chances."
+104Mug="14g"
+105="Ei, criancas. Nao fiquem tristes. Virem esse bico de cabeca pra baixo! E depois morram uma morte miseravel! Mas nao esquecam de se divertir!"
+105Mug="12g"
+
+[Chapter120]
+101="Ei, criancas! Voces chegaram ao teste final! Espero que estejam prontos pra realmente se unirem como equipe."
+101Mug="12g"
+102="Se nao estiverem, bom, voces provavelmente vao ser cortados em pedacos por lasers. Ou explodidos. Ou mortos a bolas de espinho. Aprender nao e divertido?"
+102Mug="12g"
+103="Se sairmos dessa vivos, vou entregar meu aviso previo amanha."
+103Mug="14r"
+
+[Chapter150]
+101="Conseguimos!"
+101Mug="14g"
+102="Gracas a Deus. Vou ter pesadelos com isso por anos."
+102Mug="13g"
+103="Ei, criancas! Vejo que agora estao trabalhando juntos como uma unidade coesa. Parabens! Voces passaram no treinamento!"
+103Mug="12g"
+104="Voces estao livres pra sair pelo mundo e espalhar a alegria do trabalho em equipe!"
+104Mug="12g"
+105="E lembrem-se, criancas, quando a vida te der bananas, abra um retiro letal de sobrevivencia/integracao de equipe com fins lucrativos!"
+105Mug="12g"
+106="O chefe realmente pagou por isso?"
+106Mug="14r"
+107="Vamos sair daqui antes que a gente seja assassinado em serie."
+107Mug="13g"
+
+
+[Chapter200]
+101="A gente nao pode simplesmente deixar aquele palhaco insano no controle. Quantos futuros profissionais ele vai matar?"
+101Mug="14g"
+102="Temos que impedi-lo."
+102Mug="14r"
+103="Pela primeira vez estamos de acordo."
+103Mug="13g"
+104="Ei Criancas! Vejo que chegaram a um consenso e decidiram tentar me impedir! Otimo Trabalho em Equipe! Preparem-se pra uma morte violenta!"
+104Mug="12g"
+
+[Chapter300]
+101="Conseguimos! Ninguem mais vai ter que lidar com aquele palhaco insano de novo."
+101Mug="14r"
+102="Bom trabalho, equipe!"
+102Mug="14g"
+103="Alguem devia me dar uma medalha."
+103Mug="13g"
+
+
+[Chapter350]
+101="Ei Criancas! Lembrem-se, nao sao os sapatos que rangem por fora que importam, mas os sapatos que rangem por dentro que contam."
+101Mug="12g"
+102="Ah nao! Ele sobreviveu!"
+102Mug="14g"
+103="Corram! Ele e imparavel!"
+103Mug="13g"
+
+
+[Chapter900]
+101="Voce e seus colegas de trabalho voltam ao trabalho no dia seguinte e tentam contar aos colegas de escritorio sobre o retiro maluco. Infelizmente, ninguem acredita em voces. Voce passa o resto dos seus dias em terapia."
+101Mug="06h"
+
+[Chapter950]
+101="Embora voce destrua a misteriosa Torre, e ponha fim ao retiro de treinamento do vil Palhaco, aquele rosto empoado ainda te assombra sem cessar. Talvez, o tempo todo, nao houvesse palhaco nenhum. Talvez, o tempo todo, o palhaco fosse voce. Pois nao temos todos um palhaco interior, so esperando pra torturar nossos colegas com trocadilhos, pegadinhas e bolas de espinho?"
+101Mug="06h"
+

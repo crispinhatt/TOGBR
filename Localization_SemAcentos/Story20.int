@@ -1,0 +1,140 @@
+[Cast]
+Title="Willobee Cross e Estacao"
+07="Voce, Wanda Magoo, Octogenaria"
+09="I.A. ToG H1-9333.0. Versao 3.0."
+
+[Chapter1]
+101="Alo? Tem alguem em casa?"
+101Mug="07g"
+102="Isso e a Reciclagem Willobee Cross e Estacao? Tenho uma sacola grande de reciclagem aqui, pronta pra entregar. Principalmente latas de Refrigerante Cream Soda."
+102Mug="07g"
+103="Alerta! Alerta! Alerta de Intruso!"
+103Mug="09r"
+104="Ah, Oi! Voce deve ser o Desmond. A Nancy do Clube de Esmaltacao de Ceramica me disse pra te procurar."
+104Mug="07g"
+105="Alerta! Alerta! Ativando Contramedidas contra Intrusos."
+105Mug="09r"
+106="O que? Minha audicao nao e mais o que era. Voce me disse pra entregar isso la em cima? Ja vou!"
+106Mug="07g"
+
+
+[Chapter6]
+101="Voce sabe que tem um problema de sucata aqui embaixo? Sucata por todo lado! E parece meio rabugenta, tambem!"
+101Mug="07g"
+102="Alerta! Alerta! Intruso passou pelo Saguao. Escalando Contramedidas. "
+102Mug="09r"
+
+[Chapter30]
+101="Alerta! Alerta! Ativando Desmotivacao Conversacional."
+101Mug="09r"
+102="Voce nao tem um jeito mais rapido de subir, Desmond? Minhas pernas velhas ficam cansadas com tanto desvio."
+102Mug="07g"
+103="Intruso, sua morte certa esta adiante."
+103Mug="09r"
+104="Mas nao me subestima ainda, jovem. Eu sou tao ativa quanto uma franguinha na maior parte do tempo."
+104Mug="07g"
+
+[Chapter40]
+101="Alerta! Alerta! Ativando Desmotivacao Conversacional."
+101Mug="09r"
+102="O que foi isso, Desmond? Voce nao pode reembolsar o deposito de moedas? Tudo bem, vou ficar feliz so de me livrar das latas."
+102Mug="07g"
+103="Intruso, se voce continuar certamente vai perecer."
+103Mug="09r"
+104="Estou correndo pra la o mais rapido que minhas pernas velhas conseguem mancar!"
+104Mug="07g"
+
+[Chapter50]
+101="Minha nossa, por que esses elevadores estao todos tao espacados um do outro?"
+101Mug="07g"
+102="Essa torre foi construida de acordo com a Especificacao FCRIA atual e foi Projetada pelo Arquiteto Mike M. Despot."
+102Mug="09r"
+103="Tambem precisa de um toque feminino, nao acha?"
+103Mug="07g"
+
+[Chapter60]
+101="Intruso! Contramedidas de grande porte serao ativadas em breve. Va embora se valoriza sua saude."
+101Mug="09r"
+102="Bom, eu sempre digo 'Se voce nao tem nada de bom pra dizer, nao diga nada', Desmond."
+102Mug="07g"
+103="Essa nao e uma resposta relevante a minha declaracao anterior. Nao computa."
+103Mug="09r"
+
+
+[Chapter65]
+101="Estou vagando por aqui ha uma eternidade e nao passei por um unico banheiro feminino. Alem disso, nao vi nenhuma rampa de acessibilidade."
+101Mug="07g"
+102="Eu nao fui construido pra acomodar deficiencia e necessidades especiais. Fui construido pra destruir civilizacoes inteiras."
+102Mug="09r"
+
+[Chapter70]
+101="Intruso, aqui e a I.A. ToG H1-9333.0. Versao 3.0. Essa I.A. e programada pra destruir todos os intrusos. Este e seu aviso final."
+101Mug="09r"
+102="Desmond, voce parece um bebe balbuciando. Sua mae nunca te disse pra articular direito?"
+102Mug="07g"
+103="Eu nao tenho mae. Fui construido em Delaware."
+103Mug="09r"
+104="A Nancy la do clube de Esmaltacao de Ceramica me contou tudo sobre voce. Ela disse que voce era desse tipo de pessoa."
+104Mug="07g"
+105="O que? Que tipo de pessoa eu sou?"
+105Mug="09r"
+
+
+[Chapter100]
+101="Intruso! Esse e seu aviso final final. Dessa vez de verdade!"
+101Mug="09r"
+102="Desmond, quando foi a ultima vez que voce tirou o po?"
+102Mug="07g"
+103="Quem e esse Desmond?"
+103Mug="09r"
+
+[Chapter120]
+101="Intruso! Esse e o aviso final final! Serio, va embora."
+101Mug="09r"
+102="O que, Desmond? O centro de entrega de reciclagem e logo ali na frente? Otimo!"
+102Mug="07g"
+103="Para de me chamar de Desmond. Eu nao sou ele."
+103Mug="09r"
+
+
+[Chapter150]
+101="Desmond, voce vai usar minhas latas de aluminio recicladas so pra construir mais robos de sucata? Eu nao posso tolerar tamanha bobagem."
+101Mug="07g"
+102="Se for assim, vou simplesmente ter que pegar minhas latas e te desejar um 'Bom Dia'."
+102Mug="07g"
+103="Sim! Sim! E exatamente isso que eu vou fazer com suas latas. Voce vai embora agora?"
+103Mug="09r"
+
+[Chapter200]
+101="Parece que estou chegando perto, finalmente!"
+101Mug="07g"
+102="Alerta! Alerta! Ativando medidas Uber Anti-Intruso. Todos os sistemas em alerta maximo. Destruam a mulher louca!"
+102Mug="09r"
+
+
+[Chapter300]
+101="Aquela era minha Contramedida contra Intrusos mais forte. Nao tenho mais nada pra te impedir."
+101Mug="09r"
+102="O que? Deixar as latas aqui? Ja nao era sem tempo. Carregar elas o dia todo era um saco!"
+102Mug="07g"
+103="Voce e uma Vovo Assassina imparavel."
+103Mug="09r"
+104="Voce disse alguma coisa, Desmond?"
+104Mug="07g"
+
+
+[Chapter350]
+101="Ufa! Ainda bem que eu estava com meu jet pack. Aquele lugar todo nao era muito solido estruturalmente mesmo. Deviam ter reformado ha muito tempo."
+101Mug="07g"
+102="Agora, vou entregar todas essas fitas VHS alugadas!"
+102Mug="07g"
+
+
+[Chapter900]
+101="Tendo desistido de reciclar suas latas de refrigerante cream soda, voce volta pra casa se sentindo derrotada. A Nancy la do Clube de Esmaltacao de Ceramica vai ouvir falar disso, pode apostar. Essa e a ultima vez que voce segue um conselho DELA sobre alguma coisa."
+101Mug="06h"
+
+[Chapter950]
+101="Com seus afazeres do dia quase completos, voce comeca a pensar no que sua noite vai envolver. Cha? Reprises de 'Costa a Costa'? Talvez ate um pouco de bridge virtual no computador. Sim, isso parece delicioso. Voce bem que podia ter um pouco de emocao."
+101Mug="06h"
+

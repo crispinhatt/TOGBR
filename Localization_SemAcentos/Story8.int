@@ -1,0 +1,174 @@
+[Cast]
+05="Voce, Hot Doggity Dig, Cao Agente Secreto"
+09="Dr. Vile Von Villian"
+04="Comandante Abatoire"
+08="A Filha do Presidente"
+
+[Chapter1]
+101="Agente Doggity, cambio."
+101Mug="04b"
+102="Estou aqui, Comandante. Qual e minha missao?"
+102Mug="05g"
+103="A filha do Presidente foi sequestrada pelo nefasto Dr. Vile Von Villian. Resgate-a e saia de la."
+103Mug="04b"
+104="Deve ser moleza pra um vira-lata agente secreto como eu."
+104Mug="05g"
+
+[Chapter6]
+101="Comandante. Andar 1 limpo. Alguma informacao sobre o paradeiro da filha do Presidente?"
+101Mug="05g"
+102="Os escaneamentos mostram que ela esta em algum lugar perto do topo. E dificil ter certeza. Boa sorte."
+102Mug="04b"
+
+[Chapter30]
+101="O que voce pode me dizer sobre esse Dr. Vile, Comandante?"
+101Mug="05g"
+102="Dr. Vile e o lider do grupo de quimicos gangsters conhecido como Frascos do Vile. Ele escapou da captura por quase trinta anos."
+102Mug="04b"
+103="Essa jogada de sequestrar a filha do Presidente nao e do feitio dele. Normalmente ele nunca se envolve diretamente."
+103Mug="04b"
+
+
+[Chapter40]
+101="Entao quem e esse Dr. Vile?"
+101Mug="05g"
+102="Ele e o pior dos piores, agente. Assassinato em massa. Espionagem corporativa. Photoshop malfeito. Nao importa o que seja, ele e culpado."
+102Mug="04b"
+103="Estamos cacando ele ha decadas. Ele deve estar ficando desesperado. Por que outro motivo ele sequestraria descaradamente a filha do Presidente?"
+103Mug="04b"
+
+[Chapter50]
+101="Por que a filha do Presidente? O que eles querem?"
+101Mug="05g"
+102="Ela pode ser uma moeda de troca, mas suspeitamos de outra coisa."
+102Mug="04b"
+103="A filha do Presidente e pesquisadora-chefe nos Nucleos do Reator de Superlusao."
+103Mug="04b"
+104="O que e o Nucleo do Reator de Superlusao?"
+104Mug="05g"
+105="E um dispositivo teorico capaz de energizar o universo inteiro. Ou, nas maos erradas, destrui-lo. Teoricamente, claro."
+105Mug="04b"
+
+[Chapter60]
+101="Temos novas informacoes, Agente Doggity."
+101Mug="04b"
+102="Dr. Vile e apenas um subcontratado da agencia das sombras conhecida como M.E.A.N.I.E. Familiar?"
+102Mug="04b"
+103="...M.E.A.N.I.E..Eu devia ter adivinhado.. "
+103Mug="05g"
+104="Sim..a mesma agencia maligna das sombras responsavel pela morte do seu parceiro, o Delegado Don Joe."
+104Mug="04b"
+105="...Delegado Don Joe..Eu vou vingar sua morte!"
+105Mug="05g"
+
+[Chapter65]
+101="Ola ai, intruso.."
+101Mug="09g"
+102="Dr. Vile! Nos entregue a Filha do Presidente!"
+102Mug="05g"
+103="Acho que nao."
+103Mug="09g"
+104="Bom, entao, eu vou subir ai pra te derrubar."
+104Mug="05g
+105="O elevador esta bem na sua frente, meu adversario canino."
+105Mug="09g
+
+[Chapter70]
+101="Por que o Dr. Vile viria pra ca, pra essa fortaleza-torre remota e estranhamente construida?"
+101Mug="05g"
+102="Nao temos certeza, mas suspeitamos que seja a posicao geologica unica da torre."
+102Mug="04b"
+103="Aquela torre esta posicionada precisamente acima do unico ponto na Terra onde existe um fenomeno conhecido como Atracao de Planck. Foi descoberto so recentemente."
+103Mug="04b"
+104="Pela Filha do Presidente, nada menos, no trabalho de pos-graduacao dela."
+104Mug="04b"
+
+[Chapter100]
+101="Certo, Dr. Vile. Onde voce esta?"
+101Mug="05g"
+102="Voce e o melhor que eles conseguiram mandar contra mim? Um docinho de cachorrinho?"
+102Mug="09g"
+103="Esse docinho de cachorrinho vai te mandar embora com o rabo entre as pernas."
+103Mug="05g"
+104="Ah. Estou terrivelmente apavorado. Absolutamente tremendo de medo."
+104Mug="09g"
+
+[Chapter120]
+101="Eu sei tudo sobre seus planos malignos com a M.E.A.N.I.E., Dr. Vile. E eu vou dar um fim neles!"
+101Mug="05g"
+102="Voce nao sabe nada, cachorrinho."
+102Mug="09g"
+103="Olha so quem fala. Aposto que voce nem e um Doutor de verdade, e?"
+103Mug="05g"
+104="Sou sim. Eu sou quimico."
+104Mug="09g
+105="Voce tem um 'M.D.' no seu diploma?"
+105Mug="05g
+106="..."
+106Mug="09g
+107="Seus esforcos pra me enfurecer sao banais. Esta na hora de te derrubar."
+107Mug="09g
+
+[Chapter150]
+101="Nao! So porque voce me deteve nao significa que voce deteve a M.E.A.N.I.E. ELES tem a filha do Presidente agora!"
+101Mug="09g"
+102="Eu vou me preocupar com eles depois. De qualquer forma, tenho um osso pra roer com eles."
+102Mug="05g"
+103="Bom trabalho, Agente Doggity. Traga o Dr. Vile pra interrogatorio e se de um petisco!"
+103Mug="04b"
+104="Sim, senhor!"
+104Mug="05g"
+
+
+[Chapter200]
+101="Encontrei uma passagem secreta, Comandante. Vou segui-la e ver se a filha do Presidente esta la na frente."
+101Mug="05g"
+102="Entendido, Agente. Tome cuidado."
+102Mug="04b"
+103="QUEM ousa perturbar meu trabalho? E voce, Vile?"
+103Mug="08b"
+104="Vile esta derrotado! E voce, filha do Presidente? Estou aqui pra te salvar."
+104Mug="05g"
+105="Me salvar? De que?"
+105Mug="08b"
+106="Das garras da M.E.A.N.I.E.!"
+106Mug="05g"
+107="Hahah-cachorrinho tolo. Voce esta falando com a Chefe Malvada da M.E.A.N.I.E! A propria Grande Malvada!"
+107Mug="08b"
+108="E estou usando as propriedades peculiares dessa localizacao geologica pra construir um Nucleo de Superlusao e fazer refem o Universo INTEIRO!"
+108Mug="08b"
+
+
+[Chapter220]
+101="Voce? Voce e a chefe da M.E.A.N.I.E? Como isso e possivel!"
+101Mug="05g"
+102="Eu sou a filha do Presidente, nao sou? Eu posso fazer o que eu quiser."
+102Mug="08b"
+103="Eu tenho que te parar!"
+103Mug="05g"
+
+[Chapter300]
+101="Huh? O que esta acontecendo?"
+101Mug="05g"
+102="HAHAH! Voce pode ate ter me derrotado, mas eu ativei o Nucleo de Superlusao! Prepare-se pra ser Superludido!"
+102Mug="08b"
+103="Agente Doggity Dig — Voce precisa destruir aquele nucleo!"
+103Mug="04b"
+104="Estou nessa!"
+104Mug="05g"
+
+[Chapter350]
+101="Bom, aparentemente coisa cientifica de ponta e bem facil de quebrar!"
+101Mug="05g"
+102="Otimo trabalho, Agente!"
+102Mug="04b"
+
+[Chapter900]
+101="Voce frustrou os planos malignos do Dr. Vile, mas nao encontrou a filha do Presidente. Todo mundo la na Agencia diz que tudo bem, porem. Ela nao era muito querida mesmo, e agora eles podem dizer ao Presidente que ao menos fizeram um esforco honesto. Alguma outra agencia provavelmente vai encontra-la. Voce lidou com todas as coisas que atiram em voce e explodem e tal, entao outra pessoa pode lidar com a parte chata."
+101Mug="06h"
+
+[Chapter950]
+101="Com o Nucleo de Superlusao destruido, o Dr. Vile preso, e a filha do Presidente resgatada/tambem presa, voce finalmente pode se dar um petisco bem merecido. E dificil ser o melhor cao agente secreto do mundo, mas alguem tem que fazer isso." 
+101Mug="06h"
+
+

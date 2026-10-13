@@ -1,0 +1,133 @@
+ [MainMenu]
+LocSair=Exit
+LocNovo Jogo=NewGame
+LocOpçõess=Option
+LocVersionNumber=1.25c vulgo Sillyface
+;;;//PROBLEM: Menu is all images...
+;;;;//PROBLEM: menu has a lot of stuff IN kismet nodes..
+
+[MAPNAME]
+;;//PROBLEM: youll need to go into all the levels and assign an int code
+MapName0="Funcionando, Otário!"
+;;//Foyer
+;;//Foundry
+;;//Gearworks
+;;//Battlements
+;;//Warehouse
+;;//Logistics
+;;//Sanctum
+;;//The Crow's Nest
+;;//Hugbot Alley
+;;//Caketown
+;;//The Village
+;;//Tog-o-drome
+;;//Bullet Central
+;;//Glitch City
+
+;;//PROBGLEM: will INTREADER PROPERLY WORK WITH LOCALIZATION? Io do reference ?Int>
+
+[Options]
+OptionsToggleOn="Ativado"
+OptionsToggleOff="Desativado"
+MouseSensTitle="Sensibilidade do Mouse"
+MouseSensString(0)="3 - Mouse Super Lento"
+MouseSensString(1)="6"
+MouseSensString(2)="10"
+MouseSensString(3)="20"
+MouseSensString(4)="30"
+MouseSensString(5)="40 - Padrão"
+MouseSensString(6)="50"
+MouseSensString(7)="60"
+MouseSensString(8)="70"
+MouseSensString(9)="80"
+MouseSensString(9)="80"
+MouseSensString(9)="90"
+MouseSensString(9)="95 - Mouse Super Rápido"
+MouseSmoothTitle="Suavização do Mouse"
+DX9Title="DX9: MSAA"
+DX11Title="DX11: MSAA"
+MusicVolumeTitle: "Volume da Música"
+MusicVolumeString(0)="Desligado"
+MusicVolumeString(1)="0.25"
+MusicVolumeString(2)="0.5"
+MusicVolumeString(3)="0.75-Padrão"
+MusicVolumeString(4)="1.0"
+MusicVolumeString(5)="1.25"
+MusicVolumeString(6)="1.5"
+MusicVolumeString(7)="1.75"
+MusicVolumeString(8)="2.0
+SFXVolumeTitle="Volume de Efeitos Sonoros"
+SFXVolumeString(0)="Desligado"
+SFXVolumeString(1)="0.25"
+SFXVolumeString(2)="0.5"
+SFXVolumeString(3)="0.75"
+SFXVolumeString(4)="1.0 - Padrão"
+SFXVolumeString(5)="1.25"
+SFXVolumeString(6)="1.5"
+SFXVolumeString(7)="1.75"
+SFXVolumeString(8)="2.0"
+VSyncTitle="V-Sync"
+BloomTitle="Bloom"
+DepthofFieldTitle="Profundidade de Campo"
+DynamicShadowsTitle="Sombras Dinâmicas"
+FOVTitle="Ângulo de Campo de Visão"
+FOVString(0)="40 - Modo Mira"
+FOVString(1)="50"
+FOVString(2)="60 - Modo Console"
+FOVString(3)="65"
+FOVString(4)="70"
+FOVString(5)="75"
+FOVString(6)="80"
+FOVString(7)="85 - Bom para Resoluções 5:4"
+FOVString(8)="90 - Bom para Resoluções 4:3"
+FOVString(9)="95 - Padrão"
+FOVString(10)="100 - Bom para Resoluções 16:10"
+FOVString(11)="105 - Bom para Resoluções 16:9"
+FOVString(12)="110"
+FOVString(13)="115"
+FOVString(14)="120"
+FOVString(15)="125"
+FOVString(16)="130"
+FOVString(17)="135"
+FOVString(18)="140"
+FOVString(19)="150 - Modo Visão Alienígena"
+FOVString(20)="160"
+FOVString(21)="170"
+FOVString(22)="175 - Modo Provavelmente Inútil"
+FullScreentitle="Tela Cheia"
+GammaTitle="Brilho"
+GammaString(0)="05"
+GammaString(1)="10"
+GammaString(2)="15"
+GammaString(3)="20"
+GammaString(4)="25-Padrão"
+GammaString(5)="30"
+GammaString(6)="40"
+GammaString(7)="50"
+GammaString(8)="60"
+GammaString(9)="70"
+GammaString(10)="80"
+GammaString(11)="90"
+GammaString(12)="100"
+MotionBlurTitle="Desfoque de Movimento"
+InvertMouseTitle="Inverter Mouse"
+AmbientOcclusionTitle="Oclusão de Ambiente SS"
+AnisoTitle="Nível Máx. de Anisotropia"
+AnisoString(0)="0-Desativado"
+AnisoString(1)="1"
+AnisoString(2)="2"
+AnisoString(3)="4-Padrão"
+AnisoString(4)="8"
+AnisoString(5)="16"
+ResetKeyBindsTitle="Redefinir Teclas"
+RestoreDefaults="Restaurar Padrões" ;;//PROBLEM, make this show "<<< e >>>" in the script
+ResolutionTitle="Resolução de Tela"
+ResolutionLoadIssue="Não Foi Possível Carregar a Resolução"
+SaveOptionsString="Confirmar Alterações" ;;//PROBLEM, make this show "<<< e >>>" in the script
+
+
+
+
+
+
+

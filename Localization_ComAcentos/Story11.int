@@ -1,0 +1,156 @@
+[Cast]
+08="Você, Edgar, o Belo Entregador de Mercearia"
+07="Wanda, a Velha Senhora"
+
+[Chapter1]
+101="Ei! Senhora! Estou aqui com suas compras"
+101Mug="08g"
+102="Hã? Você não é o entregador! Cadê o Edgar, o Belo Entregador de Mercearia?"
+102Mug="07g"
+103="Ele é bonito demais pras habilidades de desenho do Joe, então estou substituindo ele. Trouxe suas compras."
+103Mug="08g"
+104="O Edgar sempre traz elas até o último andar pra mim."
+104Mug="07g"
+105="O último andar? Isso vai levar uma eternidade."
+105Mug="08g"
+106="Você espera que uma velha senhora como eu manque até lá embaixo? Eu mal consigo andar."
+106Mug="07g"
+107="Suspiro...Tá bom..."
+107Mug="08g"
+
+[Chapter6]
+101="O que é isso com todos esses robôs, senhora? E essas torretas? Elas podem machucar alguém de verdade."
+101Mug="08g"
+102="Eu vivo dizendo isso pro meu síndico! Eles pertencem a um dos outros inquilinos. Temos uma política rígida de 'proibido animais', mas ninguém escuta."
+102Mug="07g"
+103="Mas não deixa eles te intimidarem, os vira-latas. Só traz minhas compras."
+103Mug="07g"
+
+
+[Chapter30]
+101="Argh! Que compras você tem aqui dentro. Essa sacola pesa uma tonelada!"
+101Mug="08g"
+102="Só uns itens básicos. Pão, leite, Canhão de Artilharia Howitzer."
+102Mug="07g"
+103="O quê? Sério?"
+103Mug="08g"
+104="Não, estou brincando."
+104Mug="07g"
+104="..Mais ou menos."
+104Mug="07g"
+
+[Chapter40]
+101="Então, quem é esse vizinho que tem todos esses robôs?"
+101Mug="08g"
+102="Nunca o conheci, mas acho que ele é um babaca."
+102Mug="07g"
+103="Como você pode dizer isso se nunca o conheceu."
+103Mug="08g"
+104="Ele também gosta de tocar aquela música hippie saltitante em altíssimo volume a qualquer hora. Aposto que o som dele registraria na escala Richter."
+104Mug="07g"
+
+[Chapter50]
+101="Você já tentou bater na porta do seu vizinho e dizer o que acha de todos esses robôs?"
+101Mug="08g"
+102="Não seja absurdo. Claro que não. Quem faz isso? Só traz minhas compras!"
+102Mug="07g"
+
+[Chapter60]
+101="Senhora, esses robôs — eles estão fora de controle! Como você consegue se locomover!"
+101Mug="08g"
+102="Eu não consigo, tenho o Edgar — o verdadeiro Edgar — pra entregar minhas compras. Ele vai voltar semana que vem?"
+102Mug="07g"
+103="Não sei, senhora. Mas eu sei que esses robôs estão em todo lugar!"
+103Mug="08g"
+
+[Chapter65]
+101="Eu sequer estou chegando perto do seu andar? Esse lugar é enorme!"
+101Mug="08g"
+102="Isso aí, eu moro no fim do próximo andar!"
+102Mug="07g"
+
+[Chapter70]
+101="Você podia ameaçar chamar o fiscal sanitário, sabe. Isso talvez fizesse seu síndico aplicar a política de proibido animais."
+101Mug="08g"
+102="E aí eu teria que falar com alguém no telefone? Não, obrigada!"
+102Mug="07g"
+103="Você conversa demais, Edgar falso. O Edgar de verdade não conversa tanto."
+103Mug="07g"
+
+[Chapter100]
+101="Sabe, saber que todos esses robôs são animais de estimação de alguém me faz sentir meio triste de atirar em todos eles."
+101Mug="08g"
+102="Não fique. Eles são uma praga. Estão fora de controle. Os corredores cheiram a óleo de motor e sempre soa como um depósito de madeira lá fora."
+102Mug="07g"
+103="Sério, estou te dizendo: liga pra prefeitura e reclama, Senhora."
+103Mug="08g"
+104="Ah, eu tenho uma ideia melhor."
+104Mug="07g"
+
+[Chapter120]
+101="Você já está quase aqui. Deve ser só mais uma sala grande e pronto."
+101Mug="07g"
+102="Ótimo. Estou pronto pra chegar em casa. O Edgar nunca me disse que o trabalho dele era tão perigoso."
+102Mug="08g"
+
+[Chapter150]
+101="Finalmente! Minhas compras!"
+101Mug="07g"
+102="Ufa. Posso só deixar elas aqui?"
+102Mug="08g"
+103="Isso aí. Eu pego daí. Não se preocupa comigo. Hehehe!"
+103Mug="07g"
+104="Por que você riu assim?"
+104Mug="08g"
+105="Eu acredito que tem dezesseis garrafas de combustível Fora-Robô pro meu Robô Fora-Robô naquela sacola! Vou resolver essa situação com minhas próprias mãos!"
+105Mug="07g"
+106="Bom, senhora, boa sorte com isso. Estou saindo daqui."
+106Mug="08g
+
+[Chapter200]
+101="Senhora, espera um segundo. Você disse que tem um Fora-Robô aqui em cima?"
+101Mug="08g"
+102="Sim, essa coisa vai deixar todos esses robôs de barriga pra cima que nem baratas! Isso vai mostrar pro vizinho a ignorar a política de proibido animais!"
+102Mug="07g"
+103="Eu não acho que posso permitir isso, senhora. Você não pode matar todos esses robôs."
+103Mug="08g"
+104="Como eu destruir essas coisas é diferente de você destruir elas?"
+104Mug="07g"
+105="Eu não sabia que eram animais de estimação. E agora que eu sei, eu tenho que te impedir."
+105Mug="08g"
+
+[Chapter220]
+101="Você não pode me impedir se eu te impedir de me impedir primeiro! Toma um punhado do meu Robô Fora-Robô!"
+101Mug="07g"
+
+[Chapter300]
+101="Não! Meu Robô Fora-Robô! Você destruiu ele!"
+101Mug="07g"
+102="Você devia resolver suas diferenças com seu vizinho de um jeito mais pacífico."
+102Mug="08g"
+103="Eu vou te mostrar! Vou ligar meu Fora-Robô auxiliar, o Fora-Robô-Robô-B!"
+103Mug="07g"
+104="Tem outro?"
+104Mug="08g"
+
+[Chapter350]
+101="Esse segundo Fora-Robô era bem terrível em lutar."
+101Mug="08g"
+102="Nãããão! Agora como eu vou parar os miseráveis robôs de estimação do meu vizinho agora?"
+102Mug="07g"
+103="Só vai falar com ele. Vai bater na porta dele e conta seus problemas!"
+103Mug="08g"
+104="O Edgar de verdade teria entendido. Você é um entregador terrível! E você nem é de verdade bonito."
+104Mug="07g"
+105="... ... ...    :'-(   "
+105Mug="08g"
+
+[Chapter900]
+101="Como o Edgar de verdade lida com um trabalho tão perigoso? Entregar compras não é pra fracos de coração nem pra dedos lentos no gatilho. Você entrega sua demissão no dia seguinte e decide se tornar um Boneco de Teste de Colisão Profissional em vez disso."
+101Mug="06h"
+
+[Chapter950]
+101="Naquela noite, Wanda a velha senhora ligou pro seu chefe e reclamou e conseguiu te demitir. Mas como você estava substituindo o Edgar, foi o Edgar quem foi demitido, não você. Você dormiu tranquilo sabendo que salvou a meia dúzia de robôs que você não tinha destruído. Parabéns!"
+101Mug="06h"
+
+

@@ -1,0 +1,138 @@
+[Cast]
+02="Você, um Refinado Aficionado de Jogos de Qualidade"
+04="Helpbot do Tower of Guns"
+
+[Chapter1]
+101="Oi, Jogador. Obrigado por comprar Tower of Guns!"
+101Mug="04g"
+102="Oi, jogo estranho!"
+102Mug="02h"
+103="Faça o seu melhor pra não morrer!"
+103Mug="04g"
+
+[Chapter2]
+101="Ah, hugbots. São inofensivos, mas a esposa do Joe fez ele mantê-los no jogo."
+101Mug="04g"
+
+[Chapter4]
+101="Gemas azuis são power-ups de arma. Encha seu medidor azul pra evoluir sua arma de nível."
+101Mug="04g"
+102="Se machucar custa XP de arma. Sua arma pode perder nível tão fácil quanto ganha."
+102Mug="04g"
+
+[Chapter6]
+101="Este é o elevador pra cima. Parabéns por completar o primeiro nível!"
+101Mug="04g"
+
+[Chapter9]
+101="Se você ficar preso, pode usar a função 'tilt' pra se teletransportar pra um lugar seguro."
+101Mug="04g"
+102="Por padrão é a tecla 'c', mas sabe-se lá pra que vocês, malucos dos jogadores de PC, vão trocar isso."
+102Mug="04g"
+
+
+[Chapter30]
+101="Adiante fica a Fundição. Dizem que foi lá que eu fui feito."
+101Mug="04g"
+
+[Chapter35]
+101="Bom, você deu conta rapidinho dessa Fundição!"
+101Mug="04g"
+102="Você está indo muito bem pra quem não joga esse jogo há muito tempo."
+102Mug="04g"
+
+[Chapter40]
+101="As Engrenagens estão logo ali. Uma tecnologia bem...primitiva, se quer saber."
+101Mug="04g"
+
+[Chapter45]
+101="Trabalho brilhante. Isso vai ensinar aqueles habitantes engrenagísticos."
+101Mug="04g"
+
+[Chapter50]
+101="Tem ar fresco demais aqui em cima pra mim, mas pode ir e aproveitar a vista."
+101Mug="04g"
+
+[Chapter55]
+101="Aquelas Muralhas foram curtas demais. Pro próximo andar!"
+101Mug="04g"
+
+[Chapter60]
+101="Ah, Logística. Lar, doce lar, pra um robô como eu."
+101Mug="04g"
+102="Estou surpreso que você chegou tão longe ainda nas histórias de tutorial."
+102Mug="04g"
+103="Histórias de tutorial?"
+103Mug="02h"
+104="É, as primeiras vidas só têm diálogo bobo de tutorial. Depois disso, a história DE VERDADE começa e tudo fica muito, muito sério."
+104Mug="04g"
+105="Então eu talvez nunca mais te veja de novo?"
+105Mug="02h"
+106="Talvez, mas talvez eu não seja mais o helpbot amigável."
+106Mug="04g"
+107="Eu poderia ser o vilão. Ou um parceiro. Ou sua mãe. QUEM SABE!"
+107Mug="04g"
+108="Você não se parece nada com a minha mãe.."
+108Mug="02h
+109="Isso foi só um exemplo. Fique focado em atirar nas coisas."
+109Mug="04g"
+
+[Chapter65]
+101="Pronto, a Logística tá resolvida. Já estava na hora de alguém limpar aquele lugar."
+101Mug="04g"
+
+[Chapter70]
+101="Este é o Armazém. Talvez, se você procurar bem, encontre o enredo do jogo aqui dentro?"
+101Mug="04g"
+102="Não é sério, aliás. Esse jogo não tem enredo. Pelo menos não até você morrer umas boas vezes."
+102Mug="04g"
+
+[Chapter75]
+101="Esse é um Armazém a menos com que ninguém vai precisar se preocupar até a próxima vida. Em frente!"
+101Mug="04g"
+
+[Chapter100]
+101="O Santuário. Quanto menos se falar desse lugar, melhor. Estou chocado que você chegou até aqui com tão poucas vidas."
+101Mug="04g"
+
+[Chapter120]
+101="Tenho quase certeza que você está prestes a encontrar o chefe do santuário. Boa sorte com isso."
+101Mug="04g"
+
+[Chapter150]
+101="Parabéns! O desenvolvedor realmente não esperava que alguém chegasse tão longe antes de morrer um monte de vezes."
+101Mug="04g"
+102="Valeu! Eu sou mesmo um Aficionado 'Refinado', sabia."
+102Mug="02h"
+103="Na verdade só existem três explicações. Você é muito sortudo. Você é muito bom. Ou..."
+103Mug="04g"
+104="..ou talvez você tenha apagado seu save só pra melhorar sua proporção de abates/mortes."
+104Mug="04g"
+105="Não tenho muita certeza do que essa última nem significa. Aliás, esse texto não faz muito sentido porque, eventualmente, você só vai ver essa história nas suas primeiras vidas."
+105Mug="04g"
+
+[Chapter200]
+101="Indo atrás do final verdadeiro, hein? Você deixa um velho Helpbot orgulhoso."
+101Mug="04g"
+102="O Ninho do Corvo com certeza vai te trazer de joelhos."
+102Mug="04g"
+
+[Chapter300]
+101="Trabalho brilhante! Você é o melhor... de todos!"
+101Mug="04g"
+
+[Chapter350]
+101="Ok, sério agora, isso é o fim. Você venceu. Tipo, olha, nós explodimos a Torre..então acabou por aqui."
+101Mug="04g"
+102="Se você chegou até aqui e está só na primeira ou segunda vida do jogo, bom, espero que tenha valido o seu dinheiro."
+102Mug="04g"
+103="Você pode contar pra todos os seus amigos que deu conta rapidinho de Tower of Guns."
+103Mug="04g"
+
+[Chapter900]
+101="Você deixa a torre uma ruína fumegante atrás de você e volta pro seu estilo de vida pedantérico de ler comentários na internet e assistir reprises de 'Quantum Leap'. Você tem quase certeza de que a palavra 'pedantérico' não existe de verdade e que o Joe só inventou na hora. E se ela EXISTISSE, provavelmente não significaria o que o Joe parece achar que significa. E o Joe tem quase certeza de que você estaria certo."
+101Mug="04g"
+
+[Chapter950]
+101="A torre é um deserto em ruínas atrás de você. Você é um mensageiro incomparável da destruição, o flagelo dos robôs espinhentos e monótonos por toda parte, um vencedor, um campeão, um pilar monstruoso da retidão dos games. Belo trabalho."
+101Mug="04g"

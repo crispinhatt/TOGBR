@@ -1,0 +1,115 @@
+[Cast]
+Title="Mano"
+07="Você, um Mano dos Anos 80"
+04="Brody, um Mano Militar"
+Goal="Honra E Paz."
+
+[Chapter1]
+101="Mano?"
+101Mug="07b"
+102="...Mano..?"
+102Mug="07b"
+
+[Chapter6]
+101="...Não Mano.."
+101Mug="07b"
+
+[Chapter30]
+101="Mano?"
+101Mug="07b"
+102="Mano!"
+102Mug="04b"
+103="Mano!"
+103Mug="07b"
+104="Manooooo!!"
+104Mug="04b"
+
+
+[Chapter30]
+101="Mano?"
+101Mug="07b"
+102="Mano!"
+102Mug="04b"
+103="Mano!"
+103Mug="07b"
+104="Mano Mano Mano!!"
+104Mug="04b"
+
+[Chapter50]
+101="Mano, Mano. Mano mano mano mano mano mano?"
+101Mug="04b"
+102="Mano mano mano."
+102Mug="07b"
+103="Mano?"
+103Mug="04b"
+104="Mano mano mano mano.. mano mano."
+104Mug="07b"
+105="Mano..."
+105Mug="04b"
+
+[Chapter60]
+101="Mano mano mano!"
+101Mug="04b"
+102="Mano."
+102Mug="07b"
+103="Mano Mano mano mano. Mano-mano...mano? Mano...mano mano mano mano mano mano? Mano--ah."
+103Mug="04b"
+104="Manomano."
+104Mug="04b"
+
+[Chapter70]
+101="Mano Mano mano mano mano mano mano?"
+101Mug="04b"
+102="Mano mano mano."
+102Mug="07b"
+103="Mano mano mano mano!"
+103Mug="04b"
+104=".. mano mano."
+104Mug="07b"
+105="Mano!"
+105Mug="04b"
+
+[Chapter120]
+101="Mano?"
+101Mug="07b"
+102="Mano."
+102Mug="04b"
+103="Mano Mano mano."
+103Mug="07b"
+
+[Chapter200]
+101="..Mano mano mano mano mano mano?"
+101Mug="04b"
+102="...Mano.... mano... mano."
+102Mug="07b"
+103="Mano.."
+103Mug="04b"
+
+
+[Chapter300]
+101="MANOOOOOoo!"
+101Mug="04b"
+102="MANOOO!!!"
+102Mug="07b"
+
+[Chapter350]
+101="Mano...?" 
+101Mug="07b"
+102="..." 
+102Mug="07b"
+103="Mano...?" 
+103Mug="07b"
+104="..." 
+104Mug="07b"
+105="...mano..." 
+105Mug="07b"
+
+[Chapter900]
+101="Mano mano mano mano...mano mano mano. Mano mano, mano mano--mano mano. Mano, mano. Mano mano, 'mano-mano'. Mano, mano mano mano." 
+101Mug="06h"
+
+[Chapter950]
+101="... ... ... ... ... ... ... ... ... ... mano ... ... ... ..." 
+101Mug="06h"
+
+

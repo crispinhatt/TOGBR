@@ -1,0 +1,157 @@
+[Cast]
+Title="Cientista Bip-Bip"
+13="Voce, Ace Studley, um heroi de acao"
+14="Ray, la na Base"
+11="Um Cientista"
+08="Outro Cientista"
+12="Mais Um Cientista"
+ 
+[Chapter1]
+101="Ace, voce ja chegou?"
+101Mug="14r"
+102="E, mas nao tem nenhum cientista a vista. Acho que os moradores locais tambem sabem que estou aqui."
+102Mug="13g"
+103="Isso vai deixar as coisas mais dificeis. So continua procurando elevadores — a Torre provavelmente tem os cientistas nos andares mais altos."
+103Mug="14r"
+104="Entendido."
+104Mug="13g"
+
+[Chapter6]
+101="Ray, acho que encontrei um cientista!"
+101Mug="13g"
+102="Bip! Bip! Bip!?"
+102Mug="11r"
+103="Eu nao entendo voce, Cientista!"
+103Mug="13g"
+104="Parece que ele esta falando Cientistes. Manda ele de volta pra mim, vou achar um tradutor."
+104Mug="14r"
+105="Voce ouviu o homem, Cientista. Va encontrar o Ray. Vou continuar procurando seus amigos."
+105Mug="13g"
+
+[Chapter30]
+101="Entao o que e tao importante sobre todos esses cientistas, afinal?"
+101Mug="13g"
+102="Eles sao as maiores mentes do nosso tempo. Se nao tivessem sido sequestrados, estariam curando o cancer e construindo alternativas energeticas."
+102Mug="14r"
+103="Quanto antes nos os resgatarmos, mais rapido poderemos viver no futuro."
+103Mug="14r"
+"
+
+[Chapter40]
+101="O que a Torre quer com todos esses cientistas?"
+101Mug="13g"
+102="Eu gostaria de poder te dizer, Ace."
+102Mug="14r"
+103="Tudo que sabemos e que a Torre comecou a sequestra-los ha uns dois meses."
+103Mug="14r"
+
+[Chapter50]
+101="Alguma novidade sobre a traducao daquela ladainha que o cientista que encontramos estava falando?"
+101Mug="13g"
+102="Nao e ladainha. E Cientistes. E um dialeto altamente otimizado falado apenas pelas mentes mais eruditas."
+102Mug="14r"
+103="Pra mim pareceu ladainha."
+103Mug="13g"
+
+
+[Chapter60]
+101="Ace — encontramos um tradutor. Acontece que o cientista que voce encontrou nao estava falando Cientistes, afinal."
+101Mug="14r"
+102="Ah, nao?"
+102Mug="13g"
+103="Nao, parece que ele tinha sido lobotomizado, na verdade. Foi mal."
+103Mug="14r"
+104="A Torre lobotomizou o cientista como uma trava de seguranca pra impedir que aprendessemos seus planos nefastos!"
+104Mug="14r"
+105="Isso e bem vilanesco."
+105Mug="13g"
+
+
+[Chapter65]
+101="Bip, Bip! Armas!"
+101Mug="08r"
+102="Ray, encontrei outro cientista!"
+102Mug="13g"
+103="Bip! Bip! Torre! Balas! Armas!"
+103Mug="08r"
+104="Parece que a lobotomia nao pegou totalmente nesse cara."
+104Mug="13g"
+105="Manda ele pra ca embaixo — talvez ele saiba de algo."
+105Mug="14r"
+
+[Chapter70]
+101="Como exatamente uma Torre inanimada sequestra cientistas?"
+101Mug="13g"
+102="Nao e completamente inanimada. O Joe animou bastante engrenagem e parede movel e tal."
+102Mug="14r"
+103="Voce sabe o que eu quero dizer."
+103Mug="13g"
+104="Receio que a resposta pra sua pergunta seja: E um misterio."
+104Mug="14r"
+
+[Chapter100]
+101="Ok, Ace. Eu e o tradutor estivemos trabalhando naquele ultimo cientista."
+101Mug="14r"
+102="A lobotomia nao foi completa nesse cara, e descobrimos que a torre os sequestrou pra forca-los a fazer balas maiores e melhores."
+102Mug="14r"
+103="Eu provavelmente conseguiria descobrir isso sozinho. Por que a Torre e tao sigilosa?"
+103Mug="13g"
+104="Talvez ela seja paranoica? De qualquer forma, a missao continua: avance e encontre os outros cientistas!"
+104Mug="14r"
+
+[Chapter120]
+101="Ray, acho que estou na antecamara de algo grande. Esse jogo normalmente nao tem duas portas seguidas desse jeito."
+101Mug="13g"
+102="Tome cuidado, Ace."
+102Mug="14r"
+
+[Chapter150]
+101="Voce me resgatou! Obrigado!"
+101Mug="12r"
+102="Um cientista nao lobotomizado! Finalmente! Cade os outros?"
+102Mug="13g"
+103="Infelizmente sou o unico que restou. Os outros...eles se foram."
+103Mug="12r"
+104="Isso e tudo que eu precisava saber. Ray, encontrei o ultimo cientista — estamos a caminho da saida!"
+104Mug="13g"
+105="Entendido, Ace. Bom trabalho!"
+105Mug="14r"
+
+
+[Chapter200]
+101="Esse nao e o caminho pra baixo..."
+101Mug="13g"
+102="Esse e o caminho pro coracao da Torre. Voce precisa destrui-lo."
+102Mug="12r"
+103="O que? Por que? Sem nenhum cientista nao lobotomizado a Torre nao pode mais forcar voces a fazer balas, certo?"
+103Mug="13g"
+104="A Torre nao nos forcava a fazer balas. Nos ERAMOS as balas. Essa Torre esta equipada com um 'Tubo de Torpedo de Cientistas'..capaz de disparar cientistas vivos."
+104Mug="12r"
+105="Nao me diga que voce nao sabe o quao perigosa a ciencia pode ser!"
+105Mug="12r"
+106="Suspiro, ok. Ray, vou destruir essa coisa do 'Coracao da Torre'."
+106Mug="13g"
+
+[Chapter300]
+101="Ah, e agora?"
+101Mug="13g"
+102="Agora voce vai curtir uma pequena cena de voo e depois disparar alguns tiros no indefeso Coracao da Torre."
+102Mug="12r"
+103="Ah, ok. Eu consigo fazer isso."
+103Mug="13g"
+
+[Chapter350]
+101="Ufa. Ainda bem que aquela explosao de morte da Torre nao causou dano em area, senao eu podia estar encrencado."
+101Mug="13g"
+102="Bom trabalho!"
+102Mug="14r"
+
+
+[Chapter900]
+101="Voce traz de volta pra base a ultima cientista restante, onde ela conta que a Torre tinha planos muito maiores e mais maldosos que nao foram revelados porque voce pegou a saida facil do jogo. Depois de uma breve analise das opcoes, voce decide bombardear a Torre com uma bomba nuclear pra nao precisar mais lidar com ela. Voce sempre soube que ela cresceria e se tornaria encrenqueira."
+101Mug="06h"
+
+[Chapter950]
+101="Voce destruiu a torre, resgatou os cientistas, e provavelmente queimou mais de 500 calorias. Nada mal pra um dia de trabalho!"
+101Mug="06h"
+

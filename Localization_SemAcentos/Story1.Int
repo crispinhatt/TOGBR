@@ -1,0 +1,114 @@
+[Cast]
+03="Voce, um Jogador Requintado de Gosto Impecavel"
+04="General Marcus Funk"
+
+
+[Chapter1]
+101="Bem-vindo a Tower of Guns, soldado!"
+101Mug="04b"
+102="Eu te conheco?"
+102Mug="03h"
+103="Nao. Agora, lute seu caminho ate o topo dessa Tower of Guns, soldado!"
+103Mug="04b"
+
+[Chapter3]
+101="Na Tower of Guns, as portas abrem quando voce atira nelas, soldado! Que nem na vida real!"
+101Mug="04b"
+
+[Chapter6]
+101="Aposto que voce ta curtindo esse jogo ate agora, nao e, soldado?"
+101Mug="04b"
+102="Ele tem tudo!"
+102Mug="04b"
+103="Robos!"
+103Mug="04b"
+104="...Armas..."
+104Mug="04b"
+105="...Caminhadas longas na praia e narracao britanica.."
+105Mug="04b"
+106="Uma dessas coisas nao e verdade. Pra proxima fase!"
+106Mug="04b"
+
+[Chapter9]
+101="Soldado! Voce foi la e ficou preso naquele buraco!"
+101Mug="04b"
+102="Segure a tecla 'Tilt' quando parar de brincadeira e ela vai te levar de volta pra entrada!"
+102Mug="04b"
+103="E a tecla 'C' por padrao, soldado!"
+103Mug="04b"
+
+[Chapter30]
+101="Puxa vida, Soldado — e a fundicao!"
+101Mug="04b"
+
+[Chapter40]
+101="Isso aqui sao as Engrenagens, recruta! Nao me deixam mais entrar aqui."
+101Mug="04b"
+
+[Chapter50]
+101="Voce deve se sentir em casa aqui nas Muralhas, Soldado!"
+101Mug="04b"
+102="Eu nao sou bem um Soldado, sabia.."
+102Mug="03h"
+103="Eu sou um jogador requintado..e tenho gosto impecavel."
+103Mug="03h"
+104="Que otimo ouvir isso, Soldado. Volte a atirar em coisas!"
+104Mug="04b"
+
+[Chapter60]
+101="O que um recruta como voce ta fazendo na Logistica?"
+101Mug="04b"
+
+[Chapter70]
+101="Nossa, danado! O Armazem! Aposto que guardam todas as armas aqui!"
+101Mug="04b"
+
+[Chapter100]
+101="Voce sobreviveu ate o Santuario? Ninguem chega tao longe!"
+101Mug="04b"
+
+[Chapter120]
+101="Santa Estilhaco! E isso — o chefe de todos os chefes!"
+101Mug="04b"
+
+[Chapter150]
+101="Voce conseguiu, Soldado! Voce chutou a bunda deles ate Xangai!"
+101Mug="04b"
+102="Essa foi uma frase bem dificil de entender que voce acabou de usar."
+102Mug="03h"
+103="Se voce tivesse morrido mais umas vezes, o enredo de verdade teria comecado!"
+103Mug="04b"
+104="Esse nao e o jogo de verdade?"
+104Mug="03h"
+105="Ah, e o jogo de verdade — so nao e o enredo de verdade. Isso foi um enredo tutorial pra voce se acostumar com as coisas."
+105Mug="04b"
+106="Que jogo peculiar.."
+106Mug="03h"
+
+[Chapter200]
+101="Ah, voce encontrou a fase final secreta! Voce nao decepciona, soldado!"
+101Mug="04b"
+102="Va la fora e derrube esses robos!"
+102Mug="04b"
+
+[Chapter300]
+101="Geleia quente em torrada amanteigada no palito! La na frente deve ser o lendario Coracao da Torre! E IMPOSSIVEL!!"
+101Mug="04b"
+
+[Chapter350]
+101="Bom, voce e uma figura e tanto, hein!"
+101Mug="04b"
+106="Isso e um insulto?"
+106Mug="03h"
+102="Voce nao faz nada pela metade, ne? Essa e uma Tower of Guns que nao vai incomodar mais ninguem."
+102Mug="04b"
+103="Pelo menos, nao ate voce reiniciar o jogo."
+103Mug="04b"
+
+[Chapter900]
+101="Com a torre conquistada, voce sabe que vai dormir tranquilo essa noite. Com suas torretas derrotadas, seus chefes vencidos, e seus habitantes menores destruidos (ou simplesmente ultrapassados correndo), enquanto voce aproveita uma soneca bem merecida, voce pensa consigo mesmo: 'Sim, sim, eu realmente sou um Jogador Requintado de Gosto Impecavel.'"
+101Mug="04b"
+
+[Chapter950]
+101="Voce nao conseguiria simplesmente deixar uma Torre parcialmente concluida. No momento em que soube que ainda havia um caminho a seguir, ainda um chefe a mais pra destruir, voce se sentiu compelido a continuar lutando. Voce nao tem muita certeza do porque, na verdade. Tudo que sabe e que o enredo desse jogo teve muito, muito pouco a ver com isso."
+101Mug="04b"

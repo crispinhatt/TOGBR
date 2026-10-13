@@ -1,0 +1,176 @@
+[Cast]
+Title="Uma Experiência Gastronômica Modesta"
+05="Você, um Dedicado Dedetizador"
+04="Um Restaurateur Destemido"
+06="Um Cliente Intergaláctico"
+Goal="Botão de Autodestruição"
+
+[Chapter1] 
+101="Sim, sim! Consigo ver claramente pela sua transmissão de vídeo. Isso vai funcionar às mil maravilhas. Você não consegue imaginar?"
+101Mug="04r"
+102="..."
+102Mug="05r"
+103="Você não está vendo. Bom, continue. Vamos ver se isso te convence."
+103Mug="04r"
+104="Claro."
+104Mug="05r"
+
+[Chapter6]
+101="Esse primeiro andar vai ser uma recepção maravilhosa! Um aquário de água salgada bem ali? Papel de parede vermelho ou azul?"
+101Mug="04r"
+102="Muita praga robótica aqui."
+102Mug="05r"
+103="Me dê seis meses e não haverá estabelecimento melhor onde a elite epicurista poderá satisfazer sua fome sem fim."
+103Mug="04r"
+104="Como o senhor quiser, Chefe."
+104Mug="05r"
+
+[Chapter30]
+101="Essa, essa vai ser a cozinha perfeita! Tudo que você precisa pra preparar uma refeição estelar — ou melhor, interestelar — bem à sua disposição."
+101Mug="04r"
+102="Está um pouco quente aqui."
+102Mug="05r"
+103="Só se concentre em se livrar da infestação, lacaio!"
+103Mug="04r"
+
+[Chapter40]
+101="Disseram que o sonho era impossível. Ah, como riram. Ah, como zombaram."
+101Mug="04r"
+102="Os tolos. Eu vejo magia nessas paredes. Maravilha. Potencial!"
+102Mug="04r"
+103="Muita engrenagem também."
+103Mug="05r"
+
+
+[Chapter50]
+101="As Muralhas! Fantástico! Você consegue imaginar?"
+101Mug="04r"
+102="Clientes dos cantos mais distantes da galáxia se reunindo. Um bife para os turistas de Andrômeda! Um café chique para o cavalheiro de Betelgeuse!"
+102Mug="04r"
+103="Parece bom."
+103Mug="05r"
+
+
+[Chapter55]
+101="É sempre tão nublado aqui?"
+101Mug="04r"
+102="É, receio que sim. Dizem que a neblina mantém o orçamento em ordem."
+102Mug="05r"
+103="Nunca ouvi isso em todos os meus anos como gênio culinário."
+103Mug="04r"
+104="Deve ter ouvido isso sobre outra indústria."
+104Mug="05r"
+
+[Chapter70]
+101="Esse lugar está completamente infestado."
+101Mug="05r"
+102="Foi por isso que eu te contratei, não foi? Você não é capaz de remover essa praga?"
+102Mug="04r"
+103="Sei lá. Nunca vi nada tão ruim assim."
+103Mug="05r"
+104="Então, faça o seu trabalho. Ou deveria ter procurado a sua concorrência?"
+104Mug="04r"
+
+[Chapter60]
+101="Me lembre, Dedetizador. Me lembre de como zombaram. Me chamaram de louco. Mas marque minhas palavras. Eles vão olhar pro meu palácio culinário com admiração."
+101Mug="04r"
+102="Vão se lembrar de como zombaram de mim, e vão se atropelar uns aos outros implorando por perdão."
+102Mug="04r"
+103="'Nos salve'. Vão implorar. 'Nos salve do mundano. Nos permita entrar no seu paraíso saboroso.'"
+103Mug="04r"
+104="Vão me pedir pra salvá-los."
+104Mug="04r"
+105="E eu vou sussurrar...'Não'."
+105Mug="04r"
+106="Me lembre."
+106Mug="04r"
+107="Uh...Claro."
+107Mug="05r"
+
+[Chapter65]
+101="Então, esse lugar é um ninho de pragas, Chefe. Não sei se consigo salvar isso."
+101Mug="05r"
+102="Não seja tolo. Isso vai ser meu restaurante. Meu restaurante INTERESTELAR. O primeiro do seu tipo."
+102Mug="04r"
+103="Vou fazer o meu melhor. Talvez tenha alguma praga grande no próximo nível bagunçando meu vermin-ômetro."
+103Mug="05r"
+
+
+[Chapter100]
+101="Parece que tem algo bem grande lá na frente."
+101Mug="05r"
+102="Isso é bom, certo? Se for algo grande, você pode acabar com isso e essa tarefa toda vai estar resolvida?"
+102Mug="04r"
+103="Espero que sim. Não posso fazer promessas."
+103Mug="05r"
+
+[Chapter120]
+101="Está bem atrás dessa porta, seja lá o que for."
+101Mug="05r"
+102="Finalmente! Isso levou, tipo, o dia inteiro. Quanto antes terminarmos, mais rápido posso trazer os empreiteiros!"
+102Mug="04r"
+
+[Chapter150]
+101="Fantástico! Terminamos tudo, certo, Dedetizador?"
+101Mug="04r"
+102="Difícil dizer. Ainda tem muitos sinais no meu vermin-ômetro. Pode ser que eu tenha deixado passar alguns."
+102Mug="05r"
+103="Você deve estar brincando. Suponho que o incentivo antiquado, bárbaro e 'financeiro' não te ajudaria a preencher a inspeção."
+103Mug="04r"
+104="Está tentando me subornar?"
+104Mug="05r"
+105="Claro que não...a menos que esse tipo de coisa funcione com você."
+105Mug="04r"
+106="Bom, meu vermin-ômetro é bem velho. Às vezes dá leituras estranhas. E eu de fato aprecio uma gorjeta ocasional..."
+106Mug="05r"
+
+[Chapter200]
+101="Desculpe senhor, eu simplesmente não posso declarar esse trabalho concluído. Dever cívico, essas coisas."
+101Mug="05r"
+102="Do que você está falando?"
+102Mug="04r"
+103="Preciso ver até onde vai a infestação."
+103Mug="05r"
+
+[Chapter300]
+101="Pode ser que você tenha que achar outro lugar pro seu restaurante. Vou ter que destruir esse lugar"
+101Mug="05r"
+102="Não seja tolo! Não precisa de tanto drama por causa de umas pragas robóticas."
+102Mug="04r"
+103="Não é drama....é dever."
+103Mug="05r"
+104="Você não pode destruir essa Torre! Eu gastei tudo nesse lugar! É perfeito!"
+104Mug="04r"
+105="Milhões de metros quadrados."
+105Mug="04r"
+106="Localizado bem na beira da rodovia."
+106Mug="04r"
+107="Visível do espaço."
+107Mug="04r"
+108="Desculpe, senhor. Não há outro jeito."
+108Mug="05r"
+
+[Chapter350]
+101="SEU TOLO! Você destruiu tudo! Meus sonhos! Minha paixão de uma vida inteira de criar a primeira experiência gastronômica interestelar!"
+101Mug="04r"
+102="Aquele lugar não era um local adequado pra restaurante mesmo. Tenho certeza que existem outros locais. Talvez a Grande Muralha da China ou a Represa Hoover?"
+102Mug="05r"
+103="Não tem espaço pros fornos."
+103Mug="04r"
+104="Quem disse que você precisa de fornos? Você podia montar uma banca de sorvete. Ou sushi. Todas as crianças adoram sushi."
+104Mug="05r"
+105="...  ...  Sushi É a onda hoje em dia...Você pode estar certo..."
+105Mug="04r"
+106="Sim...Já consigo ver. Um Bar de Sushi na Represa Hoover! Assentos ao ar livre! Visível do espaço!"
+106Mug="04r"
+107="Essa é a atitude!"
+107Mug="05r"
+
+[Chapter900]
+101="Você não gosta da ideia de aceitar um suborno, mas tem financiamento estudantil de Controle de Pragas pra pagar. Além disso, o que de pior pode acontecer? Talvez um cliente ocasional passe mal quando um spinbot gira demais dentro da panela de sopa? Mal sabia você que aquele Restaurante Interestelar se tornaria o 'Paciente Zero' de uma terrível praga robótica intergaláctica, que logo se espalharia de planeta em planeta causando o caos. Assim que a origem da praga foi determinada, o resto da galáxia decide bombardear a Terra inteira a partir da órbita. É, afinal, a única forma de ter certeza."
+101Mug="04g"
+
+[Chapter950]
+101="Bom, esse é mais um cliente satisfeito. E, mais importante, essa é uma infestação de pragas robóticas que nunca mais vai se espalhar. Você provavelmente também evitou algum processo incrível por intoxicação alimentar. Ótimo trabalho!"
+101Mug="04g"
+

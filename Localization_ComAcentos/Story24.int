@@ -1,0 +1,179 @@
+[Cast]
+Title="O Blues do GPS"
+05="Você, Um Marido Perdido"
+14="Leslie, sua esposa"
+04="Seu GPS"
+
+
+[Chapter1]
+101="Ray, isso não parece certo de jeito nenhum. Acho que estamos perdidos."
+101Mug="14g"
+102="Não estamos perdidos. Não podemos mais nos perder com esse aparelho novo e moderno."
+102Mug="05r"
+103="Em duzentos metros mantenha-se à esquerda. Depois, pegue a saída à direita."
+103Mug="04g"
+104="Viu? Ele sabe exatamente onde estamos! Que peça brilhante de tecnologia!"
+104Mug="05r"
+
+
+[Chapter6]
+101="Não tenho tanta certeza que o GPS está funcionando direito. Tem uns personagens bem desagradáveis nesse lugar."
+101Mug="14g"
+102="Não julga eles só porque estão tentando nos matar. Nem todo mundo tem a mesma sorte que a gente, sabe. Tenho certeza que o GPS só está escolhendo a rota mais rápida pra gente."
+102Mug="05r"
+103="...se você diz..."
+103Mug="14g"
+
+
+[Chapter30]
+101="Isso vai ser que nem nosso último atalho? Sabe, aquele em que acabamos encalhados em Delaware?"
+101Mug="14g"
+102="Aquilo foi porque estávamos usando um mapa de Houston. Isso é diferente. Esse aparelho de GPS cuida de todo o palpite!"
+102Mug="05r"
+103="Adiante, siga em frente. Fique na faixa da esquerda."
+103Mug="04g"
+104="Eu nem vejo uma faixa da esquerda. Nem vejo estradas."
+104Mug="14g"
+105="Bom, o GPS nos avisou que a rota envolvia estradas sem pavimentação. Isso é compreensível."
+105Mug="05r"
+
+[Chapter40]
+101="Nem acho que isso é uma estrada principal, Ray."
+101Mug="14g"
+102="Provavelmente não é. Isso provavelmente é uma rota secreta que só os moradores locais conhecem."
+102Mug="05r"
+103="Isso parece estranho."
+103Mug="14g"
+104="Não tem nada de estranho nisso! A gente disse pro GPS evitar pedágios, lembra?"
+104Mug="05r"
+
+
+[Chapter50]
+101="Isso parece perigoso pra uma estrada pública. Todas essas coisas robóticas podiam machucar alguém!"
+101Mug="14g"
+102="Nah, não são nada."
+102Mug="05r"
+103="Mais à frente, curva leve à esquerda. Depois, pegue a rodovia."
+103Mug="04g"
+104="Por que ele disse 'motorway' em vez de 'highway'?"
+104Mug="14g"
+105="Ah, eu configurei o idioma pra ter sotaque australiano. Tecnologia não é bacana?"
+105Mug="05r"
+
+
+[Chapter60]
+101="Não acho que isso seja uma estrada de jeito nenhum. Estradas não são feitas de metal e você não precisa atirar em robôs nelas."
+101Mug="14g"
+102="Leslie, para com isso já. Onde mais a gente estaria se não numa estrada?"
+102Mug="05r"
+103="Acho que estamos num condomínio privado. Eles podem fazer o que quiserem em alguns desses."
+103Mug="14g"
+104="Suspiro. Aposto que agora você vai me dizer pra parar e pedir informações."
+104Mug="05r"
+105="Podia ajudar."
+105Mug="14g"
+106="Só se estivéssemos perdidos, o que não estamos. E se não tivéssemos o GPS, que dá as direções."
+106Mug="05r"
+
+
+[Chapter65]
+101="Ia doer tanto assim só admitir que você precisa parar e pedir informações?"
+101Mug="14g"
+102="Ia demorar. Precisamos estar na casa da sua tia até o jantar. Você sabe como ela fica quando as pessoas chegam atrasadas."
+102Mug="05r"
+103="Certo, então não podemos arriscar nos perder."
+103Mug="14g"
+104="Nem sequer TEVE um lugar pra pedir informações, então eu não poderia parar mesmo que quisesse."
+104Mug="05r"
+105="Pergunta pra um desses robôs."
+105Mug="14g"
+106="Robôs são pra atirar, não pra pedir informações."
+106Mug="05r"
+
+[Chapter70]
+101="Está extremamente escuro aqui em cima. Estamos num túnel?"
+101Mug="14g"
+102="Não sei. Só espero que o sinal do GPS seja forte o suficiente pra nos guiar."
+102Mug="05r"
+103="Seus faróis não parecem fazer muito efeito. Usa o farol alto."
+103Mug="14g"
+104="Não quero fazer isso, é falta de consideração com o tráfego que vem em sentido contrário. Vamos ficar bem."
+104Mug="05r"
+
+
+[Chapter100]
+101="Mais à frente, pegue a rotatória. Pegue a terceira saída."
+101Mug="04g"
+102="O que é uma 'roundabout'?"
+102Mug="14g"
+103="Isso é australiano pra 'rotatória'."
+103Mug="05r"
+104="Não vejo nenhuma rotatória. Aposto que quando você configurou o GPS pra ter sotaque australiano, você fez ele pensar que estávamos na Austrália."
+104Mug="14g"
+105="Não é assim que a coisa funciona."
+105Mug="05r"
+106="Por que não? Por que mais alguém configuraria o GPS pra falar em australiano?"
+106Mug="14g"
+
+[Chapter120]
+101="Tenho bastante certeza que estamos na Austrália. Quanto mais penso nisso, mais faz sentido."
+101Mug="14g"
+102="Não estamos na Austrália, Leslie. Não tem como dirigir da Virgínia até a Austrália."
+102Mug="05r"
+103="Querer é poder. Por que você não para e pede informações?"
+103Mug="14g"
+104="Porque eu não preciso."
+104Mug="05r"
+105="Quando a gente chegar na casa da minha tia uma hora atrasado, vou dizer pra ela que foi você quem não quis parar pra pedir informações."
+105Mug="14g"
+106="Tá bom."
+106Mug="05r"
+
+
+[Chapter150]
+101="Huh, que estranho. Devia ter um lago à nossa direita. Mas em vez disso, só tem uma parede de metal."
+101Mug="05r"
+102="Viu? Estamos perdidos!"
+102Mug="14g"
+103="Não estamos perdidos! Deve ser só construção nova. Me lembra de atualizar os dados do mapa do GPS quando chegarmos em casa."
+103Mug="05r"
+
+
+[Chapter200]
+101="Esse lugar simplesmente não acaba nunca, né."
+101Mug="14g"
+102="Pelo menos concordamos em algo hoje."
+102Mug="05r"
+103="Não seja assim. Todo mundo se perde às vezes."
+103Mug="14g"
+104="Eu não estou perdido!"
+104Mug="05r"
+
+
+[Chapter300]
+101="Viu como TUDO por aqui só quer nos matar? Com certeza estamos na Austrália."
+101Mug="14g"
+102="Para com isso, Leslie."
+102Mug="05r"
+
+[Chapter350]
+101="Mais à frente, fique na faixa da esquerda."
+101Mug="04g"
+102="Ah, olha, consigo ver a Ponte de Delaware daqui. Acho que voltamos ao caminho certo."
+102Mug="05r"
+103="Não sei se aquele atalho economizou algum tempo pra gente ou não."
+103Mug="14g"
+104="Claro que economizou. Provavelmente ainda estaríamos presos em Jersey se não tivéssemos ido por ali."
+104Mug="05r"
+105="Se você diz..."
+105Mug="14g"
+
+
+[Chapter900]
+101="Você sai da estrutura estranha só pra se ver preso de novo no mesmo trânsito de rodovia interestadual que estava tentando evitar...só que na Austrália, porque a Leslie estava certa. Da próxima vez você devia escutá-la."
+101Mug="06h"
+
+[Chapter950]
+101="Você mal percebeu que seu GPS era capaz de navegar por buracos de minhoca no espaço-tempo. Acontece que vocês estavam, de fato, na Austrália. Vocês também passaram por Taiti, Plutão, e Akron, Ohio, cada um dos quais cortou tempo da sua chegada esperada. Ainda assim, vocês chegaram atrasados na casa da sua tia."
+101Mug="06h"
+

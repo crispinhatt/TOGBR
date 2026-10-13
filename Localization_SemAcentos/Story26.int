@@ -1,0 +1,170 @@
+[Cast]
+Title="Fiscal de Normas"
+13="Voce, Chilli Fernando"
+09="Don Arugula, Chefao da Mafia"
+
+[Chapter1]
+101="Don Arugula! Onde voce esta, seu patife? Eu sou Chilli Fernando, e vim aqui fazer voce pagar."
+101Mug="13g"
+102="Chilli quem? Como voce entrou aqui?"
+102Mug="09g"
+103="Isso nao importa. Acabou a brincadeira. Voce foi pego em flagrante!"
+103Mug="13g"
+104="Bobagem! Retire-se da minha residencia antes que eu mande atirar em voce."
+104Mug="09g"
+
+[Chapter6]
+101="E o melhor que voce consegue me lancar, Don Arugula? Pensei que voce era pra ser um figurao ou algo assim."
+101Mug="13g"
+102="Ouvi dizer que voce controlava dois tercos dessa cidade. Ouvi dizer que voce tinha metade do departamento de policia no bolso."
+102Mug="13g"
+103="Eu esperava uma seguranca mais forte!"
+103Mug="13g"
+104="Quem exatamente e o senhor, Sr. Chilli Fernando? E o que e que o senhor quer de mim?"
+104Mug="09g"
+105="Vim aqui pra te levar a justica, Don Arugula. Ninguem esta acima da lei."
+105Mug="13g"
+
+
+[Chapter30]
+101="Entao quais acusacoes o senhor apresenta contra mim? E que esperanca o senhor tem de convencer um juiz quando tantos outros falharam?"
+101Mug="09g"
+102="Eu nao vou te levar a julgamento, Don Arugula. Isso e entre voce e eu."
+102Mug="13g"
+103="Entendo. Entao o senhor e um justiceiro... que pitoresco."
+103Mug="09g"
+
+[Chapter40]
+101="O senhor e obviamente um homem com uma vinganca pessoal. Me diga como eu te prejudiquei."
+101Mug="09g"
+102="O senhor viu seu bairro cair sob meu controle? Algum amigo seu encontrou seu fim como dano colateral das minhas acoes? Me diga."
+102Mug="09g"
+103="Nao e nada pessoal, Don Arugula. Voce e so um nome numa lista pra mim."
+103Mug="13g"
+104="Que lista e essa? O senhor me intriga, pequeno homem da lei."
+104Mug="09g"
+
+
+[Chapter50]
+101="O senhor esta perdendo seu tempo, pequeno homem da lei. Nao tem nada incriminador aqui. Acha que eu seria tao tolo?"
+101Mug="09g"
+102="Um chefao sabio mantem as maos limpas, nao importa quao suja seja a tarefa. Onde esta a evidencia que o senhor vai precisar pra uma condenacao."
+102Mug="09g"
+103="O senhor e Don Arugula?"
+103Mug="13g"
+104="Sim."
+104Mug="09g"
+105="Entao eu nao preciso de evidencia nem de condenacao. Eu ja sei que voce e culpado."
+105Mug="13g"
+106="E assim que vai ser, entao?"
+106Mug="09g"
+
+[Chapter60]
+101="Quem e o senhor de verdade, Chilli Fernando? Nao tem distintivo, nao tem uniforme, nao tem carro identificado, nenhum respeito pelo devido processo legal."
+101Mug="09g"
+102="O senhor nao e do FBI, e? Ou da CIA? Nao e da policia local, isso e certo."
+102Mug="09g"
+103="Sera que o senhor e so algum detetive solitario com uma vinganca e uma arma? O que te move assim?"
+103Mug="09g"
+104="Dever civico, normas municipais, e um salario, amigao. Agora para de enrolar e fala comigo cara a cara."
+104Mug="13g"
+105="Acho que nao. Minha Tower of Guns vai te destruir."
+105Mug="09g"
+
+
+[Chapter65]
+101="Suponho que nao devia me surpreender. Um chefao sabio nao trilha o caminho que eu trilhei sem se preparar pra um dia como esse."
+101Mug="09g"
+102="Mas voce, voce e so um mosquito irritante. Voce nao vai ser quem vai derrubar meu imperio."
+102Mug="09g"
+103="Vou te esperar no meu solario la em cima, onde varios dos meus automatos enormes vao te pulverizar."
+103Mug="09g"
+104="Otimo. Estou a caminho."
+104Mug="13g"
+
+
+[Chapter70]
+101="Me diga, o senhor tem um mandado? Meus capangas no forum teriam me avisado se um tivesse sido emitido."
+101Mug="09g"
+102="Nao tenta me enganar com esse seu palavreado chique. Eu tenho uma missao e determinacao, e voce nao pode me impedir."
+102Mug="13g"
+103="Que interpretacao interessante da constituicao. Me diga, quem esta usando a face de um criminoso hoje?"
+103Mug="09g"
+104="A cara da sua mae e criminosa."
+104Mug="13g"
+105="Nao fala da Mamae Arugula. Voce nao conhece a Mamae Arugula."
+105Mug="09g"
+
+[Chapter100]
+101="Finalmente! O ultimo andar. Agora o senhor vai responder pelos seus crimes, Don Arugula."
+101Mug="13g"
+102="E qual crime e esse? Empregar milhares de pessoas? Contribuir pra economia local? Ajudar as pessoas a aproveitarem suas vidas miseraveis?"
+102Mug="09g"
+103="Meu oficio pode ser ilicito, mas quem e o senhor pra julgar minhas motivacoes."
+103Mug="09g"
+104="Nao estou te julgando, amigao. Seu nome esta na lista e eu tenho um trabalho a fazer."
+104Mug="13g"
+105="Suspiro..voces homens da lei sempre carecem de perspectiva."
+105Mug="09g"
+
+[Chapter120]
+101="Essa e sua ultima chance, Don Arugula."
+101Mug="13g"
+102="Eu nunca vou ceder. Voce nunca vai me pegar vivo. Nao me arrependo de nada!"
+102Mug="09g"
+103="Muito bem. Se o senhor nao vai devolver o que deve, entao esse e o fim pra voce!"
+103Mug="13g"
+
+[Chapter150]
+101="Espera, o que voce quis dizer antes com 'devolver o que deve'...o que exatamente voce acha que eu te devo?"
+101Mug="09g"
+102="Nao se faz de bobo comigo! O senhor pegou emprestado um exemplar de Cinquenta Tons de Cinza, de E.L. James, la em agosto. Esta seis semanas atrasado."
+102Mug="13g"
+103="Voce e da biblioteca municipal? Nao e do Governo Federal?"
+103Mug="09g"
+104="Embora recebamos uma pequena quantia de financiamento Federal (alem dos fundos estaduais e municipais), agimos de forma autonoma!"
+104Mug="13g"
+105="... E voce so quer o livro da biblioteca de volta..? So isso? Mais nada? Nada mais importante?"
+105Mug="09g"
+106="Nada e mais importante que a alfabetizacao! Normalmente a gente nao e tao insistente, mas tem uma lista de espera longa pra esse livro."
+106Mug="13g"
+107="Ah... ok, entao... uh... Deixa eu ir procurar."
+107Mug="09g"
+108="Otimo!"
+108Mug="13g"
+
+
+[Chapter200]
+101="Retiro o que disse, eu nunca vou devolver esse livro! Nunca cheguei nem a le-lo, mas Don Arugula nao se curva a nenhuma instituicao!"
+101Mug="09g"
+102="Alias, nao consigo achar ele."
+102Mug="09g"
+103="Entao o senhor vai ter que pagar uma taxa de reposicao. Com juros."
+103Mug="13g"
+104="Isso e o que vamos ver!"
+104Mug="09g"
+
+[Chapter300]
+101="Voce destruiu todos os meus lacaios robos! Eu ja disse que nao sei onde esta o livro!"
+101Mug="09g"
+102="Continua procurando. Vamos revirar esse lugar ate encontrarmos."
+102Mug="13g"
+
+
+[Chapter350]
+101="Uau, eu nao pensei que ia ter que *literalmente* revirar aquele lugar pra encontrar o livro!"
+101Mug="13g"
+102="Naaaao, meu imperio criminoso! Esta tudo em cinzas agora!"
+102Mug="09g"
+103="Sua biblioteca agradece sua compreensao!"
+103Mug="13g"
+
+
+[Chapter900]
+101="Leva quase uma hora pra Don Arugula descobrir onde ele colocou o livro, mas eventualmente ele o encontra e voce segue seu caminho. Voce nao tem certeza do porque ele nao quis cooperar no inicio. Algumas pessoas simplesmente nao tem muita consciencia civica."
+101Mug="06h"
+
+[Chapter950]
+101="Nos seus esforcos pra encontrar o livro atrasado, voce nao so destroi o imperio criminoso de Don Arugula e sua aterrorizante Tower of Guns, como tambem acaba com o acesso dele a internet. Voce ve muito mais o Don Arugula agora, ja que ele passa na biblioteca todo dia por volta da 1 da tarde pra checar suas mensagens no OkCupid."
+101Mug="06h"
+

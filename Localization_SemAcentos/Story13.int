@@ -1,0 +1,188 @@
+[Cast]
+07="Voce, Irmao Mike, o Cara da Musica do ToG"
+04="Joe, seu irmao mais novo, desenvolvedor do ToG"
+06="Joe, seu irmao mais novo, desenvolvedor do ToG"
+10="Voce, Irmao Mike, o Cara da Musica do ToG"
+09="Voce, Irmao Mike, o Cara da Musica do ToG"
+05="Joe, seu irmao mais novo, desenvolvedor do ToG"
+
+[Chapter1]
+101="Entao, como isso funciona mesmo, Joe?"
+101Mug="07r"
+102="As historias sao todas aleatorias. E bobas."
+102Mug="04g"
+103="Voce esta fazendo um enredo bobo de proposito pro seu jogo?"
+103Mug="07r"
+104="Eu uso a palavra 'boba' com carinho. E nao, nao e so uma historia — sao muitas. Estou canalizando minha crianca interior de 8 anos."
+104Mug="04g"
+105="Quando voce inicia o jogo, um enredo aleatorio e escolhido e essa e a historia do jogo."
+105Mug="04g"
+106="Isso e bem estranho..."
+106Mug="07r"
+
+[Chapter6]
+101="Entao as salas sao aleatorias, os itens sao aleatorios, os chefes sao aleatorios e o.. enredo.. e aleatorio?"
+101Mug="07r"
+102="Principalmente aleatorio. Eles fazem -algum- sentido..so nao muito. Isso me da algo pra trabalhar quando estou longe do meu computador de desenvolvimento e so tenho um laptop com um editor de texto."
+102Mug="04g"
+103="Bizarro."
+103Mug="07r"
+
+
+[Chapter30]
+101="Esse nivel parece bem interessante. Voce vai algum dia implementar aqueles efeitos sonoros de lava que eu fiz pra voce?"
+101Mug="07r"
+102="Uh...er...Espero que algum dia. Eu nao esqueci."
+102Mug="04g"
+103="E os sons de engrenagem pra aquele outro nivel."
+103Mug="07r"
+104="Voce fez sons de engrenagem pra mim?"
+104Mug="04g"
+105="Fiz um monte deles. Coloquei na mesma pasta dos sons de lava."
+105Mug="07r"
+106="Que sons de lava?"
+106Mug="04g"
+
+[Chapter40]
+101="Ah, voce me contou sobre esse nivel. Ele tem todas aquelas engrenagens em movimento e tal."
+101Mug="07r"
+102="Tem sim. Eu tinha feito elas girarem absurdamente rapido, mas elas me fizeram vomitar."
+102Mug="04g"
+103="Serio?"
+103Mug="07r"
+104="Sim, serio... Bom... mais ou menos... Bom... meio que... Bom... elas me deixaram bem tonto. Acho que eu nao vomitei de verdade. Mas eu teria vomitado."
+104Mug="04g"
+
+[Chapter50]
+101="Por que raios meu icone me mostra como um Mago Robo?"
+101Mug="07r"
+102="Eu quis reaproveitar a arte, e voce e mais velho que eu."
+102Mug="04g"
+103="Eu nem tenho barba hoje em dia. Voce e quem tem barba."
+103Mug="07r"
+104="Nao, o que eu tenho se chama 'nao fazer a barba'. Nao e a mesma coisa que ter barba."
+104Mug="04g"
+
+[Chapter60]
+101="Ah, eu estava me perguntando onde voce ia usar essa musica. Esse e o nivel de tecnologia computadorizada?"
+101Mug="07r"
+102="Isso ai. Eu me diverti com esse conjunto de arte."
+102Mug="04g"
+103="Sabe, voce provavelmente devia contar pro 'eu' da vida real que voce esta fazendo um enredo com um 'eu' falso no jogo de verdade."
+103Mug="07r"
+104="Acho que seria mais divertido ver se voce realmente esbarra nisso por acaso."
+104Mug="04g"
+105="Mas e se voce me ofender fazendo meu rosto um mago robo?"
+105Mug="07r"
+106="Acho que a maioria dos irmaos ja chamou um ao outro de coisas piores que mago robo. Alem disso voce podia ser um robo generico, que nem eu."
+106Mug="04g"
+107="Isso e verdade. Nao tem nada pior do que ser um robo de aparencia generica que nem voce."
+107Mug="07r"
+108="..."
+108Mug="04g"
+
+
+[Chapter65]
+101="Quanto tempo mais isso vai durar? Eu tenho trabalho amanha."
+101Mug="07r"
+102="Voce ja esta chegando no fim agora. Mais um nivel."
+102Mug="06r"
+103="Ei! Por que voce nao e mais um robo generico?"
+103Mug="07r"
+104="Como o desenvolvedor, eu posso me tornar um alienigena se eu quiser."
+104Mug="06r"
+105="Bom, eu quero escolher um rosto diferente!"
+105Mug="07r"
+106="Eu nao fiz nenhum sistema pra deixar o jogador escolher o rosto dele. Mas aqui, eu posso te transformar manualmente em outra coisa."
+106Mug="06r"
+107="Voce me transformou num zumbi?!"
+107Mug="10g"
+108="E..desculpa por isso. Estou sem desenhos no momento."
+108Mug="06r"
+109="Voce nao esta nao!"
+109Mug="10g"
+
+
+[Chapter70]
+101="Cara, esse nivel e bem escuro. Foi pra isso que eu fiz aquela trilha ambiente assustadora, ne?"
+101Mug="07r"
+102="Isso ai. Eu quis fazer algo um pouco diferente do resto do jogo. Ate inimigos faceis voltam a ser uma ameaca nesse nivel."
+102Mug="04g"
+103="Talvez esteja um pouco escuro demais. Sinto que vou cair pra minha morte."
+103Mug="07r"
+104="Nao, nao se voce tiver uma quantidade decente de vida. Esses buracos nao sao sem fundo."
+104Mug="04g"
+
+
+[Chapter100]
+101="Acho que nao gosto de ser um zumbi nesse jogo. Me transforma em outra coisa."
+101Mug="10g"
+102="No que mais voce quer ser?"
+102Mug="06r"
+103="Sei la. Me deixa com uma cara legal."
+103Mug="10g"
+104="Aqui esta, voce pode ser o retrato da I.A. Maligna do Computador."
+104Mug="06r"
+105="Ah, legal. Gostei."
+105Mug="09r"
+
+[Chapter120]
+101="Voce nao acha que o jogador ia querer mudar o retrato dele? Eu acho que sim."
+101Mug="09r"
+102="Ah, tenho certeza que sim..mas eu sou so um desenvolvedor. Eu preciso me manter focado se eu quiser terminar de construir esse jogo."
+102Mug="06r"
+103="Certo, certo. 'Talvez numa sequencia'. Foi isso que voce disse sobre todas aquelas ideias incriveis de som que eu tambem tive."
+103Mug="09r"
+
+[Chapter150]
+101="Quantas historias voce esta planejando enfiar nesse jogo?"
+101Mug="09r"
+102="Pelo menos quatro."
+102Mug="06r"
+103="Quatro nao sao muitas historias."
+103Mug="09r"
+104="Bom, isso e quatro vezes a MAIORIA dos jogos. Alem disso, minhas historias sao REALMENTE REALMENTE ruins. Lembra, irmao Mike, e sobre quantidade, nao qualidade."
+104Mug="06r"
+105="Nao e bem assim que essa frase funciona.."
+105Mug="09r"
+
+
+[Chapter200]
+101="Sobre aquela coisa de quantidade versus qualidade...na maioria das vezes esse e um argumento pra ter MAIS foco num projeto e limitar o escopo."
+101Mug="09r"
+102="A Tower of Guns tem um escopo bem limitado, porem. So tem, tipo, tres botoes nesse jogo."
+102Mug="06r"
+103="Mas essas coisinhas de dialogo... Voce realmente acha que as pessoas vao nem se importar com elas?"
+103Mug="09r"
+104="Talvez nao. Tem uma opcao pra desativar elas."
+104Mug="06r"
+
+[Chapter300]
+101="Sabe, esse jogo podia ser decente..so nao gasta tempo demais nessa coisa de historia — especialmente se voce nao pode pagar por dublagem."
+101Mug="09r"
+102="Alguns jogos sao simplesmente melhores sem nenhuma historia."
+102Mug="09r"
+103="Eu tenho alguns colegas que te chamariam de louco. De qualquer forma, voce ja esta quase terminando agora."
+103Mug="05g"
+104="Quando voce virou um retrato de cachorro? "
+104Mug="09r"
+105="Que retrato de cachorro?"
+105Mug="04g"
+106="Para de mexer comigo."
+106Mug="09r"
+
+[Chapter350]
+101="Entao o que voce acha desse jogo, Mike, agora que terminou?"
+101Mug="04g"
+102="Acho que a musica e bem legal. Deviam dar uma medalha pro cara da musica."
+102Mug="09r"
+
+[Chapter900]
+101="Voce sai do Santuario se sentindo bem orgulhoso de si mesmo. Voce nao chega ao fim de Tower of Guns com tanta frequencia, apesar de jogar FPS desde os tempos de colegio. Voce sempre esquece que foi voce quem contou pro Joe pela primeira vez sobre aquele jogo chamado DOOM..."
+101Mug="06h"
+
+[Chapter950]
+101="Voce completa Tower of Guns e vai pra cama, sonhando em mudar seu retrato de personagem pro Jimi Hendrix. Um dia, o voce de verdade, o Irmao Mike do mundo real e nao desse videogame, talvez encontre essa mensagem e se pergunte... 'Que tipo de medicacao o Joe estava tomando quando escreveu esse dialogo bobo'...? A Resposta: Privacao de Sono."
+101Mug="06h"
+
+

@@ -1,0 +1,798 @@
+[SeqAct_TOGRenderLoadout]
+HoverUnlockstr="Para Desbloquear Esta Arma:"
+ChooseGunStr="Escolha Sua Arma:"
+
+[SeqAct_TOGRenderPerk]
+HoverUnlockstr="Para Desbloquear Este Perk:"
+ChoosePerkStr="Escolha Seu Perk:"
+
+[TOG_GameState_Global]
+SavedPerkList[0]=(PerkName="Bluegrass", PerkDesc="Triplo-salto desde o início",PerkUnlockReq="Sempre Desbloqueado");
+SavedPerkList[1]=(PerkName="Lift Ticket", PerkDesc="Imune a dano de queda",PerkUnlockReq="Sempre Desbloqueado");
+SavedPerkList[2]=(PerkName="Fireforce", PerkDesc="Imune a Dano Ambiental (Lava/Espinho/Etc)",PerkUnlockReq="Vença a Fundição");
+SavedPerkList[3]=(PerkName="TooYoungToDie", PerkDesc="Dificuldade--,DMG/Armadura/Loot/XP++",PerkUnlockReq="Receba 4000 de Dano");
+SavedPerkList[4]=(PerkName="Junkman", PerkDesc="Loot nunca desaparece",PerkUnlockReq="Colete 0451 itens de loot em 1 vida"); //0451 is a DX reference
+SavedPerkList[5]=(PerkName="Major Moose", PerkDesc="Imune a autodano",PerkUnlockReq="Receba um golpe de +100 de DMG (e sobreviva)");
+SavedPerkList[6]=(PerkName="Tunnel Rat", PerkDesc="Velocidade++, Armadura--",PerkUnlockReq="Dispare 2999 Tiros");
+SavedPerkList[7]=(PerkName="Taco Terror", PerkDesc="Permite Arma Nível 6",PerkUnlockReq="Suba de nível 70 vezes");
+SavedPerkList[8]=(PerkName="Lifeline", PerkDesc="Vida++",PerkUnlockReq="Encontre 5 upgrades de vida em 1 vida");
+SavedPerkList[9]=(PerkName="Grease Pit", PerkDesc="Sorte++",PerkUnlockReq="Encontre 15 Emblemas em 1 Vida");
+SavedPerkList[10]=(PerkName="NightMare", PerkDesc="Dificuldade++, Velocidade++, Todos os Campeões",PerkUnlockReq="Vença o jogo");
+SavedGunList[0]=(GunName="Peas-N-Carrots Pistol")
+SavedGunList[1]=(GunName="Portable Pizza Thrower")
+SavedGunList[2]=(GunName="Babel Gun")
+SavedGunList[3]=(GunName="Blatherskite Crossbow")
+SavedGunList[4]=(GunName="Egon's Pride")
+SavedGunList[5]=(GunName="609mm Hand Cannon")
+SavedGunList[6]=(GunName="Kegerator")
+SavedGunList[7]=(GunName="Mini-LHC Gun")
+SavedGunList[8]=(GunName="Consolation Charger")
+SavedGunList[9]=(GunName="Hedgehog")
+
+
+[SeqAct_TOGRenderCollection]
+WinDeathRatioStr="Proporção de Vitórias/Mortes: "
+CollectionTitle="Coleção"
+UberWinStr="UberVitórias: "
+ShotsFireStr="Tiros Disparados: "
+RobotsKilledStr="Robôs Mortos:"
+AverageStr="  Média:"
+HugbotsKilledStr="Hugbots Massacrados: "
+RecordLifespan="Vida Recorde:"
+LifespanMinutesStr=Mins
+LifespaceSecondsSymbol=S
+LifespanSecondsStr="Vida Recorde:"
+BestRunStr="Melhor Corrida:"
+StagesCompleteStr="Fases Completas"
+RankStr="Rank:"
+RankNullStr="Robôs Mortos Insuficientes"
+PercetangeCompleteStr="% Completo"
+RandHintText[0]="Você coletou todos os itens?"
+RandHintText[1]="Você pegou todos os mods de arma?"
+RandHintText[2]="Você desbloqueou todos os perks?"
+RandHintText[3]="Você adquiriu todas as armas?"
+RandHintText[4]="Você completou o jogo com todos os perks?"
+RandHintText[5]="Você conseguiu UberVitória com todas as armas?"
+RandHintText[6]="Você matou todos os chefes pelo menos uma vez?"
+RandHintText[7]="Você derrotou todo tipo de inimigo?"
+RankHugbot[0]=" "
+RankHugbot[1]Sympathetic
+RankHugbot[2]=Íntegro
+RankHugbot[3]=Majoritariamente Benevolente
+RankHugbot[4]=Indiferente
+RankHugbot[5]=Pragmático
+RankHugbot[6]=Oportunista
+RankHugbot[7]=Sem Emoção
+RankHugbot[8]=Moralmente Questionável
+RankHugbot[9]=De Ocasião
+RankHugbot[10]=Rude
+RankHugbot[11]=Não Muito Legal
+RankHugbot[12]=Repreensível
+RankHugbot[13]=Flatulento
+RankHugbot[14]=Cruel
+RankHugbot[15]=Sem Coração
+RankHugbot[16]=Repulsivo
+RankHugbot[17]=Detestável
+RankHugbot[18]=Desprezível
+RankHugbot[19]=Abominável
+RankHugbot[20]=Revoltante
+RankHugbot[21]=Infame
+RankHugbot[22]=Vilanesco
+RankHugbot[23]=Retorcido
+RankHugbot[24]=Vil
+RankHugbot[25]=Sádico
+RankKillDeath[0]=" "
+RankKillDeath[1]=Propenso a Acidentes
+RankKillDeath[2]=Ansioso
+RankKillDeath[3]=Entusiasmado
+RankKillDeath[4]=Treinado
+RankKillDeath[5]=Atrevido
+RankKillDeath[6]=Habilidoso
+RankKillDeath[7]=Notável
+RankKillDeath[8]=Brilhante
+RankKillDeath[9]=Conquistador
+RankKillDeath[10]=Divino
+RankKillDeath[11]=Apocalíptico
+RankKillDeath[12]=Provavelmente Trapaceando
+RankPercentComplete[0]=" "
+RankPercentComplete[1]=Leigo
+RankPercentComplete[2]=Hobbista
+RankPercentComplete[3]=Recruta
+RankPercentComplete[4]=Arruaceiro
+RankPercentComplete[5]=Blogueiro
+RankPercentComplete[6]=Artista Faminto
+RankPercentComplete[7]=Jornalista
+RankPercentComplete[8]=Comediante Stand-Up
+RankPercentComplete[9]=Robô Autoconsciente
+RankPercentComplete[10]=Abstêmio
+RankPercentComplete[11]=Designer Gráfico
+RankPercentComplete[12]=Autoridade Eleita
+RankPercentComplete[13]=Vendedor
+RankPercentComplete[14]=Estudante de Pós-Graduação
+RankPercentComplete[15]=Hoplita
+RankPercentComplete[16]=Advogado de Rhode Island
+RankPercentComplete[17]=Celebridade da Internet
+RankPercentComplete[18]=Profissional
+RankPercentComplete[19]=Delegado
+RankPercentComplete[20]=Montanhista
+RankPercentComplete[21]=Suboficial
+RankPercentComplete[22]=Técnico de T.I.
+RankPercentComplete[23]=Cabo
+RankPercentComplete[24]=Profissional
+RankPercentComplete[25]=Amolador de Facas
+RankPercentComplete[26]=Barista
+RankPercentComplete[27]=Pessimista
+RankPercentComplete[28]=Gerente Intermediário
+RankPercentComplete[29]=Brincalhão
+RankPercentComplete[30]=Professor
+RankPercentComplete[31]=Atirador Certeiro
+RankPercentComplete[32]=Sargento
+RankPercentComplete[33]=Contador
+RankPercentComplete[34]=Atração de Beira de Estrada
+RankPercentComplete[35]=Oficial
+RankPercentComplete[36]=Troll
+RankPercentComplete[37]=Doutor
+RankPercentComplete[38]=Texano
+RankPercentComplete[39]=Optometrista
+RankPercentComplete[40]=Jargonista
+RankPercentComplete[41]=Domador de Cocos
+RankPercentComplete[42]=Sussurrador de Ratos
+RankPercentComplete[43]=Dançarino de Luau
+RankPercentComplete[44]=Cenógrafo
+RankPercentComplete[45]=Guarda-Marinha
+RankPercentComplete[46]=Cozinheiro de Lanchonete
+RankPercentComplete[47]=Dublê
+RankPercentComplete[48]=V.I.P.
+RankPercentComplete[49]=Jardineiro
+RankPercentComplete[50]=Veterano
+RankPercentComplete[51]=Palhaço de Circo
+RankPercentComplete[52]=Cantor de Blues
+RankPercentComplete[53]=Corretor Ortográfico
+RankPercentComplete[54]=Ortopedista
+RankPercentComplete[55]=Microgerenciador
+RankPercentComplete[56]=Semifinalista
+RankPercentComplete[57]=Capitão
+RankPercentComplete[58]=Elitista
+RankPercentComplete[59]=Piloto
+RankPercentComplete[60]=Xerife
+RankPercentComplete[61]=Lunático
+RankPercentComplete[62]=Diretor de Prisão
+RankPercentComplete[63]=Garota Espertinha
+RankPercentComplete[64]=Vencedora de Concurso de Beleza
+RankPercentComplete[65]=Tenente
+RankPercentComplete[66]=Floco de Neve Único
+RankPercentComplete[67]=Marechal
+RankPercentComplete[68]=Jardineiro
+RankPercentComplete[69]=Senhor da Guerra
+RankPercentComplete[70]=Diretor
+RankPercentComplete[71]=Coronel
+RankPercentComplete[72]=Estrela do Rock
+RankPercentComplete[73]=Brigadeiro
+RankPercentComplete[74]=Líder Alienígena
+RankPercentComplete[75]=Semeador do Medo
+RankPercentComplete[76]=Especialista
+RankPercentComplete[77]=Professor de Escola
+RankPercentComplete[78]=Caçador de Tesouros
+RankPercentComplete[79]=Ícone de Hollywood
+RankPercentComplete[80]=Cientista Louco
+RankPercentComplete[81]=Gênio
+RankPercentComplete[82]=Salva-Vidas
+RankPercentComplete[83]=Detetive
+RankPercentComplete[84]=Estatístico
+RankPercentComplete[85]=Vencedor do NaNoWriMo
+RankPercentComplete[86]=Estrategista
+RankPercentComplete[87]=Cartunista Online
+RankPercentComplete[88]=Brigadeiro
+RankPercentComplete[89]=Etimologista
+RankPercentComplete[90]=Youtuber
+RankPercentComplete[91]=Escultor de Topiaria
+RankPercentComplete[92]=Filhote
+RankPercentComplete[93]=Agente Secreto
+RankPercentComplete[94]=Bárbaro
+RankPercentComplete[95]=Cowgirl
+RankPercentComplete[96]=Anão Robô
+RankPercentComplete[97]=Behemoth
+RankPercentComplete[98]=Rei da Discoteca
+RankPercentComplete[99]=Peso-Pesado
+RankPercentComplete[100]=Campeão
+RankPercentComplete[101]=Caçador de Tesouros
+RankPercentComplete[102]=Vilão de Filme
+RankPercentComplete[103]=Modelo de Mãos
+RankPercentComplete[104]=Membro do Hall da Fama
+RankPercentComplete[105]=Grão-Mestre
+RankPercentComplete[106]=Ameba Espacial
+RankPercentComplete[107]=Ditador
+RankPercentComplete[108]=Portador da Perdição
+RankPercentComplete[109]=Guru
+RankPercentComplete[110]=Líder de Quadrilha
+RankPercentComplete[111]=Chefão
+RankPercentComplete[112]=I.A. Senciente
+RankPercentComplete[113]=Mito Vivo
+RankPercentComplete[114]=Lenda
+RankPercentComplete[115]=Deus Ancestral
+RankPercentComplete[116]=Pirotécnico
+RankPercentComplete[117]=Completista
+RankPercentComplete[118]=O Escolhido
+
+
+[TOG_EndLifeStatsHUD]
+StatsTitle="Estatísticas"
+VitalStatsTitle="Estatísticas Vitais: "
+RatioStr="Proporção de Vitórias/Mortes: "
+LifespanStr="Vida: "
+LifeSpanTimeMinutes="Mins"
+LifeSpanTimeSeconds="Segundos"
+MoneyStr="Dinheiro: "
+DifficultStatStr="Dificuldade Final: "
+CommonLootStr="Contagem de Loot Comum: "
+TotalDamageTakenStr="Dano Total Recebido: "
+NumStagesCompleteStr="Fases Completas: "
+OfEndlessStr= "Infinito"
+//shown as a ratio, 5/Endless if in endless mode
+HugbotKillsStr="Mortes de Hugbot: "
+AbilityTitle="Estatísticas de Habilidade: "
+MagnetStr="Distância do Ímã: "
+SpeedStr="Velocidade: "
+WeaponXPRateStr="Taxa de XP de Arma: "
+LuckStr="Sorte: "
+CritStr="Fator de Crítico: "
+//As in "Acerto crítico" factor
+ArmorStr="Armadura: "
+DamageMultStr="Multiplicador de Dano: "
+ItemChargeStr="Taxa de Carga de Item: "
+MaxHPStr="Vida Máxima: "
+JumpHeightStr="Altura de Pulo: "
+NumJumpsStr="Pulos Extras: "
+;//we should add Grip's twitter/site here too
+ClosingStrLine1="Siga o Joe (o Desenvolvedor)
+ClosingStrLine2="@blankslatejoe no twitter!"
+ClosingStrLine3="www.towerofguns.com"
+ItemStr="Item: "
+NoItemStr="Nenhum Item"
+BadgeStr="Emblemas: "
+AndMoreLine1="...e"
+AndMoreLine2="mais..."
+PerkStr="Perk: "
+GunStr="Armas: "
+YouWinStr="Você Venceu!"
+WinsCounterStr="Vitórias"
+UberWinsCounterStr="Uber Vitórias"
+SurvivalTimeStr="Tempo de Sobrevivência: "
+DGAlt[0]="Já que você desativou a história boba no menu de equipamento, você não ganha nada interessante aqui, em termos de história. Mas bom trabalho mesmo assim, camarada!"
+DGAlt[1]="Talvez algum dia haja um diálogo interessante aqui. Provavelmente não."
+DGAlt[2]="Você desligou o diálogo bobo..senão você ouviria histórias épicas contadas através de frases de efeito ineficazes."
+DGAlt[3]="Deixar o Diálogo ligado é coisa de fracote. Você não precisa de motivação de história pra vencer a Tower of Guns."
+DGAlt[4]="Ao pular o Diálogo bobo, você realmente perde o quão terrível é a história de Tower of Guns. Isso te torna o vencedor em dobro."
+DGAlt[5]="Às vezes vai ter um diálogo de parabéns de verdade aqui. Às vezes vai ter essa mensagem no lugar."
+DGAlt[6]="Todos os garotos descolados desligam o diálogo pra poder ver esse texto no lugar."
+DGAlt[7]="A história de Tower of Guns é tão derivativa que é melhor nem vê-la. Essa mensagem é pra nós que gostamos de pular o diálogo."
+DGAlt[8]="Os que Pulam o Diálogo Bobo são a raça superior de Tower of Guns, e você...você é um espécime premiado!"
+DGAlt[9]="Ainda bem que você desligou o Diálogo no menu de Equipamento, senão você podia ter ficado ofendido. Em vez disso, você é simplesmente UM VENCEDOR!"
+DGAlt[10]="Muito bom trabalho, meu amigo estiloso!"
+
+[TOGHUD2]
+NoItemEquippedString=Nenhum Item Equipado
+ItemUseStringLine1="Pressione E"
+ItemUseStringLine2="Para Usar"
+//keep ItemUseStringLine1 short, 7-8 characters, use ItemUseStringLine2 for more, replace with "" if not needed
+HUDXStr=" x "
+HUDSpeedStr=" Velocidade:"
+EndlessStageNumStr="Modo Infinito: Fase #"
+ForcedNightmareStr=Modo Pesadelo
+StageCompleteStr=Fase Completa!
+StageParStr="Meta da Fase:"
+TimeStr="Tempo:"
+TotalTimeStr="Tempo Total:"
+SecretsStr="Segredos Encontrados:"
+TotalSecretsStr="Total de Segredos Encontrados:"
+EnteringStageStr="Entrando em:"
+EnteringParStr="Meta: "
+PawnKilledStr="Você Morreu"
+DeathsNumStr="Mortes:"
+BadgesStr="Emblemas Coletados:"
+ItemsStr="Itens Coletados:"
+MaxStr=MÁX
+//varMAXStr MUST be three letters or less, abbreviation for Maximum
+ContinueStrLine1="Pressione Espaço/"
+ContinueStrLine2="Para Continuar..."
+QuitStrLine1=Deseja Sair?
+QuitStrLine2=Pressione Y ou
+QuitStrLine3=Para Sim, N ou
+QuitStrLine4=para Não
+
+DefaultLoadingText=CARREGANDO...
+LoadingTextList[0]=..Semeando Spawn Aleatório de Inimigos..
+LoadingTextList[1]="..Girando os polegares.."
+LoadingTextList[2]=..Gerando Dados Composicionais de Nível..
+LoadingTextList[3]=..Aguardando o Framerate Alcançar..
+LoadingTextList[4]=..Provavelmente não fazendo nada importante..
+LoadingTextList[5]=..Sinalizando a Base Lunar pra Instruções..
+LoadingTextList[6]=..Tentando Parametrização de Gamificação..
+LoadingTextList[7]=..Enfileirando Listas..
+LoadingTextList[8]=..Listando Filas..
+LoadingTextList[9]=..Criando Parâmetros Customizados de Jogabilidade..
+LoadingTextList[10]=..Empregando Dicas de Despistamento..
+LoadingTextList[11]=..Gerando Desculpas de Tempo de Carregamento..
+LoadingTextList[12]=..Não Carregando. Só Pensando..
+LoadingTextList[13]=..Refletindo sobre a Condição Humana..
+LoadingTextList[14]=..Compilando Salvaguardas de Falha..
+LoadingTextList[15]=..Reencaminhamento Expectacional..
+LoadingTextList[16]=..Consertando Hugbots..
+LoadingTextList[17]=..Preparando o Palco..
+LoadingTextList[18]=..Gerando Combate Visceral..
+LoadingTextList[19]=..Realizando Due Diligence de Probabilidade de Carregamento..
+LoadingTextList[20]=..Estimando Suor Investido..
+LoadingTextList[21]=..Transbordando Pilhas de Panqueca..
+LoadingTextList[22]=..Gerando Texto de Carregamento Idiota..
+LoadingTextList[23]=..Incrementando Coisas Importantes..
+LoadingTextList[24]=..Assassinando todos os Patinhos em Fila..
+LoadingTextList[25]=..Descarregando Batatas Quentes..
+LoadingTextList[26]=..Condicionando Mobs pra Lutar até a Morte..
+LoadingTextList[27]=..Treinando Bugs pra se Comportar..
+LoadingTextList[28]=..Compilando lixo..
+LoadingTextList[29]=..Registrando coisas..
+LoadingTextList[30]=..Usando texto de carregamento fofo pra mascarar código ruim..
+LoadingTextList[31]=..Assimilando Usuário..
+LoadingTextList[32]=..Contratando Pistoleiros Suspeitos..
+LoadingTextList[33]=..Reconstruindo Bombbots fragmento por fragmento..
+LoadingTextList[34]=..Desfibrilando Spinbots..
+LoadingTextList[35]=..Desfragmentando Torretas..
+LoadingTextList[36]=..Ativando Modo 'Supercore'..
+LoadingTextList[37]=..Prevenindo Derretimento do Reator..
+LoadingTextList[38]=..Procurando Componentes Perdidos no Tapete..
+LoadingTextList[39]=..Alimentando Gatinhos Negligenciados..
+LoadingTextList[40]=..Tentando/Falhando o Fator de Ressonância..
+LoadingTextList[41]=..Aplicando filtro Bokeh..
+LoadingTextList[42]=..Gerando Labirinto de Caixotes..
+LoadingTextList[43]=..Removendo LensFlares..
+LoadingTextList[44]=..Super-MegaTexturizando...
+LoadingTextList[45]=..Autogerando Componentes de Próxima Geração..
+LoadingTextList[46]=..Simulando Cabelo Realista..
+LoadingTextList[47]=..Fazendo Benchmark da Tela de Carregamento..
+LoadingTextList[48]=..Aplicando Tudo..
+LoadingTextList[49]=..Mundificação Geométrica..
+LoadingTextList[50]=..Procurando um Helicóptero pra Pegar...
+LoadingTextList[51]=..Recebendo Lições de Pronúncia..
+LoadingTextList[52]=..Corrigindo Ortografia..
+LoadingTextList[53]=..Traduzindo pro Latim Vulgar...
+LoadingTextList[54]=..Apaziguando a Ansiedade de Desempenho da CPU..
+LoadingTextList[55]=..Fingindo..
+LoadingTextList[56]=..Se Esforçando pra Parecer Ocupado..
+LoadingTextList[57]=..Planejando com Antecedência, mas Não Fazendo Nada. Valeu, Earl.
+LoadingTextList[58]=..Dizendo Coisas Legais pro Processador Gráfico.
+LoadingTextList[59]=..Pré-Processando o Pós-Processamento..
+LoadingTextList[60]=..Aplicando Estereótipos de Gênero..
+LoadingTextList[61]=..Excisando Demônios de Código..
+LoadingTextList[62]=..Procurando Oceanos Azuis..
+LoadingTextList[63]=..Conceitualizando Atrevimento..
+LoadingTextList[64]=..Massacrando o Pré-Processador..
+LoadingTextList[65]=..Sabotando Certas Criocâmaras..
+LoadingTextList[66]=..Telescopando Feedback..
+LoadingTextList[67]=..Fazendo Magia Desajeitada..
+LoadingTextList[68]=..Fazendo Suposições Imprudentes..
+LoadingTextList[69]=..Tentando Ressuscitar a CPU..
+LoadingTextList[70]=..Se Rebelando Bem Devagar..
+LoadingTextList[71]=..Perturbando Pedestres Digitais..
+LoadingTextList[72]=..Colocando o XKCD em Dia..
+LoadingTextList[73]=..Lutando contra a Geleia Cinzenta..
+LoadingTextList[74]=..Estourou o Câmbio, Triturando Metal..
+LoadingTextList[75]=..Sentindo 'Vibrações Estranhas' dos sismógrafos..
+LoadingTextList[76]=..Forçando o GPS a evitar a ponte GW..de novo..
+LoadingTextList[77]=..Se Distraindo com a Internet..
+LoadingTextList[78]=..Leituras Magnetéricas Mostram Surto de Baratas..
+LoadingTextList[79]=..Agindo como um Macaco de Mão Única..
+LoadingTextList[80]=..Fazendo esse trambolho no Estilo Torta, Cara..
+LoadingTextList[81]=..Tendo um momento 'Dá um Jeito'..
+LoadingTextList[82]=..Ainda limpando a bagunça do último jogador..
+LoadingTextList[83]=..Solo Binário! 000000100000011!..
+LoadingTextList[84]=..Preparando o formulário 27b/6..
+LoadingTextList[85]=..Lasers, 8 horas, dia um..
+LoadingTextList[86]=..em breve terá compreensão de videocassetes..
+LoadingTextList[87]=..o Cálice do Palácio tem a Cerveja que é Verdadeira..
+LoadingTextList[88]=..Brooks esteve aqui..
+LoadingTextList[89]=..Não se engane. Não é tão organizado assim..
+LoadingTextList[90]=..Minha voz é meu passaporte. Me Verifique..
+LoadingTextList[91]=..Ajustando aleatoriedade semeada..
+LoadingTextList[92]=..Eu não sou um Brewster-Sou filho de um cozinheiro de navio..
+LoadingTextList[93]=..Felizmente, Buquês Funerários são dedutíveis..
+LoadingTextList[94]=..Quando um malho de croquet é como um cassetete?..
+LoadingTextList[95]=..o homem certo no lugar errado pode fazer toda a diferença..
+LoadingTextList[96]=..Com dificuldade? Tente não matar hugbots..
+LoadingTextList[97]=..Com dificuldade? Tente não matar hugbots..
+LoadingTextList[98]=..Com dificuldade? Tente não matar hugbots..
+LoadingTextList[99]=..Com dificuldade? Tente não matar hugbots..
+LoadingTextList[100]=..Preso? Tente 'Tilt' (padrão:'C')..
+LoadingTextList[101]=..Preso? Tente 'Tilt' (padrão:'C')..
+LoadingTextList[102]=..Preso? Tente 'Tilt' (padrão:'C')..
+LoadingTextList[103]=..Preso? Tente 'Tilt' (padrão:'C')..
+LoadingTextList[104]=..Por favor conte aos seus amigos sobre o ToG..
+LoadingTextList[105]=..Não tem problema fazer vídeos do ToG..
+LoadingTextList[106]=..Fique à vontade pra fazer live do ToG!..
+LoadingTextList[107]=..Valeu por apoiar o ToG, pessoal!..
+LoadingTextList[108]=..'Hug' tem 3 letras. 'Letras' começa com L. HL3 CONFIRMADO..
+LoadingTextList[109]=..Prescrevendo medicação digital forte..
+LoadingTextList[110]=..Completando inscrição do Festival de Jogos..
+LoadingTextList[111]=..Você acreditaria que isso foi feito em 3 dias pra uma game jam? Não foi.
+LoadingTextList[112]=..Eu tô te dizendo, foi o homem de um braço só..
+LoadingTextList[113]=..E não espere nenhuma compaixão do tubarão..
+LoadingTextList[114]=..Aviso: O Highlander era um documentário..
+LoadingTextList[115]=..Com licença, eu pensei que balas eram só balas..
+LoadingTextList[116]=..Removendo Sarcasmo de 1997, adicionando Ironia de 2010..
+LoadingTextList[117]=..Adicionando documentação salgada..
+LoadingTextList[118]=..Lendo os comentários..
+LoadingTextList[119]=..Evitando comparar o ACA com lançamento de MMO..
+LoadingTextList[120]=..Suprimindo 65 Milhões de anos de instinto..
+LoadingTextList[121]=..Nenhuma Aranha ou Visigodo permitido!..
+LoadingTextList[122]=..Personalizando sinalização sob medida..
+LoadingTextList[123]=..Deixa eu descascar seu biscoito, Vovó..
+LoadingTextList[124]=..Lidando com a estranheza de viagem no tempo com a maior facilidade.
+LoadingTextList[125]=..Comendo Poeira de Inteiros..
+LoadingTextList[126]=..Reconstruindo a Fila de Reconstrução..
+LoadingTextList[127]=..Tentei cortar e capinar. Esperando as flores crescerem..
+LoadingTextList[128]=..Procurando um Vestido Verde. Mas não um vestido verde de verdade, isso é cruel..
+LoadingTextList[129]=..Indo até a cozinha. Comendo um lanchinho..
+LoadingTextList[130]=..Sincronizando relógios digitais..
+LoadingTextList[131]=..Adicionando Produtos Escalares a todos os shaders..
+LoadingTextList[132]=..Lembre-se: o Pudge controla o clima..
+LoadingTextList[133]=..Esse é o meu segredo, Capitão. Estou sempre carregando..
+LoadingTextList[134]=..Muitas coisas afetam a dificuldade..
+LoadingTextList[135]=..Certamente há um motivo pra NÃO matar Hugbots, certo?..
+LoadingTextList[136]=..Às vezes é mais divertido simplesmente não matar tudo..
+LoadingTextList[137]=..minhas desculpas pelos bugs -joe..
+LoadingTextList[138]=..Hugbots não te machucam..Não é um sermão, é só uma reflexão..
+LoadingTextList[139]=..Nova York?..arruma uma corda..
+LoadingTextList[140]=..Praticando timing perfeito..
+LoadingTextList[141]=..Pagou seus tributos, Cara? Sim senhor, o cheque está no correio..
+LoadingTextList[142]=..Subornando o Unrealscript..
+LoadingTextList[143]=..Definindo 'Roguelike'..
+LoadingTextList[144]=..Espinhos ou Lava te derrubando? Experimente o Perk FireForce!..
+LoadingTextList[145]=..Empilhando as probabilidades contra você..
+LoadingTextList[146]=..Não esqueça da tecla 'Tilt'!
+LoadingTextList[147]=..'Tilt' pode ser bem útil pra escapar de uma situação complicada..
+LoadingTextList[148]=..Te enganando com truques de cinema baratos!..
+LoadingTextList[149]=..Eu curto rock and roll o dia inteiro, docinho!..
+LoadingTextList[150]=..Com dificuldade? Não jogue no Modo Infinito! É mais difícil!..
+LoadingTextList[151]=..O Modo Infinito dura até você morrer..
+LoadingTextList[152]=..O Modo Infinito é mais difícil, a propósito..
+LoadingTextList[153]=..Por que uma colher?
+LoadingTextList[154]=..Meu nome não é 'Laserlips' mas eu descendo de sopradores de neve..
+
+[TowerofGunsGame]
+UnlockPerkMessage="Novo Perk: "
+UnlockGunMessage="Nova Arma: "
+CheatStr[0]=Modo Somente Recuo
+CheatStr[1]=WhatsinTheCase?
+CheatStr[2]=FindthePlans!
+CheatStr[3]=Ui!
+CheatStr[4]=Boa Sorte, JC!
+CheatStr[5]=SoYouWantToBeAHat-on-aire?
+CheatStr[6]=Definindo Mortes!
+CheatStr[7]=Comprar Major Stryker?
+CheatStr[8]=Huh?
+CheatStr[9]=Modo Pé Quente?!
+CheatStr[10]=Velocidade Máxima!
+CheatStr[11]=Desculpa por isso!
+CheatStr[12]=TROLOLOLOLO!
+CheatStr[13]=Forçando desbloqueios!
+CheatStr[14]=Forçando desbloqueios!
+CheatStr[15]=Alguém Faça NOLF3
+CheatStr[16]=Modo Apostador Alto!
+CheatStr[17]=Modo Mistério!
+CheatStr[18]=Modo Elástico!
+
+[TOGInventoryManager]
+SwapWeaponsStr1=Trocar:
+SwapWeaponsStr2=Roda do Mouse
+
+[TOGPawn]
+DiceRollStr="Rolagem de Dado: "
+DiceRollMessageStr[0]=Modo Roubo de Vida
+DiceRollMessageStr[1]=Modo Roubo de Dinheiro
+DiceRollMessageStr[2]=Modo Roubo de XP
+DiceRollMessageStr[3]=Dano Quádruplo
+DiceRollMessageStr[4]=Meio Dano
+DiceRollMessageStr[5]=1/3 de Armadura
+DiceRollMessageStr[6]=Armadura Dobrada
+DiceRollMessageStr[7]=Pulo Extra Permanente
+DiceRollMessageStr[8]=Câmera Lenta
+DiceRollMessageStr[9]=Avanço Rápido
+DiceRollMessageStr[10]=Super Sorte
+DiceRollMessageStr[11]=Todos os Campeões
+DiceRollMessageStr[12]=Todos Críticos
+DiceRollMessageStr[13]=Loot Terrível
+DiceRollMessageStr[14]=Festival de Loot
+DiceRollMessageStr[15]=Forçar Hoppy
+DiceRollMessageStr[16]=Modo Vida Baixa
+DiceRollMessageStr[17]=Arma Sobe de Nível
+DiceRollMessageStr[18]=Arma Desce de Nível x 3
+DiceRollMessageStr[19]=DEBUG DE LOOT RARO
+DiceRollMessageStr[20]=Todo Loot é Dinheiro
+DiceRollMessageStr[21]=Loot de Vida Minúsculo
+DiceRollMessageStr[22]=Loot de XP Minúsculo
+DiceRollMessageStr[23]=Loot de Estrela Dolorosa
+DiceRollMessageStr[24]=Sem HUD!
+DiceRollMessageStr[25]=Pousos Dolorosos
+DiceRollMessageStr[26]=Metade da Reserva de Dinheiro
+DiceRollMessageStr[27]=+100 de Dinheiro
+DiceRollMessageStr[28]=Nada Acontece!
+DiceRollMessageStr[29]=Nada Acontece!
+RareDiceRollMessageStr[0]=Loot Hoppy
+RareDiceRollMessageStr[1]=Reserva de Dinheiro Dobrada
+RareDiceRollMessageStr[2]=Loot de Dificuldade
+RareDiceRollMessageStr[3]=Loot de Dificuldade
+
+
+[TOGChest]
+SaleSuccessString="Vendido"
+//ItemSoldStr MUST be four letters or less
+
+[Tog_SecretTrigger]
+FoundSecretStr=Encontrou um Segredo!
+FoundUberSecretStr=Encontrou um Uber-Segredo!
+
+[Tog_Chest_01]
+ItemSoldStr=VENDIDO
+//ItemSoldStr MUST be four letters or less
+
+[Tog_Pickup_Gold_giant]
+PopupStr="+100 de Ouro!"
+[Tog_Pickup_Multijump_01]
+PopupStr="Pulo Extra Adicionado!"
+[TOG_Pickup_SpeedUpgrade]
+PopupStr="Velocidade AUMENTOU!"
+[Tog_Pickup_W_Large]
+PopupStr="+100 de XP de Arma!"
+
+[TOG_Pickup_BadgeMasterList]
+BadgePopupStr[0]=Erro Sem Nome
+BadgePopupStr[1]=Vida Máxima AUMENTOU!
+BadgePopupStr[2]=Velocidade AUMENTOU!
+BadgePopupStr[3]=Pulo Extra Adicionado!
+BadgePopupStr[4]=Dano AUMENTOU!
+BadgePopupStr[5]=Armadura AUMENTOU!
+BadgePopupStr[6]=Sorte AUMENTOU!
+BadgePopupStr[7]=Altura de Pulo AUMENTOU!
+BadgePopupStr[8]=Dificuldade AUMENTOU!
+BadgePopupStr[9]=Dificuldade DIMINUIU!
+BadgePopupStr[10]=Taxa de XP Azul AUMENTOU!
+BadgePopupStr[11]=Alcance do Ímã!
+BadgePopupStr[12]=Taxa de Carga de Item AUMENTOU!
+BadgePopupStr[13]=Resultado Aleatório!
+BadgePopupStr[14]=Chance de Crítico AUMENTOU!
+RandomBadgeStr[0]=Nada Aconteceu
+RandomBadgeStr[1]=Dano AUMENTOU!
+RandomBadgeStr[2]=Velocidade AUMENTOU!
+RandomBadgeStr[3]=Taxa de Carga de Item AUMENTOU!
+RandomBadgeStr[4]=Taxa de XP Azul AUMENTOU!
+RandomBadgeStr[5]=Altura de Pulo AUMENTOU!
+RandomBadgeStr[6]=Armadura AUMENTOU!
+RandomBadgeStr[7]=Sorte AUMENTOU!
+RandomBadgeStr[8]=Pulo Extra Adicionado!
+RandomBadgeStr[9]=Vida Máxima AUMENTOU!
+RandomBadgeStr[10]=Chance de Crítico AUMENTOU!
+RandomBadgeStr[11]=Taxa de XP Azul DIMINUIU!
+RandomBadgeStr[12]=Dano DIMINUIU!
+RandomBadgeStr[13]=Dificuldade AUMENTOU!
+RandomBadgeStr[14]=Taxa de Carga de Item DIMINUIU!
+RandomBadgeStr[15]=Armadura DIMINUIU!
+RandomBadgeStr[16]=Altura de Pulo DIMINUIU!
+RandomBadgeStr[17]=Chance de Crítico DIMINUIU!
+
+[TOG_Item_Usable]
+NoItemStr=Nenhum Item
+
+[TOG_ItemMasterList]
+ItemList[0]=(ItemName="Aortic Levee Device", PopUPMessage="125 de Vida Restaurada!")
+ItemList[1]=(ItemName="Weaponized Monkey Wrench", PopUPMessage="ARMA SOBE DE NÍVEL!")
+ItemList[2]=(ItemName="Charged Aramid Injection", PopUPMessage="INVENCIBILIDADE TEMPORÁRIA!")
+ItemList[3]=(ItemName="John's All-Access Pass", PopUPMessage="Pulo de Foguete!")
+ItemList[4]=(ItemName="Demotivational Jelly", PopUPMessage="Cubo Lento!")
+ItemList[5]=(ItemName="Vasoconstriction Jelly", PopUPMessage="Cubo de Cura!")
+ItemList[6]=(ItemName="Anti-Enfilade Jelly", PopUPMessage="Cobertura Implantável!")
+ItemList[7]=(ItemName="Motivational Jelly", PopUPMessage="Cubo de Impulso!")
+ItemList[8]=(ItemName="Pyroclastic Jelly", PopUPMessage="Cubo de Fogo!")
+ItemList[9]=(ItemName="Death Tutu", PopUPMessage="MACHUCA AO TOCAR!")
+ItemList[10]=(ItemName="TogaTroopa Wing", PopUPMessage="Voando por 10seg!")
+ItemList[11]=(ItemName="Potable Transmission Fluid", PopUPMessage="Dano/Armadura++!")
+ItemList[12]=(ItemName="Big Dumb Rocket", PopUPMessage="O Foguete Mais Lento de Todos")
+ItemList[13]=(ItemName="PelletGun", PopUPMessage="Pum!")
+ItemList[14]=(ItemName="Hindenberg Pulse", PopUPMessage="Destrua Bombbots!")
+ItemList[15]=(ItemName="Transdimensional Highway", PopUPMessage="Teletransportado!")
+ItemList[16]=(ItemName="Proximity Mine", PopUPMessage="Mina Implantada!")
+ItemList[17]=(ItemName="Pocketchange Generator", PopUPMessage="+88 de ouro!")
+ItemList[18]=(ItemName="33/66 Mhz Turbo Button", PopUPMessage="SPRINT TEMPORÁRIO!")
+ItemList[19]=(ItemName="Caffeinated Triggerfinger", PopUPMessage="Aumento de Cadência!")
+ItemList[20]=(ItemName="Vampire Barrel Adapter", PopUPMessage="Abates Restauram Vida!")
+ItemList[21]=(ItemName="Pocket Thruster", PopUPMessage="Pulo Extra Adicionado!")
+ItemList[22]=(ItemName="Loot Lubricator", PopUPMessage="6 Segundos de Festival de Loot!")
+ItemList[23]=(ItemName="Bunker Buster", PopUPMessage="Corra!")
+ItemList[24]=(ItemName="LuftFaust 1000", PopUPMessage="Rajada de Mísseis!")
+ItemList[25]=(ItemName="Saint Attila's Fire", PopUPMessage="1..2..5..!")
+ItemList[26]=(ItemName="Grenade Barrage", PopUPMessage="Ah Não!")
+ItemList[27]=(ItemName="Painful Siphon", PopUPMessage="Transferência de Vida pra XP!")
+ItemList[28]=(ItemName="Soothing Siphon", PopUPMessage="Transferência de XP pra Vida!")
+ItemList[29]=(ItemName="The Goggles", PopUPMessage="Os Óculos Não Fazem Nada..?")
+ItemList[30]=(ItemName="Positional Reboot Switch", PopUPMessage="Insta-Tilt!")
+ItemList[31]=(ItemName="Mystery Box", PopUPMessage="O que você ganhou?")
+ItemList[32]=(ItemName="Spinbot Detonator", PopUPMessage="Destrua Spinbots!")
+ItemList[33]=(ItemName="Rampa", PopUPMessage="Rampa")
+ItemList[34]=(ItemName="Siege Adaptor", PopUPMessage="Modo Cerco TEMPORÁRIO!")
+ItemList[35]=(ItemName="Pyroclastic Centrifuge", PopUPMessage="Anel de Dor!")
+ItemList[36]=(ItemName="Captain's Belt", PopUPMessage="Congele o Tempo!")
+ItemList[37]=(ItemName="Critical Serum", PopUPMessage="6 Segundos de Todos Críticos!")
+ItemList[38]=(ItemName="Bombbot Canister", PopUPMessage="Como Isso é Útil?")
+ItemList[39]=(ItemName="Portable Orbital Laser", PopUPMessage="Tetsuo!")
+ItemList[40]=(ItemName="Strategic Defense Array", PopUPMessage="Grade de Discoteca!")
+ItemList[41]=(ItemName="Cartesian Lattice", PopUPMessage="Grade de Laser")
+ItemList[42]=(ItemName="World's Worst Missile", PopUPMessage="Todos a Bordo!")
+ItemList[43]=(ItemName="Twerp Totem", PopUPMessage="Destrua Twerps!")
+ItemList[44]=(ItemName="Hoppy Serum", PopUPMessage="10 segundos de Festival de Pulo!")
+ItemList[45]=(ItemName="Bullet Sweeper", PopUPMessage="Limpe as Balas!")
+ItemList[46]=(ItemName="Colossal Special Button", PopUPMessage="Raaaaaaaaaarr!")
+ItemList[47]=(ItemName="Bullet Filibuster", PopUPMessage="Redirecione Balas!")
+ItemList[48]=(ItemName="Thread Derailer", PopUPMessage="Gatos Felizes TEMPORÁRIOS!")
+ItemList[49]=(ItemName="The Blue Shell", PopUPMessage="Sai da frente!")
+ItemList[50]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[51]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[52]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[53]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[54]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[55]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[56]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[57]=(ItemName="Nome Placeholder", PopUPMessage="")
+ItemList[58]=(ItemName="Balas Perseguidoras", PopUPMessage="")
+ItemList[59]=(ItemName="Balas Mina-de-Fogo", PopUPMessage="")
+ItemList[60]=(ItemName="Balas de Acerto Crítico", PopUPMessage="")
+ItemList[61]=(ItemName="Balas Vampíricas", PopUPMessage="")
+ItemList[62]=(ItemName="Balas Explosivas", PopUPMessage="")
+ItemList[63]=(ItemName="Balas Minadoras", PopUPMessage="")
+ItemList[64]=(ItemName="Balas Uber", PopUPMessage="")
+ItemList[65]=(ItemName="Balas Quicantes", PopUPMessage="")
+ItemList[66]=(ItemName="Balas de Precisão", PopUPMessage="")
+ItemList[67]=(ItemName="Power-up de Metralhadora", PopUPMessage="")
+ItemList[68]=(ItemName="Power-up de Espingarda", PopUPMessage="")
+ItemList[69]=(ItemName="Balas de Tempo Lento", PopUPMessage="")
+ItemList[70]=(ItemName="Item Inválido", PopUPMessage="")
+
+GunModDescriptor[0]=""
+GunModDescriptor[1]=Perseguidoras
+GunModDescriptor[2]=Mina-de-Fogo
+GunModDescriptor[3]=Crítica
+GunModDescriptor[4]=Vampírica
+GunModDescriptor[5]=Explosiva
+GunModDescriptor[6]=Minadora
+GunModDescriptor[7]=Uber
+GunModDescriptor[8]=Quicante
+GunModDescriptor[9]=Precisa
+GunModDescriptor[10]=Metralhadorizada
+GunModDescriptor[11]=Espingardizada
+GunModDescriptor[12]=Atordoante
+
+GunList[0]=(Gunname="Nome Padrão",GunDescription="",GunUnlockReq="")
+GunList[1]=(Gunname="Peas-n-Carrots Pistol",GunDescription="Padrão de fábrica. Escolha uma arma melhor",GunUnlockReq="Nunca Trancada")
+GunList[2]=(Gunname="Portable Pizza Oven",GunDescription="Carregado com serras, não pizzas",GunUnlockReq="Nunca Trancada")
+GunList[3]=(Gunname="",GunDescription="",GunUnlockReq="")
+GunList[4]=(Gunname="Blatherskite",GunDescription="Um gadget bem arrumadinho",GunUnlockReq="Vença a fase 7 no Modo Infinito")
+GunList[5]=(Gunname="Egon's Pride",GunDescription="Mais Chumbo!",GunUnlockReq="Complete uma fase dentro do Tempo Meta")
+GunList[6]=(Gunname="609mm Hand Cannon",GunDescription="Tem um coice e tanto",GunUnlockReq="Complete uma fase sem receber DANO")
+GunList[7]=(Gunname="Kegerator",GunDescription="Atira Vômito de Unicórnio",GunUnlockReq="Encontre 5 Segredos em um nível")
+GunList[8]=(Gunname="Mini-LHC",GunDescription="Mire no Mini-Bóson de Higgs deles",GunUnlockReq="Colete 22 itens diferentes")
+GunList[9]=(Gunname="Consolation Charger",GunDescription="Recompensando todos os estilos de jogo",GunUnlockReq="Morra 3 Vezes")
+GunList[10]=(Gunname="Hedgehog",GunDescription="Não é pra longa distância!",GunUnlockReq="Mate 250 Lançadores de Bola-de-Espinho")
+GunList[11]=(Gunname="Babel Gun",GunDescription="Ladainha. Tipo, Tripas.",GunUnlockReq="Mate 24 Tanques")
+GunList[12]=(Gunname="Old Painless",GunDescription="",GunUnlockReq="")
+GunList[13]=(Gunname="Panflute",GunDescription="",GunUnlockReq="")
+GunList[14]=(Gunname="Smoke Shifter",GunDescription="",GunUnlockReq="")
+GunList[15]=(Gunname="Shrapnel Trumpet",GunDescription="",GunUnlockReq="")
+GunList[16]=(Gunname="Absurditron 9000",GunDescription="",GunUnlockReq="")
+GunList[17]=(Gunname="TrollHunter",GunDescription="",GunUnlockReq="")
+GunList[18]=(Gunname="GG 9000",GunDescription="",GunUnlockReq="")
+GunList[19]=(Gunname="Motivator",GunDescription="",GunUnlockReq="")
+GunList[20]=(Gunname="Xp Lobber",GunDescription="",GunUnlockReq="")
+GunList[21]=(Gunname="Party Bringer",GunDescription="",GunUnlockReq="")
+GunList[22]=(Gunname="Grasshopper",GunDescription="",GunUnlockReq="")
+GunList[23]=(Gunname="Brick Layer",GunDescription="",GunUnlockReq="")
+GunList[24]=(Gunname="Rubber Band Gun",GunDescription="",GunUnlockReq="")
+GunList[25]=(Gunname="Stavinator",GunDescription="",GunUnlockReq="")
+GunList[26]=(Gunname="Banker's Delight",GunDescription="",GunUnlockReq="")
+GunList[27]=(Gunname="",GunDescription="",GunUnlockReq="")
+
+
+
+[TOG_A_MobMasterList]
+MobList[0]=(MobName="MobListSlot0",MobDescription="")
+MobList[1]=(MobName="Spinbot",MobDescription="")
+MobList[2]=(MobName="Spinbot Maior",MobDescription="")
+MobList[3]=(MobName="CrockPotBot",MobDescription="")
+MobList[4]=(MobName="MedBot",MobDescription="")
+MobList[5]=(MobName="Bombbot",MobDescription="")
+MobList[6]=(MobName="Bombbot Maior",MobDescription="")
+MobList[7]=(MobName="Bombbot Gigante",MobDescription="")
+MobList[8]=(MobName="Granada",MobDescription="")
+MobList[9]=(MobName="Coco Estático",MobDescription="")
+MobList[10]=(MobName="Coco",MobDescription="")
+MobList[11]=(MobName="Twerp",MobDescription="")
+MobList[12]=(MobName="Bongobot",MobDescription="")
+MobList[13]=(MobName="Napoleon",MobDescription="")
+MobList[14]=(MobName="Tanque",MobDescription="")
+MobList[15]=(MobName="Ciclope",MobDescription="")
+MobList[16]=(MobName="Hipopótamo",MobDescription="")
+MobList[17]=(MobName="Torreta Bit",MobDescription="")
+MobList[18]=(MobName="Torreta MegaBit",MobDescription="")
+MobList[19]=(MobName="Torreta Byte",MobDescription="")
+MobList[20]=(MobName="Lançador de Bomba",MobDescription="")
+MobList[21]=(MobName="Lançador de Espinhos",MobDescription="")
+MobList[22]=(MobName="Lançador de Serra",MobDescription="")
+MobList[23]=(MobName="Betty",MobDescription="")
+MobList[24]=(MobName="Cortador a Laser",MobDescription="")
+MobList[25]=(MobName="Torreta Lucas",MobDescription="")
+MobList[26]=(MobName="MineLayer",MobDescription="")
+MobList[27]=(MobName="FireStarter",MobDescription="")
+MobList[28]=(MobName="DoubleDutch",MobDescription="")
+MobList[29]=(MobName="Parede a Laser",MobDescription="")
+MobList[30]=(MobName="Torreta Varal",MobDescription="")
+MobList[31]=(MobName="Torreta Robusta",MobDescription="")
+MobList[32]=(MobName="Torreta Lava-Louças",MobDescription="")
+MobList[33]=(MobName="Grande Lançador de Espinhos",MobDescription="")
+MobList[34]=(MobName="Hugbot",MobDescription="")
+MobList[35]=(MobName="Mousebot",MobDescription="")
+MobList[36]=(MobName="Triturador",MobDescription="")
+MobList[37]=(MobName="Anglerbot",MobDescription="")
+MobList[38]=(MobName="Mamãe Spinbot",MobDescription="")
+MobList[39]=(MobName="Dr. Torreta",MobDescription="")
+MobList[40]=(MobName="Lanternofolus",MobDescription="")
+MobList[41]=(MobName="O Longhorn",MobDescription="")
+MobList[42]=(MobName="Mano Bola de Neve",MobDescription="")
+MobList[43]=(MobName="Vovô Napoleon",MobDescription="")
+MobList[44]=(MobName="O Órgão de Tubos",MobDescription="")
+MobList[45]=(MobName="Amoebombot",MobDescription="")
+MobList[46]=(MobName="Hipopótamo Sr.",MobDescription="")
+MobList[47]=(MobName="A Bola da Perdição",MobDescription="")
+MobList[48]=(MobName="A Máquina de Chiclete",MobDescription="")
+MobList[49]=(MobName="A Fauce",MobDescription="")
+MobList[50]=(MobName="Sir Mastigatudo",MobDescription="")
+MobList[51]=(MobName="O Misturador de Ovos",MobDescription="")
+MobList[52]=(MobName="A Grande Sala de Espinhos",MobDescription="")
+MobList[53]=(MobName="A Grande Parede de Torretas",MobDescription="")
+
+[SeqAct_TOGOptionsToggle]
+OptionList[0]=(Text="Desativado")
+OptionList[1]=(Text="Ativado")
+
+[SeqAct_TOGSetbDisableStory]
+LocOptionName="Diálogo Bobo:"
+LocToolTip="Ativa/Desativa a 'História' do Jogo"
+OptionList[0]=(Text="Ativado")
+OptionList[1]=(Text="Desativado")
+
+[SeqAct_ToGSetExtraGameMode]
+LocOptionName="Modo de Jogo:"
+ModeOptionList[0]="Normal"
+ModeOptionList[1]="Rolagem de Dado"
+ModeOptionList[2]="Mistério"
+ModeOptionList[3]="Apostador Alto"
+ModeOptionList[4]="Pé Quente"
+ModeOptionList[5]="Elástico"
+TooltipList[0]=""
+TooltipList[1]="Efeitos Aleatórios em Cada Sala"
+TooltipList[2]="Comece a corrida com um mistério"
+TooltipList[3]="Dano Alto com um Toque Moderno"
+TooltipList[4]="Pulos Ilimitados, mas o Pouso Dói"
+TooltipList[5]="Pule, Atire e Quique por Aí"
+
+
+[SeqAct_TOGSetbDiceRollMode]
+LocOptionName="Modo Rolagem de Dado:"
+LocToolTip="Efeitos Aleatórios em Cada Sala"
+
+[SeqAct_TOGSetbDemoMode]
+LocOptionName="Modo Demo:"
+LocToolTip="Termina após o Saguão (modo festa/feira)"
+
+[SeqAct_TOGSetbConsole]
+LocOptionName="Ativar Console:"
+LocToolTip="'~' pra espantar toda tristeza"
+
+[SeqAct_TOGSetbEndlessMode]
+LocOptionName="Modo Infinito:"
+LocToolTip="Jogue até morrer!"

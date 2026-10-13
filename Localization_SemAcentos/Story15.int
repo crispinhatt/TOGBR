@@ -1,0 +1,212 @@
+[Cast]
+Title="Procurando a Festa"
+10="Voce, Douglas, um Academico Embriagado"
+06="Seu Amigo Richter"
+07="Sua Mae"
+08="Mandy, Sua Ex"
+05="Oficina do Luke"
+Goal="Medalha do Dever"
+ 
+[Chapter1]
+101="Ei, Richter...Ei...Ei..eaaaaai?"
+101Mug="10r"
+102="Voce devia estar aqui ha uma hora. Onde voce esta?"
+102Mug="06g"
+103="Eu to aqui, mano. Eu to totalmente aqui. Eaaaaai?"
+103Mug="10r"
+104="Para de falar isso. Estamos todos te esperando."
+104Mug="06g"
+105="Mano, eu to totalmente aqui. Eu to, tipo, bem na porta da frente. Eu devia so subir pro seu apartamento?"
+105Mug="10r"
+106="E, sobe. A porta ta destrancada."
+106Mug="06g"
+
+[Chapter6]
+101="E ai, Richter, cade essa festa?"
+101Mug="10r"
+102="E la em cima. O que ta te demorando tanto?"
+102Mug="06g"
+103="Seu predio ta todo maluco. E tipo tudo de metal e tal. Insano."
+103Mug="10r"
+104="Tem todos esses tipo...bichos. Bichos de metal. Eles sao ruins, cara. Voce e ruim, cara."
+104Mug="10r"
+105="Bichos de metal? Do que voce esta falando?"
+105Mug="06g"
+106="Ei, ei, Richter, ei.....eaaaaai?"
+106Mug="10r"
+107="Vou desligar agora. Traz sua bunda pra ca."
+107Mug="06g"
+
+[Chapter30]
+101="Ei, ei, Richter, voce esta ai?"
+101Mug="10r"
+102="Para de me ligar. As coisas vao ter acabado quando voce chegar aqui."
+102Mug="06g"
+103="Acho que fiz uma curva errada. Esta muito quente aqui. Esta quente aqui pra voce tambem?"
+103Mug="10r"
+104="Suspiro...da proxima vez eu nao vou te convidar."
+104Mug="06g"
+
+[Chapter40]
+101="Acho que estou na sala da caldeira. Richter, voce esta ai?"
+101Mug="10r"
+102="Riiicchhhter."
+102Mug="10r"
+103="Ah...Riichter."
+103Mug="10r"
+104="Richter!"
+104Mug="10r"
+105="O que voce quer, afinal?"
+105Mug="06g"
+106=".....eaaaaai?"
+106Mug="10r"
+107=">clique<"
+107Mug="06g"
+
+[Chapter50]
+101="Ok! Acho que estou no andar certo agora. Qual apartamento e o seu, Richter?"
+101Mug="10r"
+102="Alo? Dougie, e voce?"
+102Mug="07g"
+103="Eaaaaai--Ah, Oi, Mae....desculpa, discanguei errado."
+103Mug="10r"
+104="Voce esta com uma voz estranha. Voce esta bem?"
+104Mug="07g"
+105="Estou otimo, Mae. Tenhoquetevoutebeijobye.."
+105Mug="10r"
+
+
+[Chapter60]
+101="Richter, voce esta ai? Atende, Richter."
+101Mug="10r"
+102="Estou cansado das suas palhacadas, Doug. O que e?"
+102Mug="06g"
+103="Voce tem um computador grande?"
+103Mug="10r"
+104="O que isso tem a ver com alguma coisa?"
+104Mug="06g"
+105="Tipo, ele e grande o suficiente pra encher uma sala inteira? Ou varias salas?"
+105Mug="10r"
+106="Onde diabos voce esta?"
+106Mug="06g"
+107="Talvez eu nao esteja de fato no seu predio? Talvez?"
+107Mug="10r"
+108="Suspiro...ta bom, deixa eu abrir o Google Maps. Aguenta ai."
+108Mug="06g"
+
+
+[Chapter65]
+101="Ok, entao, voce seguiu minhas instrucoes exatamente pra chegar aqui?"
+101Mug="06g"
+102="Mais ou menos, claro. Quer dizer, acho que peguei a ideia geral certa."
+102Mug="10r"
+103="Isso nao basta. Voce virou na Washington e depois seguiu ate a praca e virou a direita na Setima?"
+103Mug="06g"
+104="Eu nao sei essas coisas. Talvez eu tenha virado a esquerda? Eu sou um espirito livre. QUEM SABE? NAO ME JULGA."
+104Mug="10r"
+105="Bom, e importante. Se voce virou a direita voce ja estaria na festa agora. Se voce virou a esquerda...vamos ver...voce acabaria em, uh...ai, meu Deus..."
+105Mug="06g"
+106="...voce acabaria na Torre Labirinto Aleatoria da Morte."
+106Mug="06g"
+107="Aw, cara, DE NOVO? Pior. Fim de semana. De todos."
+107Mug="10r"
+
+[Chapter70]
+101="Alo? Richter, voce esta ai? Estou num closet de vassouras grande..ou algo assim."
+101Mug="10r"
+102="Doug? Achei que te disse pra nunca mais me ligar. O que voce quer?"
+102Mug="08b"
+103="Ah, Mandy? Desculpa, eu, uh, discanguei errado. Estava tentando ligar pro Richter."
+103Mug="10r"
+104="Sei, la. Tchau, nojento."
+104Mug="08b"
+
+
+[Chapter100]
+101="Entao, como eu saio desse lugar. Estou perdendo a festa toda."
+101Mug="10r"
+102="Nao sei. Como voce entrou?"
+102Mug="06g"
+103="Nao lembro. Isso e horrivel. Estou perdendo alguma coisa boa na festa?"
+103Mug="10r"
+104="Sim. E agora eu tambem estou, porque estou tendo que passar a noite toda no telefone com voce."
+104Mug="06g"
+105="Ei, ei, a Mandy esta ai?"
+105Mug="10r"
+106="Nao, mas se apressa de qualquer jeito."
+106Mug="06g"
+
+[Chapter120]
+101="Ei, Ei, Richter. Voce tem CERTEZA que a Mandy nao esta ai?"
+101Mug="10r"
+102="Por que ela estaria aqui? Ela nao quer nada com voce, Doug."
+102Mug="06g"
+103="Eu sei, so estou me certificando que ela NAO vai estar ai."
+103Mug="10r"
+104="O que? Por que?"
+104Mug="06g"
+105="Porque a irma dela vai estar ai, ne?"
+105Mug="10r"
+106="Voce vai parar com isso, afinal."
+106Mug="06g"
+
+
+[Chapter150]
+101="Acho que encontrei a saida desse lugar idiota."
+101Mug="10r"
+102="Ja nao era sem tempo. Todo mundo ja vai ter ido embora quando voce aparecer."
+102Mug="06g"
+103="Cara, voce nao tem ideia de quantos daqueles bichos de metal eu tive que atirar."
+103Mug="10r"
+104="Voce estava atirando em coisas? Do que voce esta falando?"
+104Mug="06g"
+105="Voce tem petiscos ai? Eu REALMENTE quero um petisco."
+105Mug="10r"
+
+
+[Chapter200]
+101="Aw, cara. Acho que fiz outra curva errada."
+101Mug="10r"
+102="De novo?"
+102Mug="06g"
+103="E, mas ta tudo bem. Se eu continuar subindo eu vou dar a volta pelo equador ou algo assim. E assim que funciona."
+103Mug="10r"
+104="Nao e assim que funciona."
+104Mug="06g"
+105="Sim, totalmente funciona assim. Voce sobe num globo e vamos ver quem chega primeiro na festa."
+105Mug="10r"
+106="A festa que esta terminando, voce quer dizer?"
+106Mug="06g"
+107="Que festa? Cade a festa?"
+107Mug="10r"
+
+
+[Chapter300]
+101="Cara..acho que quebrei sua torre. Foi mal, mano."
+101Mug="10r"
+102="Nao e minha torre, e so 'uma' torre. E aquela coisa da Torre Aleatoria da Morte de acordo com o googlemaps."
+102Mug="06g"
+103="Voce ja sentiu como se estivesse voando? Sinto que estou voando."
+103Mug="10r"
+104="Voce vem ou nao?"
+104Mug="06g"
+105="E, eu vou. So preciso achar a Rua Washington de novo. Preciso sair daqui primeiro."
+105Mug="10r"
+
+[Chapter350]
+101="Ei, ei, Richter. Eu consegui sair. Te vejo na festa, Richter! Ah, Ah, Ah, alem disso, adivinha o que?"
+101Mug="10r"
+102="O que?"
+102Mug="06g"
+103="Eaaaaai!"
+103Mug="10r"
+
+
+[Chapter900]
+101="Voce finalmente cambaleia pra fora da torre e de volta ao ar fresco. Eventualmente voce chega a festa do Richter, onde encontra a irma da Mandy, Wilma, que tem juizo demais pra ter algo a ver com voce. Voce, porem, faz alguns novos amigos pra vida toda enquanto se faz de bobo jogando DDR."
+101Mug="06h"
+
+[Chapter950]
+101="Um dia os moradores locais vao falar do misterioso universitario que conquistou e destruiu o Labirinto Aleatorio da Morte que era a Tower of Guns. Voce tambem vai falar com saudade sobre aquele heroi, com a esperanca distante de um dia apertar aquela mao heroica. Enquanto eles estavam la fora lutando o bom combate, voce estava festejando com seus amigos e nao lembra de nada daquele fim de semana. Deve ter sido uma boa festa."
+101Mug="06h"
+

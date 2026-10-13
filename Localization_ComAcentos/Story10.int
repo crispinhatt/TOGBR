@@ -1,0 +1,167 @@
+[Cast]
+10="Você, Um Rato Rumo às Férias"
+07="Henry, um Representante do Detran"
+
+[Chapter1]
+101="Olá, bem-vindo ao Departamento de Trânsito. Como posso ajudá-lo hoje?"
+101Mug="07b"
+102="Eu gostaria de solicitar uma carteira de motorista. É aqui que eu espero na fila?"
+102Mug="10b"
+103="Uma fila? Que pitoresco. Ninguém espera na fila NESTE Departamento de Trânsito."
+103Mug="07b"
+104="Que ótimo ouvir isso! Afinal, eu tenho um avião pra pegar. Então como eu consigo minha carteira de motorista?"
+104Mug="10b"
+105="Prossiga até o elevador no final deste andar.."
+105Mug="07b"
+
+[Chapter6]
+101="Você percebe que tem todo tipo de coisa perigosa atacando as pessoas aqui dentro?"
+101Mug="10b"
+102="Ah, esses são outros clientes. Costumávamos ter uma fila terrivelmente longa pra carteiras e registros."
+102Mug="07b"
+103="Agora fazemos os clientes lutarem até a morte pelo direito de dirigir!"
+103Mug="07b"
+104="Isso é horrível! ...Mas eu lutei meu caminho até aqui e tenho um avião pra pegar, então posso ter minha carteira agora?"
+104Mug="10b"
+105="Haha, não. Esse foi só o primeiro andar. Ainda tem bastante coisa pra lutar."
+105Mug="07b"
+106="Suspiro..toda vez que eu vou ao Detran acontece algo assim.."
+106Mug="10b"
+
+
+[Chapter30]
+101="Então, quando vocês começaram essa nova política de luta até a morte?"
+101Mug="10b"
+102="Uns meses atrás. Na verdade também serve de bolão de apostas. Esse é o único Detran do estado que dá lucro."
+102Mug="07b"
+
+[Chapter40]
+101="Quantos níveis eu preciso atravessar lutando?"
+101Mug="10b"
+102="Vamos ver, tem mais três depois desse. Normalmente. Às vezes mais, porém."
+102Mug="07b"
+103="É meio difícil de descrever. Mas normalmente só mais três níveis depois desse."
+103Mug="07b"
+104="E se eu vencer eu ganho minha carteira?"
+104Mug="10b"
+105="Talvez. Você também precisa passar no exame de vista."
+105Mug="07b"
+
+[Chapter50]
+101="Cara, eu já passei por dois andares. Eu realmente preciso lutar por MAIS um?"
+101Mug="10b"
+102="Pense nisso como o teste de direção do cidadão moderno."
+102Mug="07b"
+103="Por que você fica gritando comigo o tempo todo."
+103Mug="10b"
+104="Eu não estou gritando. Meu rosto só ficou travado assim. É genético."
+104Mug="07b"
+
+[Chapter60]
+101="Quanto tempo isso ainda vai levar? Eu tenho um voo pra pegar."
+101Mug="10b"
+102="Por que você precisa de carteira de motorista pra um voo?"
+102Mug="07b"
+103="Eu vou alugar um carro nas minhas férias! Essa é minha primeira férias em mais de uma década!"
+103Mug="10b"
+
+[Chapter65]
+101="Parece que você está chegando perto do fim. Meus colegas de trabalho estão começando a apostar em qual sala você vai morrer!"
+101Mug="07b"
+102="Isso é incrivelmente desconfortante!"
+102Mug="10b"
+
+[Chapter70]
+101="Então, de repente eu percebi por que o trânsito no meu trajeto matinal tem ficado cada vez mais leve."
+101Mug="10b"
+102="Ah, sim. A nova política tem sido uma bênção pro congestionamento das vias."
+102Mug="07b"
+103="Quantas carteiras vocês já entregaram desse jeito."
+103Mug="10b"
+104="Uh, nenhuma. Pra ser justo, também era 'nenhuma' do jeito antigo, mas as pessoas reclamam menos desse jeito."
+104Mug="07b"
+
+[Chapter100]
+101="Então esse é o último nível?"
+101Mug="10b"
+102="Isso aí. Muitos concorrentes pra essa Carteira de Motorista hoje. É incrível o que vocês estão dispostos a passar por aquela coisa."
+102Mug="07b"
+103="A gente tenta de tudo pra fazer vocês desistirem. Filas. Multidões. Papelada obscura. Políticas sem sentido. Julgamento por combate."
+103Mug="07b"
+104="Vocês não são nada além de persistentes.."
+104Mug="07b"
+
+[Chapter120]
+101="Só mais uma batalha final!"
+101Mug="07b"
+102="Aí eu ganho minha carteira?"
+102Mug="10b"
+102="Talvez...a menos que eu ache alguma política ou burocracia. Eu preferiria não quebrar nossa sequência de zero carteiras emitidas."
+102Mug="07b"
+
+[Chapter150]
+101="Finalmente! Vitória! Eu já consigo quase sentir o gosto daquele ar doce de Omaha."
+101Mug="10b"
+102="Parabéns! O que tem em Omaha? Família? Amigos?"
+102Mug="07b"
+103="Não, só a menor população de gatos por domicílio. Eu pretendo VIVER A BOA VIDA! Isso é importante pra um rato como eu."
+103Mug="10b"
+104="Espera...você é um rato? Sinto muito, mas vou ter que rejeitar essa solicitação."
+104Mug="07b"
+105="O quê? Você está falando sério? Ratos não podem tirar carteira de motorista?"
+105Mug="10b"
+106="Não às terças. Só atendemos Camundongos e Ratos às quintas e sábados entre 9h43 e 10h27. Você vai ter que voltar nesse horário."
+106Mug="07b"
+107="Você só pode estar brincando comigo..."
+107Mug="10b"
+
+
+[Chapter200]
+101="Você não me ouviu? Eu disse que você teria que voltar durante o 'Horário dos Ratos' designado."
+101Mug="07b"
+102="Eu te ouvi, mas eu não vou embora. Eu preciso dessa carteira e meu voo sai em uma hora!"
+102Mug="10b"
+103="Não é problema meu, senhor. Talvez algum dia a gente tenha que dar uma carteira de motorista pra alguém de novo, mas não vai ser hoje, e não vai ser você."
+103Mug="07b"
+104="Então eu te desafio pra um duelo entre cavalheiros em nome do Trânsito Sagrado! Em nome da sua honra como Representante do Detran, você não pode recusar."
+104Mug="10b"
+105="...A Invocação do Sagrado Duelo de Desafio do Detran..Quem te ensinou isso?"
+105Mug="07b"
+106="Não se importe com isso. Eu vou sair daqui ou com uma carteira de motorista ou num caixão. En Garde!"
+106Mug="10b"
+
+[Chapter220]
+101="Você vai se arrepender de me desafiar! Eu nunca perdi um Sagrado Duelo do Detran!"
+101Mug="07b"
+
+[Chapter300]
+101="Não! Isso não é possível. Como você..como..quem exatamente é você?"
+101Mug="07b"
+102="Certamente esse Detran não esqueceu o nome Mousekavitch!"
+102Mug="10b"
+103="Mousekavitch...do 3º trimestre de 2007? Mas Mousekavitch nunca foi real. Só um boato...alguma lenda boba.."
+103Mug="07b"
+104="E eu sou o grande grande grande grande grande grande grande grande grande neto dessa lenda. Ratos se reproduzem rápido, sabe."
+104Mug="10b"
+105="E eu estou aqui pra terminar o trabalho dele."
+105Mug="10b"
+
+[Chapter350]
+101="Nãããão! Você destruiu o Gerador de Burocracia de Carteiras de Motorista!"
+101Mug="07b"
+102="Já estava na hora de alguém fazer isso. Agora TODO MUNDO pode tirar uma carteira!"
+102Mug="10b"
+103="Você vai trazer o fim da humanidade com isso, ouviu? Nem todo mundo deveria dirigir, sabia!"
+103Mug="07b"
+104="As estradas estão nas mãos do povo agora. A alma do meu grande grande grande grande grande grande grande grande grande avô pode descansar em paz."
+104Mug="10b"
+
+[Chapter900]
+101="Você sai do Detran completamente derrotado na sua busca por uma carteira de motorista. Nunca antes sua espécie como rato tinha ficado no caminho do que você queria. Você tenta tirar suas férias sem conseguir alugar um carro e é forçado a pegar carona do aeroporto até o hotel. Mas lembrem-se, crianças, pegar carona é perigoso, e logo você é comido por um gato." 
+101Mug="06h"
+
+[Chapter950]
+101="Tendo removido as amarras da burocracia e da papelada do Detran, uma nova era foi inaugurada no reino. As pessoas de repente descobriram que podiam solicitar e realmente conseguir uma carteira de motorista. Mal sabiam que o sistema anterior tinha sido responsável pela pobreza, fome e guerra mundiais, além do aquecimento global. Esta história é fictícia. Qualquer semelhança com pessoas reais, vivas ou mortas, ou eventos reais, é mera coincidência."
+101Mug="06h"
+
+

@@ -1,0 +1,86 @@
+[Cast]
+03="Joe, O Desenvolvedor de Tower of Guns"
+
+[Chapter11]
+101="Huh? ...O que você está fazendo aí embaixo?"
+101Mug="03n"
+102="...Você caiu das Muralhas enquanto tinha aquele perk de sem dano de queda..?"
+102Mug="03n"
+103="...isso abre uma enorme lata de minhocas pro jogo. Dificuldade dos inimigos...estatísticas do jogador...muitas coisas podem se comportar de forma estranha."
+103Mug="03n"
+104="Ah, bom, agora você já se comprometeu. Quando terminar de vagar por aí, volta pra dentro e vamos voltar a atirar em coisas."
+104Mug="03n"
+
+
+[Chapter13]
+101="Bem-vindo de volta a Caketown! Contei suas vitórias e derrotas e parece que você já fez nove corridas."
+101Mug="03n"
+102="Aqui estão alguns presentes pra te ajudar a ter uma boa décima corrida!"
+102Mug="03n"
+
+[Chapter14]
+101="Bem-vindo de volta a Caketown! Contei suas vitórias e derrotas e parece que você já fez dezenove corridas."
+101Mug="03n"
+102="Então essa vigésima corrida é, tipo, um marco. Aqui estão alguns presentes pra te ajudar a ter uma boa corrida!"
+102Mug="03n"
+
+[Chapter15]
+101="Bem-vindo de volta a CakeTown! Você está prestes a fazer sua trigésima corrida..você pode até estar gostando desse jogo? Enfim, aqui estão alguns presentes!"
+101Mug="03n"
+
+[Chapter16]
+101="Bem-vindo de volta a CakeTown! Já faz um tempo desde que você recebeu presentes pra te ajudar no caminho, então aqui está!"
+101Mug="03n"
+
+[Chapter17]
+101="Cinquenta corridas! Sério, não faço ideia se alguém vai jogar esse jogo tempo suficiente pra ver essa mensagem. Aqui está uma carrada de presentes. Tenha uma hilária Quinquagésima corrida."
+101Mug="03n"
+
+[Chapter18]
+101="Cem corridas! Loucura! Você não tem nenhum outro jogo pra jogar? Você agora é meu cliente favorito de todos os tempos! Dito isso, tenha uma Centésima corrida bem desafiadora!"
+101Mug="03n"
+
+[Chapter19]
+101="3000 Corridas! Sério? O único motivo de você estar aqui é que está procurando chapéus ou algo assim. Bom, eu não tenho chapéus. Mas você pode ter quantas armas quiser. De agora em diante. Pra sempre."
+101Mug="03n"
+
+[Chapter20]
+101="Isso é Caketown! Contei suas vitórias e derrotas e parece que essa é sua quinta corrida."
+101Mug="03n"
+102="Esse é o ponto onde as pessoas bem que gostariam de uma surpresinha. Use esses presentes pra te ajudar a ter uma boa quinta corrida!"
+102Mug="03n"
+
+
+[Chapter40]
+101="Huh. Se você está lendo isso, você fez algo estranho. Já que você já está tendo um jogo bugado, bem que eu podia te mostrar mais coisas bugadas!"
+101Mug="03n"
+102="Algumas das coisas aqui estão inacabadas, algumas eram caras demais pra usar, algumas eu nunca consegui fazer funcionar, e algumas foram só acidentes engraçados."
+102Mug="03n"
+103="Quando terminar de olhar em volta, só caia da beirada e eu vou te teletransportar de volta pro Saguão, com todo seu equipamento atual. Mais uma vez, minhas sinceras desculpas pelo bug!"
+103Mug="03n"
+
+
+[Chapter57]
+101="O que você está fazendo lá longe assim?"
+101Mug="03n"
+102="Só pra você saber, a detecção de colisão é péssima lá fora."
+102Mug="03n"
+103="Não esqueça de usar o tilt se ficar preso. Por padrão é a tecla 'C'."
+103Mug="03n"
+104="Lembre-se: 'Tilt' se você ficar preso!"
+104Mug="03n"
+
+[Chapter58]
+101="Que diabos? Como você sequer chegou até aqui?"
+101Mug="03n"
+102="Bom, tanto faz, já que você obviamente gosta de mexer e quebrar jogos, aqui está um monte de power-ups só porque sim."
+102Mug="03n"
+
+
+[Chapter900]
+101="Você deixa a torre uma ruína fumegante atrás de você e volta pro seu estilo de vida pedantérico de ler comentários na internet e assistir reprises de 'Quantum Leap'. Você tem quase certeza de que a palavra 'pedantérico' não existe de verdade e que o Joe só inventou na hora. E se ela EXISTISSE, provavelmente não significaria o que o Joe parece achar que significa. E o Joe tem quase certeza de que você estaria certo."
+101Mug="04g"
+
+[Chapter990]
+101="A torre é um deserto em ruínas atrás de você. Você é um mensageiro incomparável da destruição, o flagelo dos robôs espinhentos e monótonos por toda parte, um vencedor, um campeão, um pilar monstruoso da retidão dos games. Ótimo trabalho."
+101Mug="04g"

@@ -1,0 +1,171 @@
+[Cast]
+Title="Deus da Destruição"
+12="Você, um Guia Musculoso"
+08="Um Sacerdote de Cabra'Zuul"
+11="Cabra'Zuul, Deus da Destruição"
+
+
+[Chapter1]
+101="Tem certeza que é o lugar certo, monge?"
+101Mug="12b"
+102="Pela última vez, eu não sou nenhum 'monge'. Sou um sumo sacerdote de Cabra'Zuul, deus ancestral do caos. E sim, é aqui mesmo."
+102Mug="08g"
+103="Ótimo, então agora você pode me pagar."
+103Mug="12b"
+104="Eu te contratei pra me levar em segurança até o topo da torre, bruto. Preciso estar no cume se quiser invocar o próprio Senhor da Morte."
+104Mug="08g"
+105="Tá bom, tá bom. Vamos acabar logo com isso."
+105Mug="12b"
+
+
+[Chapter6]
+101="Pronto, um andar completo. Quão alto é esse lugar?"
+101Mug="12b"
+102="Alto o suficiente. Levou décadas pra encontrar um local tão privilegiado pra invocação."
+102Mug="08g"
+103="Essa é a invocação do meu mestre, Cabra'Zuul, Deus do Caos e da Destruição, caso você estivesse se perguntando."
+103Mug="08g"
+104="Não estava. Eu não me meto nos assuntos do meu cliente."
+104Mug="12b"
+
+
+[Chapter30]
+101="Tem muita coisa pra matar aqui. É bom que sua grana seja boa, monge."
+101Mug="12b"
+102="Não se preocupe com isso, bruto. Você vai receber sua...recompensa..."
+102Mug="08g"
+103="Ótimo. Porque estou usando bastante munição aqui."
+103Mug="12b"
+104="E ainda assim você nunca parece ficar sem."
+104Mug="08g"
+105="Eu carrego muita. Melhor ter e não precisar, sabe?"
+105Mug="12b"
+
+[Chapter40]
+101="O que tem de tão especial nessa torre, afinal, monge?"
+101Mug="12b"
+102="Essa torre é um símbolo da loucura da humanidade, um santuário à destruição desenfreada da natureza humana. É uma ode à própria morte."
+102Mug="08g"
+103="Também é a coisa mais alta por aqui. Você precisa de estruturas altas se quiser conversar com deuses"
+103Mug="08g"
+
+
+[Chapter50]
+101="Você com certeza não se veste como um padre."
+101Mug="12b"
+102="Cabra'Zuul não tem código de vestimenta. Você mesmo se veste de forma engraçada, pra um guia."
+102Mug="08g"
+103="O quê? Você quer dizer meu paraquedas da sorte? É que nem balas extras. Você nunca sabe quando pode precisar."
+103Mug="12b"
+
+
+[Chapter60]
+101="Sinto que agora é uma boa hora pra discutir meu pagamento de novo. Eu não gosto de notas grandes."
+101Mug="12b"
+102="Eu não vou te pagar em notas, guia."
+102Mug="08g"
+103="Também não quero um monte de moedas pequenas. Essas são um saco de lidar."
+103Mug="12b"
+104="Não se aflija com sua recompensa. Ela será... suficiente."
+104Mug="08g"
+
+[Chapter65]
+101="Então, você vai me pagar em cheque, então? Acho que serve."
+101Mug="12b"
+102="Você não vai ser pago em cheque, guia."
+102Mug="08g"
+103="Bom, eu não vou continuar até você me dizer em que vai me pagar. Ouro? Prata? Vale-presente da Amazon?"
+103Mug="12b"
+104="Após sua invocação, Cabra-Zuul, o próprio Senhor da Morte, vai te recompensar. Ele não negocia na moeda dos mortais."
+104Mug="08g"
+105="Mas fique tranquilo, bruto, você não terá motivo pra reclamação."
+105Mug="08g"
+
+[Chapter70]
+101="Tem certeza que você é habilidoso o suficiente pra me guiar até o topo dessa torre inteiro?"
+101Mug="08g"
+102="Já lutei meu caminho por liquidações de Black Friday mais complicadas. Isso é moleza."
+102Mug="12b"
+103="Continuo não convencido."
+103Mug="08g"
+104="Só deixa meu pagamento pronto. Eu te levo até o topo. Apostaria meu paraquedas da sorte nisso."
+104Mug="12b"
+
+[Chapter100]
+101="Então, por que exatamente você precisa falar com esse seu deus?"
+101Mug="12b"
+102="Não se fala com o deus da destruição. A gente o admite no seu plano de existência pra que ele possa banquetear-se."
+102Mug="08g"
+103="Um servo de Cabra-Zuul busca apenas ajudar o deus sombrio a saciar seus desejos de caos e perdição."
+103Mug="08g"
+104="Aposto que ele dá gorjeta ruim."
+104Mug="12b"
+
+[Chapter120]
+101="Sim, consigo sentir. Adiante está o ápice! Consigo sentir a ligação dimensional com o submundo por perto! Cabra-Zuul me aguarda."
+101Mug="08g"
+102="Ótimo. Vamos acabar logo com isso. Depois eu recebo meu pagamento."
+102Mug="12b"
+103="Sim. Você terá sua recompensa. Sua recompensa *eterna*."
+103Mug="08g"
+104="Isso soa sinistro. É bom que não seja sinistro."
+104Mug="12b"
+105="Em frente, bruto!"
+105Mug="08g"
+
+[Chapter150]
+101="Quem me desperta do meu sono?"
+101Mug="11b"
+102="Ó, Poderoso Cabra'Zuul! Sou eu, seu humilde servo."
+102Mug="08g"
+103="E aí, Cabra'Zuul. Cadê minha grana? Esse monge disse que você ia me pagar por ajudar ele a chegar até você. Paga logo."
+103Mug="12b"
+104="Você...me pede pagamento? A mim, o Príncipe da Devastação? O Almirante da Aflição?"
+104Mug="11b"
+105="Eu aceito Visa e Mastercard."
+105Mug="12b"
+106="Eu só pago em sangue! Mas tudo bem. Sinto que você mora na Rua Chestnut Hill, 123. Enchi sua casa de sangue."
+106Mug="11b"
+107="Uh, valeu."
+107Mug="12b"
+108="Sinta-se honrado pelo presente que Cabra'Zuul te concedeu! Vá agora, bruto! "
+108Mug="08g"
+
+
+[Chapter200]
+101="Mestre, eu te trouxe pra esse mundo, um mundo transbordando de violência e morte, para que você possa banquetear-se."
+101Mug="08g"
+102="Estou satisfeito. Vou consumir esse mundo."
+102Mug="11b"
+103="Não até você me pagar direito! O que eu vou fazer com uma casa cheia de sangue?"
+103Mug="12b"
+104="Você! Você devia ter ido embora. Você já teve sua recompensa."
+104Mug="08g"
+105="Paga logo ou vou chutar sua bunda de volta pra qualquer plano de existência feio de onde você veio."
+105Mug="12b"
+106="Muito bem, Mortal. Vou possuir essa Torre e começar meu banquete com sua alma."
+106Mug="11b"
+
+[Chapter300]
+101="Seu tolo! Você matou Cabra'Zuul!"
+101Mug="08g"
+102="Bom, ele ia me 'devorar' até a morte."
+102Mug="12b"
+103="Deve haver outra máquina nessa torre em que eu possa reinvocá-lo. Talvez ainda não seja tarde demais."
+103Mug="08g"
+104="Ah, é? Então vou destruir essa torre inteira agora, só pra te irritar. Isso vai te ensinar a não calotear uma conta."
+104Mug="12b"
+
+[Chapter350]
+101="Bom, isso é uma ruína fumegante. Ainda bem que eu tinha meu paraquedas da sorte."
+101Mug="12b"
+
+
+[Chapter900]
+101="Você chega em casa tarde naquela noite, cansado e pronto pra uma noite relaxante. Em vez disso, quando você abre a porta da frente, um rio de sangue jorra pra fora e te afoga."
+101Mug="06h"
+
+[Chapter950]
+101="Com a Torre destruída, a ameaça de Cabra'Zuul não existe mais. Você chega em casa naquela noite, drena o sangue da sua casa, e deixa uma avaliação mordaz na internet sobre as práticas de pagamento do Culto de Cabra'Zuul. Pronto."
+101Mug="06h"
+

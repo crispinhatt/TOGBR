@@ -1,0 +1,150 @@
+[Cast]
+Title="Torre Colossal"
+07="Voce, um Jogador dos Anos 80"
+14="Uma Descricao de Passagem Colossal"
+Goal="Medalha do Dever"
+ 
+[Chapter1]
+101="Bem-vindo a Aventura Tower of Guns."
+101Mug="14b"
+102="Voce ve um corredor a frente. Ha sons de robos sinistros vindos das sombras. O que voce quer fazer?"
+102Mug="14b"
+103=">N"
+103Mug="07b"
+104="Voce vai para o Norte. Voce sabe que esta numa Torre, apesar de nao lembrar como chegou aqui. Algo no fundo de voce te impele a chegar ao topo. Voce procura por um elevador."
+104Mug="14b"
+
+[Chapter6]
+101="O chefe do primeiro andar solta um grito angustiante de morte e explode num aglomerado de engrenagens e sucata."
+101Mug="14b"
+102=">Pegar sucata."
+102Mug="07b"
+103="Ela se dissolveu."
+103Mug="14b"
+104=">Inventario"
+104Mug="07b"
+105="Esse jogo nao tem tela de inventario."
+105Mug="14b"
+106=">Encontrar Elevador"
+106Mug="07b"
+107="Se voce esta vendo essa passagem, o elevador deve estar bem na sua frente."
+107Mug="14b"
+108=">Pegar Elevador"
+108Mug="07b"
+109="Voce nao pode pegar isso."
+109Mug="14b"
+
+
+[Chapter30]
+101="O cheiro de enxofre e carvao enche seu nariz. Um calor incrivel te aguarda nas camaras alem."
+101Mug="14b"
+102=">fazer Marshmallows"
+102Mug="07b"
+103="Voce nao pode fazer isso. Ha apenas uma saida da sala em que voce esta, e certamente ha robos alem dela."
+103Mug="14b"
+
+[Chapter40]
+101="Voce consegue ouvir o som de engrenagens rangendo e metal guinchando por perto. Essa deve ser a caixa de engrenagens de toda a Torre."
+101Mug="14b"
+102=">escutar"
+102Mug="07b"
+103="Uma trilha sonora incrivel esta tocando."
+103Mug="14b"
+
+
+[Chapter50]
+101="Conforme voce sobe a Torre, sente o ar ficando mais rarefeito. Voce se pergunta se os pontos mais altos da Torre sao pressurizados."
+101Mug="14b"
+102=">E se eles nao forem pressurizados?"
+102Mug="07b"
+103="Comando Invalido. Boa sorte."
+103Mug="14b"
+
+
+[Chapter60]
+101="Conforme voce coleta mais itens, nao consegue deixar de se perguntar o que cada item faz. Parece haver pouca explicacao disponivel."
+101Mug="14b"
+102=">Sem brincadeira."
+102Mug="07b"
+103="Voce supoe que vai ter que aprender o que cada item faz. Do contrario, como vai saber quais sao os melhores?"
+103Mug="14b"
+104=">A Internetz!"
+104Mug="07b"
+
+
+[Chapter65]
+101="Conforme voce continua a escalar a Torre, fica cada vez mais poderoso. Voce ganha itens, dinheiro, e power-ups."
+101Mug="14b"
+102="Mas voce sabe que esses ganhos sao temporarios. Independentemente de voce prevalecer ou perecer, tudo pelo que lutou sera perdido na proxima corrida."
+102Mug="14b"
+103=">Esse jogo e deprimente."
+103Mug="07b"
+
+[Chapter70]
+101="Voce esta numa sala escura. Ecos distantes dizem que a sala e muito grande."
+101Mug="14b"
+102=">Acender as luzes."
+102Mug="07b"
+103="O interruptor de luz esta quebrado."
+103Mug="14b"
+
+
+[Chapter100]
+101="Voce chegou ao nivel final. Voce nao chega tao longe sempre, e sabe que um movimento errado vai resultar na sua morte."
+101Mug="14b"
+102=">N"
+102Mug="07b"
+103="Voce esta tao desorientado que nem tem certeza de qual direcao sequer E o Norte agora."
+103Mug="14b"
+
+[Chapter120]
+101="Voce sente que o chefe final esta na proxima sala. Ha sons de algo grande na camara."
+101Mug="14b"
+102=">fugir"
+102Mug="07b"
+103="Voce nao pode fugir. O unico caminho e em frente."
+103Mug="14b"
+104=">destruir chefe"
+104Mug="07b"
+105="Voce nao pode fazer isso via comando de texto. Mas boa tentativa, camarada!"
+105Mug="14b"
+
+[Chapter150]
+101="Tecnicamente voce sabe que completou o chefe 'Final' da Tower of Guns. Algo te diz que existe um Chefe Final ainda mais 'Final'. Um Chefe Mais-Final."
+101Mug="14b"
+102=">Encontrar Chefe Mais-Final."
+102Mug="07b"
+103="O Chefe Mais-Final esta atras daquelas bandeiras. Na verdade nao e tao dificil de achar. Voce chegou a procurar?"
+103Mug="14b"
+
+
+[Chapter200]
+101="O Chefe Mais-Final aguarda alem. Voce talvez nao sobreviva a isso, mas sabe que esse e o unico jeito de conseguir uma 'UberVitoria'."
+101Mug="14b"
+
+
+[Chapter300]
+101="O robo final explode loucamente ao seu redor. Voce conseguiu! Voce enfrentou seu inimigo e saiu vitorioso!" 
+101Mug="14b"
+102="Agora tudo que resta e esperar essa pequena cutscene terminar, disparar mais alguns tiros e depois esperar a cena de explosao de altissimo orcamento."
+102Mug="14b"
+
+[Chapter350]
+101="Voce se senta a bordo do helicoptero de resgate e observa a explosao da Torre iluminar o ceu."
+101Mug="14b"
+102="Voce nao tem certeza de como foi parar no helicoptero. Ou ate mesmo por que a Torre explodiu, na verdade. Nao houve nenhum tipo de motivo na historia."
+102Mug="14b"
+103=">Porque ela sempre explode"
+103Mug="07b"
+104="Comando invalido. Saindo para a tela de estatisticas."
+104Mug="14b"
+
+
+[Chapter900]
+101="Voce destruiu o chefe final. Bom trabalho. Enquanto se afasta da Tower of Guns, um pouco mais satisfeito com sua proporcao de vitorias/derrotas, voce se pergunta se ha mais coisa na vida, mais em 'Vencer'. Provavelmente nao." 
+101Mug="14b"
+
+[Chapter950]
+101="Voce completou a Tower of Guns e conseguiu uma UberVitoria. Otimo trabalho! Da proxima vez, talvez voce receba aleatoriamente uma historia melhor...mas eu nao contaria com isso."
+101Mug="14b"
+

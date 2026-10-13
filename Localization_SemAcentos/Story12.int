@@ -1,0 +1,167 @@
+[Cast]
+08="Voce, Glenda, Herdeira da Fortuna Baconfeller"
+04="Simon, seu assistente"
+09="Holograma do Papai Baconfeller"
+
+[Chapter1]
+101="Em algum lugar nesse balde de ferrugem tem quatorze zilhoes de dolares. Nao acredito que o Papai faria isso comigo."
+101Mug="08b"
+102="Tenho certeza que seu pai tinha os motivos dele."
+102Mug="04r"
+103="Motivos? Pra esconder a fortuna da familia de mim, literalmente, nessa pilha de lixo? Que falta de consideracao!"
+103Mug="08b"
+104="Conhecendo seu pai, ele provavelmente escondeu no lugar mais dificil de alcancar tambem."
+104Mug="04r"
+105="Suspiro, acho que vou subir entao. Espero que isso nao me atrase pro meu horario no salao."
+105Mug="08b"
+
+[Chapter6]
+101="Ainda bem que seu pai te fez fazer todas aquelas aulas de Armas Leves enquanto voce crescia."
+101Mug="04r"
+102="E, mas eu preferia que ele so tivesse me dado os quatorze zilhoes de dolares. Eu podia banhar Saturno em ouro com esse dinheiro."
+102Mug="08b"
+
+
+[Chapter30]
+101="Isso esta arruinando totalmente meu look. Espero que o Papai saiba que esse vestido e um Guccillini original."
+101Mug="08b"
+102="Tenho certeza que seu pai esta se revirando no tumulo."
+102Mug="04r"
+103="E bom que esteja mesmo. Isso e um saco enorme."
+103Mug="08b"
+
+
+[Chapter40]
+101="Como o Papai conseguiu todo esse dinheiro, afinal?"
+101Mug="08b"
+102="Como voce pode nao saber? Seu pai era o quimico de alimentos mais estimado da historia."
+102Mug="04r"
+103="Eu sei que ele fazia coisas com Bacon. Mas Bacon nao vale quatorze zilhoes de dolares."
+103Mug="08b"
+104="Eu acho que voce descobriria que isso depende inteiramente da qualidade do bacon."
+104Mug="04r"
+
+
+[Chapter50]
+101="Voce era proximo do Papai, Simon. VOCE sabia que ele estava escondendo a fortuna aqui?"
+101Mug="08b"
+102="Seu pai nao compartilhava os segredos dele com ninguem, muito menos com um simples criado como eu."
+102Mug="04r"
+103="Tudo que sei e que ele passou a maior parte de seus ultimos dias nessa torre."
+103Mug="04r"
+
+[Chapter60]
+101="Querida Filha. O sistema de computador dessa torre esta programado pra tocar essa mensagem ao chegar no andar da Logistica."
+101Mug="09g"
+102="Papai? E voce?"
+102Mug="08b"
+103="Parece ser so uma gravacao em holograma. Interessante."
+103Mug="04r"
+104="Voce obviamente veio em busca da sua heranca. Voce vai ter que merece-la. Continue lutando seu caminho ate o topo pra provar que voce e a filha que eu te treinei pra ser."
+104Mug="09g"
+105="Mas e se eu quebrar uma unha?"
+105Mug="08b"
+106="Com quatorze zilhoes de dolares voce pode comprar uma unha nova de platina macica."
+106Mug="04r"
+
+
+[Chapter65]
+101="Aposto que voce esta se perguntando por que eu escondi meus quatorze zilhoes de dolares aqui nessa torre."
+101Mug="09g"
+102="Como voce bem sabe, fizemos o nome da nossa familia no ramo do bacon. Essa torre e a culminacao direta de decadas de pesquisa sobre bacon. Uma nova era do Bacon logo vai surgir!"
+102Mug="09g"
+103="Eu me pergunto do que ele esta falando. Tenho a sensacao que ele nao esta falando sobre Sal de Bacon."
+103Mug="04r"
+104="Deve ser Arvores de Bacon. Eu sei que ele estava trabalhando nisso por um tempo."
+104Mug="08b"
+
+[Chapter70]
+101="Voce pensaria que o Papai nao tornaria tao irritante passar pela Torre dele. Todos esses canhoes e robos!"
+101Mug="08b"
+102="Talvez ele estivesse simplesmente protegendo o investimento dele. Talvez ele soubesse que voce daria conta da tarefa."
+102Mug="04r"
+103="Acho que vou querer uma bela viagem ao Spa depois disso."
+103Mug="08b"
+
+[Chapter100]
+101="Bem-vinda ao meu Santuario. Aqui e onde eu fiz minha pesquisa sobre bacon. Ainda que eu esteja morto e ausente, minha pesquisa vive..e com ela, a fortuna da nossa familia."
+101Mug="09g"
+102="Voce acha que e ouro? Joias? Na verdade, espero que ele so tenha guardado a fortuna da familia em cheques bancarios. Esses sao faceis de descontar."
+102Mug="08b"
+103="Duvido que ele faria uma coisa dessas."
+103Mug="04r"
+104="Suspiro. Suponho que vou me contentar com barras de ouro se for preciso."
+104Mug="08b"
+
+
+[Chapter120]
+101="Logo alem dessa porta esta meu teste final. Vamos ver se voce e digna do nome da familia Baconfeller."
+101Mug="09g"
+102="Boa sorte."
+102Mug="04r"
+103="Quanto antes a gente fizer isso, mais rapido eu posso sair dessa lata de lixo mal iluminada."
+103Mug="08b"
+
+[Chapter150]
+101="Excelente. Voce e de fato digna da fortuna da familia, minha amada filha!"
+101Mug="09g"
+102="Ja nao era sem tempo. Me diz onde esta essa fortuna agora."
+102Mug="08b"
+103="Contemple sua heranca: e essa propria torre. Todos os quatorze zilhoes de dolares foram investidos nessa torre e em seu Motor de Bacon secreto."
+103Mug="09g"
+104="O que? Voce esta brincando comigo. Eu nao lutei por toda essa bobagem por mais um dos produtos estupidos de bacon do Papai."
+104Mug="08b"
+105="O Motor de Bacon e o motor mais poderoso em existencia, capaz de velocidades que se aproximam do perfil de sabor 'defumado com madeira de macieira'."
+105Mug="09g"
+106="Incrivel! Senhorita, pense como uma pessoa de negocios aqui. Isso e incrivel."
+106Mug="04r"
+107="E inutil! Estou saindo daqui. Tenho um horario no salao pra cumprir!"
+107Mug="08b
+
+[Chapter200]
+101="Pensei que a senhorita estava indo embora."
+101Mug="04r"
+102="Tive uma ideia repentina. Voce acha que toda essa sucata vale alguma coisa?"
+102Mug="08b"
+103="Eu acho que a pesquisa aqui provavelmente vale bem mais que quatorze zilhoes de dolares."
+103Mug="04r"
+104="Eu nao ligo pra isso. Quanto voce supoe que valem todos esses materiais brutos?"
+104Mug="08b"
+105="..Eu nao entendo.."
+105Mug="04r"
+106="Vou procurar o botao de autodestruicao. A gente vai demolir isso e vender a sucata."
+106Mug="08b"
+
+
+[Chapter220]
+101="Senhorita Baconfeller, esse Motor de Bacon e o unico em existencia. Pense no legado do seu pai!"
+101Mug="04r"
+102="Nah."
+102Mug="08b"
+
+[Chapter300]
+101="Nao era esse, era? Isso foi facil."
+101Mug="08b"
+102="Voce podia ser a pessoa mais rica e poderosa do mundo. USE o Motor de Bacon, nao o destrua!"
+102Mug="04r"
+103="Isso e trabalho demais. Uma garota tem que curtir a vida, sabe."
+103Mug="08b"
+104="As coisas vao ser diferentes com eu no comando. Cuide pra que o carro esteja me esperando quando eu terminar aqui. Nao vou demorar."
+104Mug="08b"
+
+[Chapter350]
+101="Nao! Agora a humanidade talvez nunca viaje na velocidade do bacon!"
+101Mug="04r"
+102="E dai? A vida nao e sobre quao rapido voce chega ao fim. E sobre quao boa e sua bronzeada."
+102Mug="08b"
+
+
+[Chapter900]
+101="Voce deixa a Torre pro seu assistente Simon e outros funcionarios cuidarem. Eles descobrem como funciona o estupido Motor de Bacon e a tecnologia e usada pra cruzar a distancia estelar entre a Terra e Andromeda, a proxima estrela mais proxima. A tecnologia do seu pai se torna a invencao mais importante da historia, mas, ah, tanto faz."
+101Mug="06h"
+
+[Chapter950]
+101="Voce demole o 'Motor de Bacon' do seu velho e vende a sucata por uma boa grana. Voce passa o resto dos seus dias vivendo como uma socialite rica, ate que um dia um jihadista do bacon te assassina. Voce ainda estava fantastica ate no seu funeral."
+101Mug="06h"
+
+

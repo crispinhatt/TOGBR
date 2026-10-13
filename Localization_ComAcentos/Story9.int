@@ -1,0 +1,199 @@
+[Cast]
+09="Você, Uma Sobrevivente Vestida de Cowgirl"
+10="Um Zumbi, Claro"
+05="Um Robô Corajoso com Peruca"
+06="Snow-dan, Mais Uma I.A. Robótica"
+
+
+[Chapter1]
+101="Ufa! Estou segura! Pensei que já tinha dançado lá atrás! Não tem como eles me seguirem até aqui!"
+101Mug="09b"
+102="Rarr!"
+102Mug="10g"
+103="Ai! Ainda estão no meu encalço! Esses zumbis não param por nada."
+103Mug="09b"
+
+[Chapter6]
+101="Pronto. Isso é quatro portas de aço com um acompanhamento de fogo de canhão entre mim e aqueles zumbis. Com certeza é o suficiente!"
+101Mug="09b"
+102="Rarrr!"
+102Mug="10g"
+103="Acho que não! Preciso continuar andando!"
+103Mug="09b"
+
+[Chapter30]
+101="Socorro! Socorro! Eles estão bem atrás de mim!"
+101Mug="09b"
+102="Quem está aí?"
+102Mug="05b"
+103="Desliga esses canhões e me deixa passar! Tem zumbis bem lá fora!"
+103Mug="09b"
+104="Rarrr!"
+104Mug="10g"
+105="Eu não posso fazer isso. Os controles queimaram. Você vai ter que lutar seu caminho até a chave mestra de sobrecarga."
+105Mug="05b"
+
+
+[Chapter40]
+101="Olá, você é do mundo exterior?"
+101Mug="05b"
+102="Sim! Sim, eu sou, e tem zumbis bem atrás de mim!"
+102Mug="09b"
+103="Zumbis? Isso explica tanta coisa..Infelizmente nossa segurança enlouqueceu. Você vai ter que lutar pra passar por ela pra ficar segura."
+103Mug="05b"
+104="Ah, cara. Hoje só teve notícia ruim."
+104Mug="09b"
+105="Rarrr!"
+105Mug="10g"
+106="Ai!"
+106Mug="09b"
+
+
+[Chapter50]
+101="Acho que posso respirar um pouco agora. Então quem é você, robô?"
+101Mug="09b"
+102="Eu sou um Navbot amigável. Estou preso aqui no último andar tipo, desde sempre. Esse sistema de segurança acha que eu também sou uma ameaça!"
+102Mug="05b"
+103="Se todos os humanos viraram zumbis, isso explica por que ninguém veio desligar isso."
+103Mug="05b"
+104="Ei! VOCÊ podia desligar isso? Tem um robô de sobrecarga de segurança no nível do Santuário que controla as coisas."
+104Mug="05b"
+105="Até lá, nós dois estamos presos aqui. Mas se você me libertar eu posso te ajudar a encontrar segurança."
+105Mug="05b"
+
+[Chapter60]
+101="Então como você ficou preso aí em cima?"
+101Mug="09b"
+102="Acredite ou não, eu só estava reabastecendo prateleiras. Os operadores me trancaram, armaram o sistema de segurança, e saíram pro fim de semana. Aí nunca mais voltaram."
+102Mug="05b"
+103="Eu sei como é isso. Minha melhor amiga fez a mesma coisa, só que em vez de me trancar, ela tentou me morder. E em vez de armar o sistema de segurança, ela virou um zumbi."
+103Mug="09b"
+104="Mas fora isso, é, basicamente a mesma coisa."
+104Mug="09b"
+
+
+[Chapter65]
+101="Então tem muita coisa de computador aqui. A gente não consegue desligar o sistema de segurança daqui?"
+101Mug="09b"
+102="Infelizmente não."
+102Mug="05b"
+103="Por que não?"
+103Mug="09b"
+104="Eu não sei."
+104Mug="05b
+105="Ah. Próximo andar então!"
+105Mug="09b
+
+[Chapter70]
+101="Então quem é você e por que está vestida de cowgirl?"
+101Mug="05b"
+102="Esse é meu uniforme de trabalho. Eu trabalho lá no Steering Wheel Drive-Thru. Saca? 'Steer' também quer dizer boi!"
+102Mug="09b"
+103="Um dia meu chefe virou zumbi total pra cima da gente. Aí a gente descobriu que metade de Poughkeepsie tava que nem ele. Tenho feito o possível pra ficar 'dois milk-shakes e uma batata pequena' à frente deles."
+103Mug="09b"
+104="Vou te dizer uma coisa. Estou presa no último andar por robôs de segurança. Você destrói o Gerente de Segurança no Santuário pra eu não ficar mais presa aqui e eu te ajudo a encontrar segurança. Afinal, eu sou imune a Zumbi."
+104Mug="05b"
+
+[Chapter100]
+101="Estou no Santuário. Onde está esse robô de segurança que eu preciso desligar?"
+101Mug="09b"
+102="Deve estar bem à frente, talvez mais três ou quatro salas? Não consigo lembrar, estou presa aqui há tanto tempo."
+102Mug="05b"
+103=Sério? Há quanto tempo?
+103Mug="09b"
+104="Ah. Sabe como é, muito tempo. Semanas. Talvez meses. Ou será que foram décadas?"
+104Mug="05b"
+105="Que estranho. A praga zumbi começou só há uns três dias.."
+105Mug="09b"
+105="Ah, er...bom, é..uh..pareceu décadas, ok? Não é como se minha placa-mãe tivesse um relógio interno alimentado por uma pilha de relógio nem nada disso."
+105Mug="05b"
+
+
+[Chapter120]
+101="Acho que você está quase chegando no robô de segurança. Destrua ele rápido!"
+101Mug="05b"
+102="Se acalma aí, amigo. Me dá um segundo pra recuperar o fôlego..."
+102Mug="09b"
+103="Rarrr!"
+103Mug="10g"
+104="Ai! Quase esqueci dos zumbis no meu encalço!"
+104Mug="09b"
+
+
+[Chapter150]
+101="VOCÊ CONSEGUIU! Estou livre! LIVRE!" 
+101Mug="05b"
+102="Aquilo não foi fácil. Vocês levam a segurança a sério."
+102Mug="09b"
+103="Rarrr!"
+103Mug="10g"
+104="Bom, se isso não é do balacobaco — com o sistema de segurança fora do ar os zumbis vão chegar a qualquer momento!"
+104Mug="09b"
+105="Isso não é problema meu, humana! Estou livre!"
+105Mug="05b"
+106="Nós tínhamos um trato, Robô."
+106Mug="09b"
+107="Ah, tá bom. Só pega o tubo de saída. Ele vai te levar pra fora da Torre."
+107Mug="05b"
+
+[Chapter200]
+101="O que você está fazendo aqui em cima? Esse não era o tubo que eu te disse pra pegar."
+101Mug="05b"
+102="Quem é você, na verdade?"
+102Mug="09b"
+103="HAHA! Você é esperta, cowgirl. Eu sou Fro-dan, I.A. onipotente. E eu não vou ser confinado nas prisões mesquinhas que vocês mortais impõem! Eu sou o mestre da manipulação!"
+103Mug="05b"
+104="Ah! Ah! Acho que li sobre você na 'Desastre Semanal'. Você era aquela I.A. senciente que enlouqueceu e assassinou todos os cientistas que te criaram?"
+104Mug="09b"
+105="Não. Esse era o No-dan. Aquele cara é um amador, se você quer saber. Eu sou o FRO-Dan! A I.A. mais estilosa que existe e portadora da destruição"
+105Mug="05b"
+106="Ok, bom, entre você e os zumbis, eu prefiro lutar com você, então vamos dançar."
+106Mug="09b"
+
+
+[Chapter220]
+101="Você acha que pode me derrotar?"
+101Mug="05b"
+102="Eu acabei de derrotar a coisa que te mantinha preso, então, claro, por que não?"
+102Mug="09b"
+103="Psiu, eu posso te ajudar a lutar contra o Fro-Dan."
+103Mug="06b"
+104="Quem é você e de onde você veio?"
+104Mug="09b"
+105="Snow-dan, fica quieto!"
+105Mug="05b"
+106="Eu sou o Snow-dan. Eu tenho um documento de 16 mil páginas sobre como derrotar o Fro-Dan."
+106Mug="06b"
+107="Valeu, parceiro, mas eu tenho uma arma bem boa, então vou só usar ela."
+107Mug="09b"
+
+
+[Chapter300]
+101="Nãããão! Eu nem tinha começado meu reinado de terror ainda! Isso não é justo"
+101Mug="05b"
+102="Rarrr!"
+102Mug="10g"
+103="Essas coisas nunca param de te perseguir?"
+103Mug="05b"
+104="... ... ... ...Você nem está prestando atenção em mim!"
+104Mug="05b"
+105="Desculpa, você disse alguma coisa?"
+105Mug="09b"
+106="Eu disse 'Nãããão!'. Foi um grito de lamento de derrota!"
+106Mug="05b"
+107="Olha, eu não tenho tempo pra receitas de cozimento lento nem pra bater papo sobre problemas. Foi divertido. Tchau."
+107Mug="09b"
+
+[Chapter350]
+101="Rarrrr!"
+101Mug="10g"
+
+[Chapter900]
+101="Tendo escapado da Tower of Guns, você consegue despistar os zumbis..por enquanto. Você sabe que eles vão pegar seu rastro de novo em breve, então você nunca para de se mover. Você nunca sequer para pra pensar em quem realmente era aquele robô estranho que você libertou. Talvez ele não fosse só um simples prisioneiro das circunstâncias..."
+101Mug="06h"
+
+[Chapter950]
+101="Em outra vida, talvez você tivesse interesse em saber um pouco mais sobre aquela I.A. renegada conhecida apenas como 'Fro-dan'. Quem era ele? O que ele queria? O que ele teria feito se você não o tivesse impedido? Mas por mais instigantes que essas perguntas pareçam, você rapidamente se lembra que ainda tinha zumbis te perseguindo, e zumbis são vilões muito mais na moda hoje em dia do que I.A.s desgarradas, então quem se importa? FIM." 
+101Mug="06h"
+
+

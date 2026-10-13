@@ -1,0 +1,136 @@
+[Cast]
+Title="A Torre Matou Meu Pai"
+11="Voce, Lucille"
+08="Seu Tio"
+
+[Chapter1]
+101="Entao que lugar e esse pra onde voce me trouxe, Tio?"
+101Mug="11g"
+102="Esse lugar e uma lembranca terrivel, terrivel, Lucille."
+102Mug="08g"
+103="Tem a ver com como meus pais morreram?"
+103Mug="11g"
+104="Pode-se dizer que sim. Um dia eu te conto mais. Se mexa rapido e talvez voce consiga chegar ao topo antes que percebam voce."
+104Mug="08g"
+
+[Chapter6]
+101="Tio, parece que as defesas estao enlouquecidas. Elas estao loucas."
+101Mug="11g"
+102="Eu temia isso."
+102Mug="08g"
+103="Me diga o que esta acontecendo aqui. Como esse lugar esta relacionado a morte misteriosa dos meus pais?"
+103Mug="11g"
+104="Ainda nao, Lucille. Voce nao esta pronta."
+104Mug="08g"
+
+[Chapter30]
+101="Tio, nao sei se consigo continuar. E perigoso demais."
+101Mug="11g"
+102="Voce precisa. Muitas vidas dependem do seu sucesso aqui!"
+102Mug="08g"
+103="Quantas vidas?"
+103Mug="11g"
+104="Sei la...tres...duzias...tres duzias de centenas...milhoes. Muitas, Lucille. Muitas, e so voce pode salva-las."
+104Mug="08g"
+
+[Chapter40]
+101="Por que estou fazendo isso, Tio? Por que outra pessoa nao pode fazer isso?"
+101Mug="11g"
+102="E a sua assinatura genetica, Lucille. A Torre so e vulneravel a sua linhagem de sangue."
+102Mug="08g"
+103="Foi por isso que ela matou meu pai!"
+103Mug="11g"
+104="...."
+104Mug="08g"
+
+[Chapter50]
+101="Voce esta indo bem ate agora, Lucille. Sua mae teria orgulho."
+101Mug="08g"
+102="Minha mae..sempre quis te perguntar...como ela era?"
+102Mug="11g"
+103="Ela era gentil...alegre...maravilhosa. Infelizmente ela morreu muito antes de voce nascer."
+103Mug="08g"
+
+[Chapter60]
+101="Me diga, Tio. Me diga como meu pai morreu..."
+101Mug="11g"
+102="Ainda nao, Lucille, ainda nao. Se concentre em sobreviver."
+102Mug="08g"
+
+
+[Chapter65]
+101="Acho que estou perto do topo, Tio. Me diga agora. Me diga o que era cedo demais pra me contar antes.."
+101Mug="11g"
+102="Ok....seu pai nao foi morto pela Tower of Guns, Lucille..."
+102Mug="08g"
+103="..."
+103Mug="11g"
+104="Seu pai E a Tower of Guns..."
+104Mug="08g"
+105="NAaaaaaaaaaaaaaaaaooo-"
+105Mug="11g"
+106="-aaaaaaaaaaaooo-"
+106Mug="11g"
+107="-aaaaaaaaaaaooo!"
+107Mug="11g"
+
+[Chapter70]
+101="O que faz essa Torre ser tao perigosa, Tio?"
+101Mug="11g"
+102="Essa torre...pode-se dizer que ela tem mente propria. Uma mente perturbada por ciencia distorcida e um passado terrivel."
+102Mug="08g"
+
+
+[Chapter100]
+101="Entao...explica de novo como essa coisa e meu pai?"
+101Mug="11g"
+102="Seu pai era um controverso cientista louco. Seus experimentos eram...perigosos. Durante um de seus testes de laboratorio algo deu errado!"
+102Mug="08g"
+103="Seu experimento o consumiu, e em sua furia, ele matou sua mae."
+103Mug="08g"
+104="Nao... ... .... Eu tenho que parar essa Torre, Tio...pela seguranca de pais em todo lugar."
+104Mug="11g"
+
+[Chapter120]
+101="Adiante esta o Cerebro de Batalha da Torre. E pra isso que voce esta aqui, Lucille. Boa sorte."
+101Mug="08g"
+102="Deixa comigo!"
+102Mug="11g"
+
+[Chapter150]
+101="Bom trabalho, Lucille! Voce desarmou os padroes de ataque externos da Torre."
+101Mug="08g"
+102="A seguranca de pais em todo lugar foi assegurada!"
+102Mug="11g"
+103="E seu pai nao vai machucar mais ninguem, dolorosamente preso nessa prisao eterna de metal pra sempre desse jeito!"
+103Mug="08g"
+104="Uh, o que?"
+104Mug="11g"
+
+
+[Chapter200]
+101="Tio, desculpa...eu simplesmente nao posso deixar esse lugar assim. Papai nao ia querer isso. Esse lugar precisa ser destruido."
+101Mug="11g"
+102="Eu entendo, Lucille."
+102Mug="08g"
+
+
+[Chapter300]
+101="E isso! A alma do meu pai sera libertada dessa prisao de metal e eu vou trazer um desfecho pra essa linha de enredo!"
+101Mug="11g"
+
+[Chapter350]
+101="Pronto! Eu destrui a Torre! Papai teria orgulho."
+101Mug="11g"
+102="So que voce acabou de explodir ele. Mas fora isso, sim, ele teria tido orgulho."
+102Mug="08g"
+
+
+[Chapter900]
+101="Voce desativou o perigo do seu pai torrificado, entao decide construir um parque tematico ao redor da base dele porque, afinal, ele e um belo marco turistico e voce provavelmente pode vender passeios. Ele provavelmente ficaria ofendido, mas voce, enquanto isso, fatura uma grana absurda com a venda de ingressos."
+101Mug="06h"
+
+[Chapter950]
+101="Com a Torre destruida, o espirito do seu pai agora esta livre pra sempre de sua terrivel prisao. Pensando nisso depois, voce se pergunta como ele conseguiu se fundir com um pedaco de metal inanimado. Sua curiosidade te leva pelo caminho de se tornar voce mesmo uma cientista louca profissional...so que voce decide construir uma Torre sem bobas fraquezas geneticas."
+101Mug="06h"
+

@@ -1,0 +1,146 @@
+[Cast]
+Title="Jogo Sem Nome, a Sequência"
+13="Você, um Fuzileiro Sem Nome"
+04="Sgto. P"
+
+[Chapter1]
+101="Aqui é o Q.G. da Nave-Mãe chamando todas as unidades. Se você está ouvindo isso, reporte-se."
+101Mug="04b"
+102="Soldado Sem Nome, reportando-se, senhor!"
+102Mug="13b"
+103="Soldado! Bom ouvir sua voz! Qual é seu status."
+103Mug="04b"
+104="Uh..Fui nocauteado. Mas estou bem agora. Estou separado do resto do meu esquadrão."
+104Mug="13b"
+105="Prossiga até o Alvo do Canhão Gigante. Vou te passar informações sobre o resto do seu Esquadrão."
+105Mug="04b"
+106="Sim, senhor!"
+106Mug="13b"
+
+[Chapter6]
+101="Soldado, tenho uma atualização sobre seu esquadrão."
+101Mug="04b"
+102="Infelizmente, nenhum deles sobreviveu."
+102Mug="04b"
+103="O quê? Como assim, senhor?"
+103Mug="13b"
+104="Você é tudo que restou da Equipe Alfa...o resto deles pousou numa zona de aterrissagem sob fogo intenso e foram despedaçados."
+104Mug="04b"
+105="Seu esquadrão pode estar morto, mas você ainda pode honrar a memória deles completando a missão!"
+105Mug="04b"
+106="Sim, Senhor!"
+106Mug="13b"
+
+[Chapter30]
+101="Pode me contar sobre a missão de novo, senhor?"
+101Mug="13b"
+102="Precisa refrescar a memória, Soldado? Uma década em congelamento criogênico faz isso. Viemos de longe até o planeta natal dos ToGrogg pra destruir aquele Canhão Gigante deles."
+102Mug="04b"
+103="Já lembro! Chegar ao topo da torre e destruir a Sala de Controle do Canhão Gigante!"
+103Mug="13b"
+
+
+[Chapter40]
+101="Pode me contar mais sobre como eu sobrevivi, senhor?"
+101Mug="13b"
+102="Parece que sua nave de desembarque foi atingida durante a entrada na atmosfera. Isso alterou sua trajetória e você teve uma vista panorâmica da batalha enquanto o computador de bordo te redirecionava pra outra zona de pouso."
+102Mug="04b"
+103="Então foi assim que acabei separado do meu esquadrão."
+103Mug="13b"
+
+[Chapter50]
+101="Estou entrando nas Muralhas, senhor."
+101Mug="13b"
+102="Foi lá que o resto do seu esquadrão encontrou seu fim. Tome cuidado."
+102Mug="04b"
+103="Todas aquelas vidas..."
+103Mug="13b"
+104="Sem brincadeira. Uma década de voo espacial só pra ser eliminado em segundos. Mas estamos mandando flores pras famílias deles."
+104Mug="04b"
+
+
+[Chapter60]
+101="Soldado, temos novas informações. Sabíamos que a raça ToGrogg era coletora de sucata. Mas não sabíamos que eles também colhiam materiais orgânicos."
+101Mug="04b"
+102="Ok, o que isso significa?"
+102Mug="13b"
+103="Esses robôs que você está enfrentando não mataram o Esquadrão Alfa. Eles SÃO o Esquadrão Alfa."
+103Mug="04b"
+104="Eles são ToGroggitas — misturas cibernéticas de músculo e metal, de sangue e óleo. É bem nojento, na verdade."
+104Mug="04b"
+105="Eu tenho que impedi-los antes que os ToGrogg transformem a galáxia inteira em ToGroggitas."
+105Mug="13b"
+
+[Chapter65]
+101="Então, eu devia evitar matar todos esses robôs, já que na verdade são os membros colhidos do Esquadrão Alfa?"
+101Mug="13b"
+102="Provavelmente não. Só achei que você devia saber pra poder se sentir mal por causa disso."
+102Mug="04b"
+103="Fora isso, continue com a missão principal — destrua aquele Canhão Gigante!"
+103Mug="04b"
+
+[Chapter70]
+101="Eu nunca imaginei que teria tantos deles, senhor."
+101Mug="13b"
+102="Só lembre do seu treinamento, Soldado. Vai ter uma medalha te esperando de volta na Terra."
+102Mug="04b"
+103="Eu sempre quis uma medalha."
+103Mug="13b"
+
+
+[Chapter100]
+101="Senhor, acho que estou perto. Cheguei num nível chamado Santuário. Esse é um bom nome pra um nível final, né?"
+101Mug="13b"
+102="Concordo, mas você nunca pode ter certeza em videogames. Boa sorte, Soldado."
+102Mug="04b"
+
+
+[Chapter120]
+101="Acho que cheguei na sala de controle do Canhão Gigante, senhor! Vou entrar e destruí-lo."
+101Mug="13b"
+102="Vai pegar eles, Soldado!"
+102Mug="04b"
+
+[Chapter150]
+101="Senhor, destruí a sala de controle e causei o que muito provavelmente é um dano irreparável às operações ToGrogg!"
+101Mug="13b"
+102="Ótimo trabalho, Soldado. Isso provavelmente já basta. Você vingou todas aquelas vidas perdidas e salvou milhões de civis lá em casa. Você é um herói, Soldado."
+102Mug="04b"
+103="Aw, poxa, não foi nada."
+103Mug="13b"
+
+
+[Chapter200]
+101="Senhor, encontrei uma extensão da Torre. Parece que pode haver um jeito de destruir o próprio coração dessa Torre."
+101Mug="13b"
+102="Faça isso e você pode acabar destruindo a civilização ToGrogg inteira."
+102Mug="04b"
+103="O quê? Sério?"
+103Mug="13b"
+104="As informações sugerem que os ToGrogg ligam a autoestima deles ao tamanho do canhão deles. Destrua o canhão e o resto deles nem vai oferecer resistência."
+104Mug="04b"
+105="Estou nessa!"
+105Mug="13b"
+
+
+[Chapter300]
+101="Acho que acabei de destruir o chefão! Estou a caminho do Coração da Torre!"
+101Mug="13b"
+102="Agora é a hora de dar tudo de si, Soldado!"
+102Mug="04b"
+103="Afirmativo."
+103Mug="13b"
+
+[Chapter350]
+101="Bom trabalho, Soldado! Você destruiu a Torre com sucesso, e com ela toda a ameaça ToGrogg! (pelo menos até uma sequência)."
+101Mug="04b"
+
+
+[Chapter900]
+101="Você tem bastante certeza de que destruir o chefe Máquina de Chiclete foi praticamente tudo que você precisava fazer pra conter adequadamente a ameaça ToGrogg...e foi, por alguns anos. Eles levam uns bons dez anos pra reconstruir suas forças e fazer sua operação do Canhão Gigante de novo..então, quando você chega em casa depois da jornada interestelar de 12 anos, você descobre que a ameaça ToGrogg tinha voltado e você teve que dar meia-volta e retornar. Opa."
+101Mug="06h"
+
+[Chapter950]
+101="Com o Canhão Gigante destruído e a ameaça do planeta natal dos ToGrogg neutralizada, você retorna à Terra como um herói celebrado. Você vive o resto dos seus dias fazendo contribuições significativas nas áreas de Ciência de Foguetes, Realidade Virtual, e customização artesanal de blocos de motor Hot-Rod."
+101Mug="06h"
+

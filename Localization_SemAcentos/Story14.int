@@ -1,0 +1,147 @@
+[Cast]
+05="Voce, Dr. Pepto Vira-Lata"
+10="Quartel-General"
+
+[Chapter1]
+101="Base, aqui e o Pepto. Estou dentro. Operacao Tranquilidade esta a caminho."
+101Mug="05g"
+102="Bom garoto! Relate o que voce ve."
+102Mug="10r"
+103="As coisas nao parecem tao ruins daqui, mas ainda estou na entrada. Nenhum sinal de doenca."
+103Mug="05g"
+104="Prossiga com cautela, Dr. Pepto."
+104Mug="10r"
+
+[Chapter6]
+101="Q.G., aqui e o Pepto. Ha sinais definitivos de inflamacao: torretas, robos-bomba, multiplos avistamentos de robos-giratorios."
+101Mug="05g"
+102="E pior do que pensavamos. Algum sinal de inimigo em escala maior? Alguma Mamae Robo-Giratorio."
+102Mug="10r"
+103="Afirmativo. Eu a eliminei, mas tenho a sensacao de que ha mais."
+103Mug="05g"
+
+[Chapter30]
+101="Q.G. Essa infeccao e pior do que temiamos. Solicitando reforcos."
+101Mug="05g"
+102="Negativo, Dr. Pepto. Todos os medicos de campo de reforco foram enviados pra Madagascar. Tem uma 'situacao' la. So va com cuidado e voce deve ficar bem."
+102Mug="10r"
+103="Fico feliz que pelo menos um de nos ache isso."
+103Mug="05g"
+
+
+[Chapter40]
+101="Q.G. Sinto que essa e a pior infeccao que eu ja vi. Algum outro medico de campo na minha proximidade?"
+101Mug="05g"
+102="Negativo, Dr. Pepto. Voce esta por conta propria. Eu te chamo pelo radio se a situacao mudar."
+102Mug="10r"
+
+[Chapter50]
+101="Q.G. Alguma noticia sobre esse reforco? As coisas estao ficando cabeludas aqui embaixo."
+101Mug="05g"
+102="Tenho mas noticias, Pepto. Todos os outros medicos de campo foram comprometidos. Houve uma situacao em Madagascar."
+102Mug="10r"
+103="Comprometidos? Tipo, mortos?"
+103Mug="05g"
+104="Sim, voce e o ultimo Medico de Campo que temos."
+104Mug="10r"
+105="Entao, eu realmente estou por conta propria."
+105Mug="05g"
+
+
+[Chapter60]
+101="Digamos que eu nao destrua seja la qual for a doenca robotica que essa torre contraiu. O que vai acontecer?"
+101Mug="05g"
+102="Sabe aqueles robos-giratorios e robos-bomba? Isso e uma reacao alergica a doenca."
+102Mug="10r"
+103="...o que? Isso nem faz sentido."
+103Mug="05g"
+104="A ciencia ainda nao consegue explicar, mas a doenca faz essas coisas aparecerem por todo lugar. Se deixada sem controle, o mundo sera consumido por robos-bomba."
+104Mug="10r"
+
+
+[Chapter65]
+101="Entao, agora e uma boa hora pra discutir minha remuneracao, certo?"
+101Mug="05g"
+102="Remuneracao? Voce quer dizer um aumento? Como voce pode agir tao egoisticamente num momento desses?"
+102Mug="10r"
+103="Voce devia estar se perguntando a mesma coisa, Q.G."
+103Mug="05g"
+
+[Chapter70]
+101="Dr. Pepto, tenho mas noticias. A infeccao esta se espalhando."
+101Mug="10r"
+102="Se espalhando? Como assim?"
+102Mug="05g"
+103="Seja la qual for a doenca robotica que infectou essa torre, logo vai infectar a cidade proxima, e dali o mundo. Voce precisa derrota-la."
+103Mug="10r"
+104="Ou senao todo mundo vai pegar essa Gripe da Torre?"
+104Mug="05g"
+105="Sim. O mundo inteiro vai ficar devastado por robos-giratorios e robos-bomba!"
+105Mug="10r"
+
+[Chapter100]
+101="Certo, Dr. Pepto. Eu falei com a O.N.U. Os lideres mundiais estao universalmente enojados com seu comportamento. Mas vamos ouvir suas exigencias."
+101Mug="10r"
+102="Eu quero um suprimento vitalicio de petiscos em formato de osso.... E um hidrante pessoal."
+102Mug="05g"
+103="Petiscos de cachorro e um hidrante? Voce faz refem o mundo inteiro e e so isso que voce quer?"
+103Mug="10r"
+104="Mais uma exigencia: eu quero minhas ..uh.... coisinhas - entre - as - pernas de volta. Algum medico tirou elas quando eu era filhote. Eu quero elas de volta."
+104Mug="05g"
+105="Uh, vou ter que checar com a O.N.U. sobre isso."
+105Mug="10r"
+
+[Chapter120]
+101="Entao, Dr. Pepto, nao podemos te devolver suas coisinhas. Aquela foi uma operacao sem volta. Como medico, voce devia saber disso."
+101Mug="10r"
+102="Tudo bem entao, eu quero proibir a remocao de coisinhas pra todos os cachorros do futuro."
+102Mug="05g"
+103="Voce nao pode estar falando serio."
+103Mug="10r"
+104="Voce acha que nao? Vamos ver como voce sobrevive bem a uma infeccao de robo-giratorio, entao."
+104Mug="05g"
+105="Vou perguntar pra O.N.U."
+105Mug="10r"
+
+[Chapter150]
+101="Ok, Dr. Pepto. A O.N.U. votou e aprovou uma proibicao de todas as remocoes de coisinhas de cachorro. Feliz?"
+101Mug="10r"
+102="Sim. E acho que acabei de eliminar o resto da infeccao. Otimo timing."
+102Mug="05g"
+103="Voce e uma criatura desprezivel, mas tambem um heroi. Bom trabalho."
+103Mug="10r"
+
+[Chapter200]
+101="Esquece aquele ultimo aviso. Encontrei mais evidencias de infeccao. Vou investigar mais."
+101Mug="05g"
+102="Tome cuidado."
+102Mug="10r"
+
+
+[Chapter220]
+101="Ai, caramba. Acho que encontrei a fonte da infeccao!"
+101Mug="05g"
+
+[Chapter300]
+101="Doutor Pepto, reporte-se."
+101Mug="10r"
+102="Eu temia isso, Q.G. Essa Torre inteira esta corrompida demais. A coisa toda se transformou num robo-bomba gigante. Ela vai explodir!"
+102Mug="05g"
+103="Saia dai, Doutor!"
+103Mug="10r"
+104="Negativo, Q.G. Eu preciso terminar isso...por todos os cachorros por ai e as coisinhas deles. Construam um parque em minha honra."
+104Mug="05g"
+
+[Chapter350]
+101="Doutor Pepto, voce nos salvou a todos...voce nao era tao desprezivel afinal."
+101Mug="10r"
+
+[Chapter900]
+101="Voce partiu da Torre, convencido de que estava deixando pra tras um trabalho bem feito. Mas voce mal sabia que tracos daquela estranha infeccao de robo-giratorio ainda persistiam. Logo eles voltaram a se espalhar e consumiram a torre, depois a cidade, depois a nacao. Enquanto isso, voce estava bebendo drinks fotogenicos numa praia no Havai e aproveitando um descanso bem merecido quando ouviu a noticia da destruicao do continente. Foi uma desculpa tao boa quanto qualquer outra pra estender suas ferias e voce vive o resto dos seus dias como dancarino de Luau."
+101Mug="06h"
+
+[Chapter950]
+101="Voce pode ter perdido sua vida na explosao da Tower of Guns, mas seu sacrificio nao foi em vao. Voce salvou o mundo de uma estranha infeccao de Robo-Giratorio e provocou um debate nacional sobre a moralidade da remocao de coisinhas caninas. Enquanto os humanos debatiam, a populacao canina disparou e os caninos finalmente dominaram o mundo. Alguns de voces agora tem humanos como animais de estimacao, e gostam de dar a eles nomes humilhantes como 'Professor Fofurinha'."
+101Mug="06h"
+
+

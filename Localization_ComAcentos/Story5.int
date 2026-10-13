@@ -1,0 +1,167 @@
+[Cast]
+Title=""
+06="Você, Big Ben, um Caçador com Sotaque Legal"
+08="Aramsey, um Chefão do Crime Infame"
+
+[Chapter1]
+101="Big Ben chamando Aramsey. Câmbio, Aramsey."
+101Mug="06g"
+102="Aqui é Aramsey. Estou te ouvindo, Big Ben. Prossiga até o Cérebro da Torre. Pegue ele. Mantenha simples, Big Ben.""
+102Mug="08r"
+103="Simples é meu sobrenome, chefe."
+103Mug="06g"
+
+[Chapter6]
+101="Big Ben chamando Aramsey. Câmbio, Aramsey. Já limpei o Saguão."
+101Mug="06g"
+102="Não fica se achando. Esse é só o primeiro andar. O último idiota — quer dizer — caçador, que eu mandei por esse caminho chegou até o Armazém antes de perdermos o sinal dele."
+102Mug="08r"
+103="Entendido, Aramsey. Entro em contato de novo mais tarde."
+103Mug="06g"
+
+[Chapter9]
+101="Aramsey, câmbio. Parece que estou preso."
+101Mug="06g"
+102="Não esquece da sua tecla tilt, Big Ben!"
+102Mug="08r"
+
+
+[Chapter30]
+101="Big Ben chamando Aramsey. Alguma ideia do que vai fazer com a sua metade da grana."
+101Mug="06g"
+102="Agora não é hora de viajar na maionese, Big Ben."
+102Mug="08r"
+103="Eu vou fazer uma viagem. Nunca fui pra Europa. Sabe: Atenas, Escócia, Taiti."
+103Mug="06g"
+104="Fica focado ou o único lugar pra onde você vai é o necrotério."
+104Mug="08r"
+
+
+[Chapter40]
+101="Então as pessoas realmente curtem essas coisas? Esse negócio de Cérebro da Torre?"
+101Mug="06g"
+102="Cérebros de Torre são uma iguaria."
+102Mug="08r"
+103="As pessoas comem isso? É tudo metal e fio e sucata."
+103Mug="06g"
+104="As pessoas comem qualquer coisa se você disser que é uma iguaria. Elas ficam viciadas nisso."
+104Mug="08r"
+105="E isso é só os cérebros. Imagine quanto elas pagariam se alguém conseguisse um coração de torre!"
+105Mug="08r"
+
+[Chapter50]
+101="Aramsey, cheguei no exterior. Você não me disse que tinha muralhas desse jeito."
+101Mug="06g"
+102="E daí? Qualquer abordagem aérea estaria sob fogo pesado."
+102Mug="08r"
+103="Como isso é diferente de estar sob fogo pesado agora?"
+103Mug="06g"
+104="Continua se movendo, Big Ben. Encontra esses cérebros."
+104Mug="08r"
+
+[Chapter60]
+101="De certa forma, esse pedaço de metal velho e grandão é bem bonito."
+101Mug="06g"
+102="Não é mesmo, Big Ben. É dinheiro."
+102Mug="08r"
+103="O que acontece quando você colher todos eles? Não vai sobrar nenhum. Parece cruel roubar a massa cerebral dele."
+103Mug="06g"
+104="Isso não é um elefante ou um dodô. Isso é uma máquina."
+104Mug="08r"
+105="Só parece estranho..."
+105Mug="06g"
+106="Bom, supera isso. Eu tenho contas pra pagar."
+106Mug="08r"
+
+[Chapter65]
+101="É meio uma pena ter que destruir todos esses robôs! Alguns deles tinham uma aparência bem legal."
+101Mug="06g"
+102="Cai na real, Big Ben. Se você não pegar esses Cérebros da Torre, você não vai ter aquela viagem pra Europa que queria."
+102Mug="08r"
+103="Ah, é! Não posso esquecer da Europa!"
+103Mug="06g"
+
+[Chapter70]
+101="Estou nas entranhas profundas da Torre, Aramsey. Está tudo escuro."
+101Mug="06g"
+102="Isso é o Armazém. Áreas de armazenamento são sempre escuras. É assim que elas vêm."
+102Mug="08r"
+103="Onde você aprendeu tanto sobre essas Torres antigas?"
+103Mug="06g"
+104="TV da tarde. Continua se movendo."
+104Mug="08r"
+
+[Chapter100]
+101="Você está perto, Big Ben. Os scanners indicam que o cérebro está próximo."
+101Mug="08r"
+102="Estou começando a achar que não devíamos estar fazendo isso, Aramsey."
+102Mug="06g"
+103="Se a gente não fizer, outra pessoa vai fazer."
+103Mug="08r"
+104="Isso é uma desculpa pra destruir essa coisa?"
+104Mug="06g"
+105="..Acho que você está pensando demais nesse enredo. Só vai lá e mata a torre!"
+105Mug="08r"
+106="Huh. Boa observação. Esse jogo não é o lugar certo pra um desenvolvimento de personagem de verdade."
+106Mug="06g"
+107="Essa é a atitude! Vai buscar nossos Cérebros de Torre!"
+107Mug="08r"
+
+[Chapter120]
+101="O cérebro está na próxima sala, Big Ben. Você está preparado?"
+101Mug="08r"
+102="Sim! Aliás, a porta se fechou atrás de mim, então eu não tenho muita escolha mesmo."
+102Mug="06g"
+
+
+[Chapter150]
+101="Você conseguiu, Big Ben! Você pegou o Cérebro da Torre!" 
+101Mug="08r"
+102="Você não consegue quase sentir o gosto dessa Viagem pra Europa?"
+102Mug="08r"
+
+
+[Chapter200]
+101="Big Ben, por que você não pegou aquela outra saída? Pra onde você está indo?"
+101Mug="08r"
+102="Eu mudei de ideia. Não podemos continuar colhendo Cérebros de Torre a bel-prazer da burguesia."
+102Mug="06g"
+103="Vou libertar essa máquina do sofrimento dela pra sempre."
+103Mug="06g"
+104="Você está louco? Você sabe quanto dinheiro dá pra fazer com essa torre?"
+104Mug="08r"
+
+[Chapter220]
+101="Big Ben! Não faz isso!"
+101Mug="08r"
+102="Já me decidi, Aramsey! A Europa vai ter que esperar."
+102Mug="06g"
+
+[Chapter300]
+101="Está feito. Não tenho certeza do que era aquela coisa que acabei de destruir, mas acho que era a coisa mais importante aqui."
+101Mug="06g"
+102="Você nos arruinou, Big Ben! Você nos arruinou!"
+102Mug="08r"
+103="E todos nós aprendemos uma lição importante com isso, tenho quase certeza."
+103Mug="06g"
+104="Que você é um idiota!"
+104Mug="08r"
+105="Então eu encontrei uma passagem escondida. Não tenho certeza pra onde ela vai. Parece estar me levando mais fundo na Torre."
+105Mug="06g"
+106="Espero que ela te leve a uma morte dolorosa."
+106Mug="08r"
+
+[Chapter350]
+101="Big Ben! Aquele era o mítico Coração da Torre! Você colheu uma iguaria incrivelmente valiosa — as pessoas vão pagar mais por aquele coração do que por qualquer sucata da Torre!"
+101Mug="08r"
+102="A moral dessa história é: você pode satisfazer o gosto refinado de pessoas com dinheiro demais destruindo coisas!"
+102Mug="06g"
+
+
+[Chapter900]
+101="Com os Cérebros da Torre sedados, você extrai cuidadosamente material cerebral suficiente pra tornar sua incursão na Torre lucrativa. Aquelas pessoas ricas com dinheiro demais provavelmente vão dar bastante dinheiro ao Aramsey por isso, e talvez você também receba uma parte. Em um mundo diferente, talvez você tivesse sido quem ficou com todo o dinheiro."
+101Mug="06h"
+
+[Chapter950]
+101="Com a Torre fumegando atrás de você, você pega o extrato do coração e some da cidade sem dar uma parte ao Aramsey. Quando você experimenta o coração da Torre, você se transforma em um super-herói com super força e invisibilidade e usa seus poderes pra tirar umas longas férias na Europa. Anos depois, Aramsey te encontra e faz você pagar o jantar dele."
+101Mug="06h"

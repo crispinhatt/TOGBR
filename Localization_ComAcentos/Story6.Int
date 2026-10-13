@@ -1,0 +1,186 @@
+[Cast]
+Title="O Corte Estendido do Diretor"
+05="Você, Bolbi Biggans, um Hibbot"
+06="Thoritron, um Anão Robô"
+07="Gandaltron"
+
+[Chapter1]
+101="Tem alguém aqui?"
+101Mug="05b"
+102="Tem alguém em casa? Estou aqui pra fingir que procuro uma aventura por três horas e meia e depois reclamar quando eu a encontrar."
+102Mug="05b"
+103="Se ninguém responder, presumo que isso significa que posso entrar e vasculhar um pouco."
+103Mug="05b"
+
+[Chapter6]
+101="Não vi muita aventura naquele andar. Só um monte de torretas. Talvez o próximo andar tenha uma aventura!"
+101Mug="05b"
+
+[Chapter9]
+101="Parece que me encontrei num buraco inescapável."
+101Mug="05b"
+102="Se ao menos eu tivesse algum jeito útil de escapar de buracos. Eu provavelmente vincularia isso à minha tecla 'c' por padrão, se eu tivesse um!"
+102Mug="05b"
+
+[Chapter30]
+101="Você! Quem é você?"
+101Mug="06b"
+102="Eu sou Bolbi Biggans! Estou relutantemente procurando uma aventura!"
+102Mug="05b"
+103="Bom, Bolbi, eu tenho uma pra você! Fui expulso da minha casa no topo da Torre por uma besta feroz! Me ajude a reconquistar meu lar!"
+103Mug="06b"
+104="Eu vou relutantemente aceitar essa aventura! Vamos lá!"
+104Mug="05b"
+
+[Chapter40]
+101="Alto lá! Que tipo de criatura você é?"
+101Mug="06b"
+102="Eu sou um Habbot. Sou um isolacionista pacífico procurando aventuras pra escrever sobre depois."
+102Mug="05b"
+103="Eu sou um anão-robô. Tem uma besta temível no topo dessa torre. Me ajude a reconquistar essa torre pro meu povo."
+103Mug="06b"
+104="Eu faço isso se você prometer que não vai ter nenhum canto."
+104Mug="05b"
+105="Essa é uma promessa que eu não posso fazer."
+105Mug="06b"
+106="Eu faço mesmo assim."
+106Mug="05b"
+
+[Chapter50]
+101="Uau, estamos bem lá em cima."
+101Mug="05b"
+102="De fato! Haverá perigo pela frente."
+102Mug="06b"
+103="Como a gente chama aquilo que a gente acabou de passar."
+103Mug="05b"
+104="Aquilo também foi perigo. Mas em jogos as coisas ficam mais perigosas conforme você avança, Habbot."
+104Mug="06b"
+105="Eu sou um Hibbot, não um Habbot."
+105Mug="05b"
+
+
+[Chapter60]
+101="Quem vem lá!"
+101Mug="07r"
+102="Sou eu, mago! Eu trouxe essa pequena criatura pra nos ajudar na nossa jornada!"
+102Mug="06b"
+103="Isso é só um Hibbot. Você não precisa de um Hibbot."
+103Mug="07r"
+104="Ah, caramba, sério? Eu tinha certeza que você ia dizer que ele teria um papel crucial."
+104Mug="06b"
+105="Claro que não. Ele mal consegue levantar aquela arma que tem. Eu pensei que você ia trazer o Mecha-T-Rex."
+105Mug="07r"
+106="Todos já estavam alugados. Você tem que chegar no lugar tipo..às 7 da manhã ou todos já estão reservados pro dia. O Bolbi aqui vai ter que servir."
+106Mug="06b"
+107="Eu estou bem aqui, sabe. Vocês não precisam falar de mim como se eu não estivesse."
+107Mug="05b"
+108="Se ele passar pela Logística, aí talvez eu mude de ideia. Até lá, ele é só peso morto."
+108Mug="07r"
+
+[Chapter65]
+101="Pronto, eu venci o andar da Logística. Agora eu posso ter uma aventura com vocês dois?"
+101Mug="05b"
+102="Talvez ele seja mais habilidoso do que eu pensava."
+102Mug="07r"
+103="Viu, eu te disse."
+103Mug="06b"
+
+[Chapter70]
+101="Está tão escuro."
+101Mug="05b"
+102="Essa torre nem sempre foi tão escura. Uma vez, há muito tempo, ela estava cheia de canto e risadas alegres."
+102Mug="06b"
+103="A gente ganha uma montagem em flashback disso? Parece divertido?"
+103Mug="05b"
+104="Isso é só na Edição Estendida. Continua andando."
+104Mug="06b"
+
+[Chapter100]
+101="Certo, Bolbi, esse é o Santuário. Mostra pra gente o que você sabe fazer."
+101Mug="07r"
+102="Finalmente, uma aventura sobre a qual eu posso ser relutante!"
+102Mug="05b"
+103="Nossa, como eu sinto falta da minha casinha lá em Hibboton. Eu adoraria uma boa xícara de chá agora!"
+103Mug="05b"
+104="O que você está fazendo?"
+104Mug="06b"
+105="Que peculiar. Isso é um ritual de batalha, talvez?"
+105Mug="07r"
+106="Eu com certeza sou relutante quanto a essa aventura!"
+106Mug="05b"
+
+[Chapter120]
+101="Parece que o chefe está além dessas portas. Haha! Aventura! Relutância! Amizade!"
+101Mug="05b"
+102="Esse é um hibbot bem estranho que você encontrou, anão."
+102Mug="07r"
+103="Eu não acho que ele é muito esperto."
+103Mug="06b"
+
+[Chapter150]
+101="Eu não acredito que você conseguiu, Bolbi! Você matou o chefe da torre!" 
+101Mug="06b"
+102="Ótimo! Isso significa que minha aventura está completa, certo? Seu lar foi reconquistado!"
+102Mug="05b"
+103="Não exatamente, mas eu e o Gandaltron conversamos e se você quiser parar por aqui agora, tá tranquilo pra gente."
+103Mug="06b"
+104="Pode ser melhor pra todo mundo. A gente cuida do resto daqui. Valeu, de qualquer forma."
+104Mug="07r"
+105="Ah..ok.."
+105Mug="05b"
+
+[Chapter200]
+101="Ei, pessoal! Eu decidi continuar ajudando! Encontrei a passagem secreta pro Ninho do Corvo e estou pronto pra lutar!"
+101Mug="05b"
+102="Bom..isso é constrangedor."
+102Mug="07r"
+103="Eu não acho que a gente precisa de mais ajuda, Bolbi."
+103Mug="06b"
+104="Por que não? Eu venci aquele chefe do Santuário, não venci?"
+104Mug="05b"
+105="Não é isso, Bolbi. Você é um bom lutador...é só que..que..bem..uh..."
+105Mug="06b"
+106="Você simplesmente não é legal, Bolbi. Você está prejudicando nossa reputação de rua com as magas-robô."
+106Mug="07r"
+107="E as anãs-robô."
+107Mug="06b"
+108="Bobagem! Eu sou o avatar do jogador em um FPS, então eu sou obviamente a pessoa mais legal por aqui."
+108Mug="05b"
+109="Pelo Queixo Careca de Tolkien, ele tem um bom argumento."
+109Mug="07r"
+110="Certo, agora me diga pra onde apontar minha arma flutuante desencarnada!"
+110Mug="05b"
+
+
+[Chapter220]
+101="Lá vamos nós! É a coisa do chefão!"
+101Mug="05b"
+
+[Chapter300]
+101="Está feito, Thoritron. Seu lar foi reconquistado. E outra passagem aguarda!"
+101Mug="05b"
+102="Hah! Mais aventura aguarda! Estou tão relutante em persegui-la!"
+102Mug="05b"
+103="Ah, não começa com isso de novo.."
+103Mug="07r"
+
+[Chapter350]
+101="Nós conseguimos! Eu tive a minha aventura!"
+101Mug="05b"
+102="Minha terra natal foi...destruída?"
+102Mug="06b"
+103="Pelo menos a gente esticou a história o máximo possível pra maximizar a exploração da franquia!"
+103Mug="07r"
+104="Todo mundo ganha!" 
+104Mug="05b"
+
+
+[Chapter900]
+101="Você caminha rumo ao pôr do sol, sabendo que completou o trabalho e salvou o lar e a herança de Thoritron.. Ou, pelo menos, ajudou a salvar. De certa forma. Um pouco. Agora você pode começar a registrar sua aventura num livro. Você acha que vai chamá-lo de 'Meio que Lá, Até que Me Fizeram Voltar de Novo'."
+101Mug="06h"
+
+[Chapter950]
+101="Você passa os anos seguintes à sua aventura escrevendo um livro de memórias best-seller que passa trinta e sete semanas no topo da lista de mais vendidos do NY Times. Thoritron entra pra televisão e conhece a maga-robô dos seus sonhos no set da versão brasileira de Grey's Anatomy. Gandaltron foi morto pela máfia em uma competição disfarçada de soletração que deu terrivelmente errado. Essa história é dedicada à memória de Gandaltron. Descanse em paz, sua piada mal concebida e cansada demais."
+101Mug="06h"
+
+

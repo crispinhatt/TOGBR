@@ -1,0 +1,172 @@
+[Cast]
+Title="Terminação"
+13="Você, Linda, uma Instrutora de Step-Aeróbica"
+11="James, um Homem Misterioso"
+09="A Tower of Guns"
+
+
+[Chapter1]
+101="O que está acontecendo..onde eu estou?"
+101Mug="13r"
+102="Linda? É você? Consigo te ver pelos sensores de segurança. Você precisa se mexer. Eles vão te encontrar se você ficar parada."
+102Mug="11r"
+103="O que está acontecendo? Quem é você?"
+103Mug="13r"
+104="Isso não importa agora. Os Robôs estão aqui pra te matar. Vem comigo se você quer viver."
+104Mug="11r"
+
+
+[Chapter6]
+101="Bzzt! Linda Smith-pare!"
+101Mug="09r"
+102="Essa é a Tower of Guns, Linda! Confia em mim — Não para ou estamos todos condenados!"
+102Mug="11r"
+
+
+[Chapter30]
+101="Ok, está mais calmo agora, posso explicar as coisas. Meu nome é James e você está na Tower of Guns, uma máquina enviada de volta no tempo pra te encontrar e matar."
+101Mug="11r"
+102="O quê? Quem ia querer me matar? Eu sou só uma instrutora de aeróbica!"
+102Mug="13r"
+103="É uma longa história, mas se a Torre conseguir o que quer, estaremos todos mortos até o anoitecer."
+103Mug="11r"
+104="Bzzzt! Linda! Pare pra que eu possa te matar adequadamente com meus lacaios!"
+104Mug="09r"
+105="Se mexe, Linda!"
+105Mug="11r"
+
+[Chapter40]
+101="Certo, Linda, deixa eu explicar. Essa Torre é a assassina definitiva, enviada de volta no tempo pelos Senhores Robôs."
+101Mug="11r"
+102="O quê?"
+102Mug="13r"
+103="Essa Torre foi enviada de volta no tempo pra te matar. Eu fui enviado de volta no tempo pra te salvar."
+103Mug="11r"
+104="BZT! PARE DE CONTAR MEUS PLANOS PRA ELA! Linda, eu não vou te machucar, só desejo te desintegrar."
+104Mug="09r"
+105="Linda! Vai pro último andar — eu vou te levar pra segurança!"
+105Mug="11r"
+
+
+[Chapter50]
+101="Me explica por que essa Torre me quer morta?"
+101Mug="13r"
+102="Em vinte anos seu filho vai vencer a guerra contra os senhores robôs. Essa Torre foi enviada de volta no tempo pra impedir que isso aconteça."
+102Mug="11r"
+103="E eu fui enviado de volta no tempo pra impedir que essa torre impeça isso de acontecer."
+103Mug="11r"
+104="Então eles mandaram uma torre de batalha gigantesca cheia de milhares de torretas e vocês mandaram um cara só?"
+104Mug="13r"
+105="Nós temos um orçamento bem apertado."
+105Mug="11r"
+
+
+[Chapter60]
+101="Então, eu andei pensando. Se a torre me matar, minha descendência nunca vai começar essa revolução que você mencionou."
+101Mug="13r"
+102="Esse é o plano vil deles!"
+102Mug="11r"
+103="Mas se eles fizerem isso, não vai haver revolução, nem necessidade de mandar alguém de volta. Isso significa que ninguém vai voltar pra me matar e eu vivo."
+103Mug="13r"
+104="Essa coisa toda é um loop sem fim. Nem faz sentido!"
+104Mug="13r"
+105="Não se preocupa, baby, tá tranquilo. Esse tipo de coisa acontece o tempo todo."
+105Mug="11r"
+106="Isso não explicou nada de verdade."
+106Mug="13r"
+
+
+[Chapter65]
+101="Tem mais uma coisa que preciso te contar, Linda."
+101Mug="11r"
+102="Você vai me dizer que é meu pai ou algo assim?"
+102Mug="13r"
+103="Não, mas eu sou seu Tio. E seu Primo em Terceiro Grau. E sua filha. E sua futura contadora. Paradoxos de viagem no tempo são estranhos assim."
+103Mug="11r"
+104="..."
+104Mug="13r"
+105="Bzzzt! Eu consigo ouvir vocês. Parem de conversar e morram logo, mulher!"
+105Mug="09r"
+106="Não escuta esse idiota. Persevera, Linda!"
+106Mug="11r"
+
+[Chapter70]
+101="Então se essa Torre conseguir me matar, a rebelião contra os robôs nunca vai acontecer?"
+101Mug="13r"
+102="Então meu filho é o ÚNICO nos próximos vinte anos a achar que uma rebelião é uma boa ideia?"
+102Mug="13r"
+103="...é...a gente não é exatamente o que você chamaria de 'visionário'."
+103Mug="11r"
+
+
+[Chapter100]
+101="Bzzt! Esse é o fim da linha, Linda. Você, sua potencial descendência, e as raízes da Rebelião de Idaho acabam aqui!"
+101Mug="09r"
+102="Idaho? Eu nunca sequer estive em Idaho. Sou de Albuquerque, Novo México."
+102Mug="13r"
+103="Novo México? BZZT! Você é de Idaho. Você é Linda Smith."
+103Mug="09r"
+104="Sim, mas eu sou a Linda Smith do Novo México. Provavelmente tem umas trinta de nós só no Novo México. É um nome comum."
+104Mug="13r"
+105="...Bzt...Devo ponderar isso.."
+105Mug="09r"
+
+[Chapter120]
+101="Então, estou ficando cansada de lutar. Vocês pegaram a Linda Smith errada ou não?"
+101Mug="13r"
+102="Bzt! Como é possível que mais de uma pessoa se identifique como Linda Smith? O propósito de Identificadores Únicos é que sejam únicos."
+102Mug="09r"
+103="Nessa eu concordo com a Torre. Por que você não é a Linda Smith certa?"
+103Mug="11r"
+104="Por que vocês dois são tão idiotas?"
+104Mug="13r"
+105="Eu sou uma Mentora-Classe 851T equipada com um Determinador de Lógica de Rosca Dodecaedrina e um pré-processador de Algoritmo Heffenstein."
+105Mug="09r"
+106="E eu tirei A em Ciências."
+106Mug="11r"
+107="Bzzt! Não importa. Vou te terminar e depois ir encontrar a Linda correta."
+107Mug="09r"
+
+
+[Chapter150]
+101="Bzzzt. Fico feliz que você não seja a Linda Smoth correta. Talvez a Linda de verdade não consiga derrotar meus chefes assim. Bzzt."
+101Mug="09r"
+102="Sério, se o futuro é cheio de idiotas que nem você, não tenho certeza se quero nem estar lá."
+102Mug="13r"
+103="A culpa não é minha se sua época era tão atrasada."
+103Mug="11r"
+104="Tanto faz. Me leva pra casa antes que eu destrua essa torre inteira. Não pensa que eu não vou. Aí você pode ir perder o tempo de outra Linda!"
+104Mug="13r"
+
+
+[Chapter200]
+101="Bzzt...Você ainda está aqui?"
+101Mug="09r"
+102="É, suponho que tenho que te destruir mesmo assim, já que você só quer fazer maldade."
+102Mug="13r"
+103="Mas você nem é a Linda certa."
+103Mug="09r"
+104="Sei lá que tipo de pessoa aloprada é essa Linda de verdade. Ela podia ser péssima. É melhor eu simplesmente resolver as coisas eu mesma."
+104Mug="13r"
+
+
+[Chapter300]
+101="NÃÃÃO! É exatamente isso que eu não queria que acontecesse ao voltar no tempo pra assassinar a Linda!"
+101Mug="09r"
+
+[Chapter350]
+101="Pronto! Destruí a Torre! Agora posso ir pra casa."
+101Mug="13r"
+102="Legal! Quem diria que qualquer Linda por aí podia derrubar a Torre! Esquece aquela outra Linda, o futuro vai lembrar o seu nome no lugar dela!"
+102Mug="11r"
+103="Uh, valeu.."
+103Mug="13r"
+
+[Chapter900]
+101="Enquanto a Torre e aquele cara estranho te deixam de volta no Novo México, você aproveita pra questionar os dois sobre os próximos vinte anos. Você usa essa informação pra jogar na bolsa de valores e investir cedo na Tower of Guns, Incorporada. Você vive o resto dos seus dias repugnantemente rica."
+101Mug="06h"
+
+[Chapter950]
+101="Apesar de não ser a Linda correta, você mesmo assim destrói a Tower of Guns e salva o futuro. Isso, por sua vez, faz com que a Linda que devia salvar o futuro não precise mais fazer isso, o que acaba destruindo o espaço-tempo como o conhecemos, já que cada átomo da existência é despedaçado pelos buracos no enredo. Bom Trabalho."
+101Mug="06h"
+

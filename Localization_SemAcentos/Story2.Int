@@ -1,0 +1,118 @@
+[Cast]
+01="Voce, um Jogador Bonitao"
+04="Bertrand, o Mordomo da Tower of Guns"
+
+[Chapter1]
+101="Ola. Eu sou o Mordomo da Torre. Estou aqui pra te ajudar nas suas primeiras corridas de ToG."
+101Mug="04r"
+102="Esse jogo tem um mordomo?"
+102Mug="01h"
+103="So o melhor pra voce, meu caro patrono!"
+103Mug="04r"
+
+[Chapter3]
+101="Entao eu atiro nas portas pra abri-las?"
+101Mug="01h"
+102="Como o senhor disser. Eu nunca entendo a logica dos videogames."
+102Mug="04r"
+
+[Chapter4]
+101="Aquelas gemas azuis vao melhorar sua arma."
+101mug="04r"
+102="Nao me diga.."
+102Mug="01h"
+103="Sim. Mas quando voce se machuca, sua arma piora de nivel. Tome cuidado."
+103mug="04r"
+
+[Chapter6]
+101="Rosas sao vermelhas..violetas sao azuis. Conte aos seus amigos sobre a Tower of Guns..pra que o Joe nao precise trabalhar pra uma grande empresa de jogos de novo."
+101mug="04r"
+102="Que rima terrivel!"
+102mug="01h"
+103="Em frente ate a saida, meu caro jogador!"
+103mug="04r"
+
+[Chapter9]
+101="Parece que voce ficou preso ai embaixo."
+101mug="04r"
+102="Como eu saio daqui?"
+102mug="01h"
+103="Para sua conveniencia, tente usar o 'Tilt' pra sair. Por padrao, e o botao 'C'."
+103mug="04r"
+
+
+[Chapter30]
+101="Bem-vindo a Fundicao. Tome cuidado."
+101Mug="04r"
+
+[Chapter40]
+101="Ah, as Engrenagens. Que lugar..agradavel.."
+101Mug="04r"
+
+[Chapter50]
+101="Se ao menos o desenvolvedor parasse de fazer tudo tao apertado e escuro. Talvez as Muralhas oferecam alguma variedade?"
+101Mug="04r"
+
+[Chapter60]
+101="Por favor, limpe os pes. Ha muitas coisas delicadas no andar da Logistica."
+101Mug="04r"
+
+[Chapter70]
+101="O Armazem nao e lugar adequado para um cavalheiro como eu. Voce esta por conta propria."
+101Mug="04r"
+
+[Chapter100]
+101="Este e o Santuario. Voce provavelmente vai morrer aqui."
+101Mug="04r"
+102="Voce nao tem muita fe em mim.."
+102mug="01h"
+103="Nao, e so que essa ainda e uma historia tutorial. O Joe nao esperava que as pessoas chegassem ate aqui sem morrer mais algumas vezes."
+103mug="04r"
+
+[Chapter120]
+101="Adiante esta o Chefe do Santuario. E tudo que tenho a dizer sobre isso."
+101Mug="04r"
+
+[Chapter150]
+101="Bem. Nao sei o que dizer."
+101Mug="04r"
+102="Voce poderia expressar um pouco de gratidao! Eu acabei de arrasar aquele grandalhao malvado."
+102Mug="01h"
+103="Eu quis dizer que simplesmente fiquei sem falas no roteiro."
+103Mug="04r"
+104="Da proxima vez que eu te ver, espero ter um dialogo melhor."
+104Mug="04r"
+105="Voce quer dizer que nem sempre e um mordomo?"
+105Mug="01h"
+106="Depende de quao reaproveitavel e o meu arquivo de textura."
+106Mug="04r"
+
+[Chapter200]
+101="Parece que ha um nivel adicional aqui atras."
+101Mug="01h"
+102="Que coisa inteiramente, completamente, comicamente imprevisivel."
+102Mug="04r"
+
+[Chapter300]
+101="Eu consegui! Derrotei o outro chefe final! Eu nao sou incrivel?"
+101Mug="01h"
+102="Se voce insiste."
+102Mug="04r"
+
+[Chapter350]
+101="Muito bem. Voce venceu. E destruiu a Torre. Na verdade, nao tenho certeza de como isso funcionou."
+101Mug="04r"
+102="A Torre sempre e destruida no final. E assim que os jogos funcionam."
+102Mug="01h"
+103="Como o senhor disser. Obrigado por salvar o dia, eu acho."
+103Mug="04r"
+
+[Chapter900]
+101="Mesmo tendo derrotado a Torre DESTA vez, voce tem uma estranha (e completamente infundada) suspeita de que perdeu uma grande parte do conteudo. Claro, pode ser so a aleatoriedade tipo caca-niqueis do jogo...ou pode ser outra coisa..algo..mais tipo final-secreto-ish. O MUNDO TALVEZ NUNCA SAIBA."
+101Mug="04g"
+
+[Chapter950]
+101="Voce e obviamente um grao-mestre de videogames da mais alta estirpe. Os obstaculos triviais da Tower of Guns oferecem pouco mais que uma distracao passageira. Por que nao direcionar sua energia para tarefas mais desafiadoras? Escreva um romance! Aprenda a fazer um sufle! Entre para uma banda de mariachi! O mundo e uma ostra, e voce, meu amigo majestoso, e o abridor de ostras — o abridor de ostras da vida."
+101Mug="04g"
+
+
