@@ -54,7 +54,7 @@ Escolha **uma** das duas pastas:
 | [`Localization_SemAcentos/`](Localization_SemAcentos/) | **Recomendada.** Falas dos capítulos sem acentuação (`voce`, `nao`, `alem`), evitando as caixinhas vazias. HUD, estatísticas e demais arquivos continuam acentuados. |
 | [`Localization_ComAcentos/`](Localization_ComAcentos/) | Tradução completa acentuada. As falas mostram caixinhas vazias nas letras acentuadas minúsculas. |
 
-Você também pode baixar os `.zip` prontos na seção [Releases](https://github.com/crispinhatt/TowerOfGuns-Traducao-PTBR/releases).
+Você também pode baixar os `.zip` prontos na seção [Releases](https://github.com/crispinhatt/TOGBR/releases).
 
 ### Passo a passo
 
